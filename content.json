@@ -1,10 +1,11 @@
+```json
 {
 	"providerName": "Roku Developers",
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
 	"shortFormVideos": [
 		{
-			"longDescription": "Cian has a big gay",
+			"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -14,7 +15,7 @@
 				"getting-started"
 			],
 			"id": "shortform-roku-streaming-overview",
-			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+			"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"title": "Streaming overview",
 			"content": {
 				"duration": 100,
@@ -30,7 +31,7 @@
 			}
 		},
 		{
-			"longDescription": "Cian has a big gay",
+			"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/roku-overview.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -40,7 +41,7 @@
 				"getting-started"
 			],
 			"id": "shortform-roku-development-overview",
-			"shortDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity",
+			"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"title": "Roku Development Overview",
 			"content": {
 				"duration": 248,
@@ -56,7 +57,7 @@
 			}
 		},
 		{
-			"longDescription": "Cian has a big gay",
+			"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/enable-developer-mode-v1b.png",
 			"releaseDate": "2020-01-17",
 			"genres": [
@@ -66,7 +67,7 @@
 				"getting-started"
 			],
 			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
-			"shortDescription": "Steps for enabling Developer Mode on a Roku device",
+			"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"title": "Enabling Developer Mode",
 			"content": {
 				"duration": 120,
@@ -82,7 +83,7 @@
 			}
 		},
 		{
-			"longDescription": "Cian has a big gay",
+			"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/images/VoiceFeatures.jpg",
 			"releaseDate": "2020-01-17",
 			"genres": [
@@ -92,7 +93,7 @@
 				"feature"
 			],
 			"id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
-			"shortDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
+			"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"title": "Voice Features",
 			"content": {
 				"duration": 98,
@@ -125,7 +126,7 @@
 			"id": "series_1_tips",
 			"title": "Roku Tips & Tricks",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Videos highlighting Roku products and features",
+			"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/tips-tricks.jpg",
 			"genres": [
 				"educational"
@@ -166,9 +167,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/images/HowToListenToMusic.jpg",
-							"shortDescription": "Stream music on your Roku device",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-01-02",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"tips"
 							],
@@ -205,9 +206,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/images/Best_Speaker_Placement.jpg",
-							"shortDescription": "Find the best placement of your Roku audio devices",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-01-02",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"tips"
 							],
@@ -249,9 +250,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/images/GUEST_MODE.jpg",
-							"shortDescription": "Let your guests stream with their own accounts",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2019-12-03",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"tips"
 							],
@@ -288,9 +289,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/images/ROKU_PRIVATE_LISTENING_012219.jpg",
-							"shortDescription": "See the benefits of the Private Listening",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2019-10-15",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"tips"
 							],
@@ -306,7 +307,7 @@
 			"id": "series_2_RSG",
 			"title": "SceneGraph Developers: Build a Channel",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "The \"SceneGraph Developers: Build a Channel\" course teaches novice Roku developers how to develop a channel from the ground up with the Roku SDK. This course walks developers through each step in building a basic, high-performance Roku channel that passes certification. This course is ideal for developers that are new to the Roku platform and want a simple, streamlined path for quickly understanding Roku development.",
+			"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-build-channel-series.jpg",
 			"genres": [
 				"educational"
@@ -335,9 +336,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/video1-intro-course-v2.png",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-05-07",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -362,9 +363,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit2-developerSetup-v4.png",
-							"shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-05-07",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -389,9 +390,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit3-core-concepts.png",
-							"shortDescription": "Review key concepts for developing on the Roku platform.",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-05-07",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -416,9 +417,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit4-content-feed.png",
-							"shortDescription": "Learn how the content feed is used to load and organize content in the channel.",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-07-18",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -443,9 +444,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridScreen.png",
-							"shortDescription": "Build a grid screen that displays rows of content",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-05-07",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -470,9 +471,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit6-videoPlayer-v2a.png",
-							"shortDescription": "Add a video player to launch content into playback",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-05-13",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -502,9 +503,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugging.png",
-							"shortDescription": "Debug Roku channels using the debug console",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-05-13",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -529,9 +530,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen.png",
-							"shortDescription": "Build a details screen that displays the release date, rating, genre, cast, and detailed description of the content selected from the grid screen",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-07-13",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -556,9 +557,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodesScreen.png",
-							"shortDescription": "Build an episodes screen that organizes television series into seasons and episodes.",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-05-29",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -588,9 +589,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads.png",
-							"shortDescription": "Monetize content on the Roku platform through video ads.",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-06-20",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -615,9 +616,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit11-rpay-subscriptions.png",
-							"shortDescription": "Monetize content on your channel by offering subscriptions, directly on-device, through Roku Pay",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-06-27",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -642,9 +643,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png",
-							"shortDescription": "Implement deep linking to get users to content as fast as possible.",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-07-04",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -669,9 +670,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png",
-							"shortDescription": "Implement deep linking to get users to content as fast as possible.",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-07-04",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -696,9 +697,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing.jpg",
-							"shortDescription": "Prepare your channel to be published to the Roku channel store.",
+							"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"releaseDate": "2020-07-16",
-							"longDescription": "Cian has a big gay",
+							"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 							"tags": [
 								"RSG"
 							],
@@ -713,7 +714,7 @@
 	],
 	"movies": [
 		{
-			"longDescription": "Cian has a big gay",
+			"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
@@ -723,7 +724,7 @@
 				"demo"
 			],
 			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
-			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"title": "BrightScript debug protocol",
 			"content": {
 				"duration": 713,
@@ -739,7 +740,7 @@
 			}
 		},
 		{
-			"longDescription": "Cian has a big gay",
+			"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4374be10035077242dde8b7fe272e509ad6e563a_1/images/basicTestReport.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
@@ -749,7 +750,7 @@
 				"demo"
 			],
 			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
-			"shortDescription": "Demonstrates the Roku automated channel testing software.",
+			"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"title": "Automated channel testing",
 			"content": {
 				"duration": 713,
@@ -765,7 +766,7 @@
 			}
 		},
 		{
-			"longDescription": "Cian has a big gay",
+			"longDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
@@ -775,7 +776,7 @@
 				"demo"
 			],
 			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
-			"shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
+			"shortDescription": "Comparison is the thief of joy. It's the very thing that breaks man down into unrecognizable pieces.",
 			"title": "Managing user access",
 			"content": {
 				"duration": 576,
@@ -792,3 +793,4 @@
 		}
 	]
 }
+```
