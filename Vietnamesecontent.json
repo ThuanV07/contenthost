@@ -1,0 +1,1422 @@
+{
+	"providerName": "Roku Developers",
+	"language": "en-US",
+	"lastUpdated": "2020-03-15T02:01:00+02:00",
+	"Videos": [
+		{
+			"longDescription": "This video provides a comprehensive overview of Roku's streaming capabilities and how they function. Learn about the underlying technology and user experience.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "Get a quick look at how Roku streaming works.",
+			"title": "Streaming overview",
+			"content": {
+				"duration": 100,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
+						"quality": "HD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "OKie that thing worked. Will just try to add more",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "Get a quick look at how Roku streaming works.",
+			"title": "Streaming overview",
+			"content": {
+				"duration": 100,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
+						"quality": "HD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Explore the foundational aspects of Roku development, including essential tools and concepts needed to start building your own channels and applications.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-development-overview",
+			"shortDescription": "An introductory guide to Roku development.",
+			"title": "Roku Development Overview",
+			"content": {
+				"duration": 248,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://image.roku.com/ZHZscHIt176/roku-overview.mp4",
+						"quality": "HD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Learn the step-by-step process of enabling Developer Mode on your Roku device, a crucial step for side-loading and testing your applications.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "Guide to activating Developer Mode on Roku.",
+			"title": "Enabling Developer Mode",
+			"content": {
+				"duration": 120,
+				"videos": [
+					{
+						"videoType": "DASH",
+						"url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
+						"quality": "HD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Discover how Roku's voice control features enhance user interaction and accessibility, and how to integrate them into your channel.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"feature"
+			],
+			"id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
+			"shortDescription": "Explore the various voice command functionalities.",
+			"title": "Voice Features",
+			"content": {
+				"duration": 98,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://image.roku.com/ZHZscHIt176/roku-voice-demo-v4.mp4",
+						"quality": "HD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:12Z",
+				"captions": [
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		}
+	],
+	"Lesson(Text Version)": [
+		{
+			"id": "series_1_tips",
+			"title": "Roku Tips & Tricks",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Handy tips and tricks to get the most out of your Roku device.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
+							"title": "How to listen to music",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-03-06T20:25:52Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/61f6f859d30743378290300e99f2f53a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 187,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Discover various ways to enjoy music on your Roku device.",
+							"releaseDate": "2020-01-02",
+							"longDescription": "This episode guides you through different methods and applications available for listening to music directly on your Roku streaming device, enhancing your audio experience.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
+							"title": "Best speaker placement",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-02-04T19:08:55Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/62405a3b6d304bd180626636854f7acd/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 134,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Optimize your audio with proper speaker positioning.",
+							"releaseDate": "2020-01-02",
+							"longDescription": "Get expert advice on where to place your speakers for the best audio quality and immersive sound experience with your Roku setup.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Season 2",
+					"episodes": [
+						{
+							"id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
+							"title": "Guest Mode",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-01-29T02:32:18Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/aed3cf8c357f4ef8b8e267a30ac8f25a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 15,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Learn how to use Guest Mode for temporary access.",
+							"releaseDate": "2019-12-03",
+							"longDescription": "Understand how to enable and manage Guest Mode on your Roku device, allowing visitors to access content without affecting your personal settings or subscriptions.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "shortform-6f2088297f82e02e74e07341fd404750b56e2fbb",
+							"title": "Private Listening",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-03-06T20:43:17Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/f137dd3848ba4bf3b70bb00b90b0eaf7/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 30,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Enjoy content privately with this Roku feature.",
+							"releaseDate": "2019-10-15",
+							"longDescription": "Find out how to use Roku's Private Listening feature, which allows you to listen to TV audio through your headphones, perfect for late-night viewing.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"id": "series_1_tips",
+			"title": "Roku Tips & Tricks",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Handy tips and tricks to get the most out of your Roku device.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
+							"title": "How to listen to music",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-03-06T20:25:52Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/61f6f859d30743378290300e99f2f53a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 187,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Discover various ways to enjoy music on your Roku device.",
+							"releaseDate": "2020-01-02",
+							"longDescription": "This episode guides you through different methods and applications available for listening to music directly on your Roku streaming device, enhancing your audio experience.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
+							"title": "Best speaker placement",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-02-04T19:08:55Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/62405a3b6d304bd180626636854f7acd/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 134,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Optimize your audio with proper speaker positioning.",
+							"releaseDate": "2020-01-02",
+							"longDescription": "Get expert advice on where to place your speakers for the best audio quality and immersive sound experience with your Roku setup.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Season 2",
+					"episodes": [
+						{
+							"id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
+							"title": "Guest Mode",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-01-29T02:32:18Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/aed3cf8c357f4ef8b8e267a30ac8f25a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 15,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Learn how to use Guest Mode for temporary access.",
+							"releaseDate": "2019-12-03",
+							"longDescription": "Understand how to enable and manage Guest Mode on your Roku device, allowing visitors to access content without affecting your personal settings or subscriptions.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "shortform-6f2088297f82e02e74e07341fd404750b56e2fbb",
+							"title": "Private Listening",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-03-06T20:43:17Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/f137dd3848ba4bf3b70bb00b90b0eaf7/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 30,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Enjoy content privately with this Roku feature.",
+							"releaseDate": "2019-10-15",
+							"longDescription": "Find out how to use Roku's Private Listening feature, which allows you to listen to TV audio through your headphones, perfect for late-night viewing.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"id": "series_1_tips",
+			"title": "Roku Tips & Tricks",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Handy tips and tricks to get the most out of your Roku device.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
+							"title": "How to listen to music",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-03-06T20:25:52Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/61f6f859d30743378290300e99f2f53a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 187,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Discover various ways to enjoy music on your Roku device.",
+							"releaseDate": "2020-01-02",
+							"longDescription": "This episode guides you through different methods and applications available for listening to music directly on your Roku streaming device, enhancing your audio experience.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
+							"title": "Best speaker placement",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-02-04T19:08:55Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/62405a3b6d304bd180626636854f7acd/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 134,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Optimize your audio with proper speaker positioning.",
+							"releaseDate": "2020-01-02",
+							"longDescription": "Get expert advice on where to place your speakers for the best audio quality and immersive sound experience with your Roku setup.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Season 2",
+					"episodes": [
+						{
+							"id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
+							"title": "Guest Mode",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-01-29T02:32:18Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/aed3cf8c357f4ef8b8e267a30ac8f25a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 15,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Learn how to use Guest Mode for temporary access.",
+							"releaseDate": "2019-12-03",
+							"longDescription": "Understand how to enable and manage Guest Mode on your Roku device, allowing visitors to access content without affecting your personal settings or subscriptions.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "shortform-6f2088297f82e02e74e07341fd404750b56e2fbb",
+							"title": "Private Listening",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-03-06T20:43:17Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/f137dd3848ba4bf3b70bb00b90b0eaf7/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 30,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Enjoy content privately with this Roku feature.",
+							"releaseDate": "2019-10-15",
+							"longDescription": "Find out how to use Roku's Private Listening feature, which allows you to listen to TV audio through your headphones, perfect for late-night viewing.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"id": "series_1_tips",
+			"title": "Roku Tips & Tricks",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Handy tips and tricks to get the most out of your Roku device.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
+							"title": "How to listen to music",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-03-06T20:25:52Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/61f6f859d30743378290300e99f2f53a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 187,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Discover various ways to enjoy music on your Roku device.",
+							"releaseDate": "2020-01-02",
+							"longDescription": "This episode guides you through different methods and applications available for listening to music directly on your Roku streaming device, enhancing your audio experience.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
+							"title": "Best speaker placement",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-02-04T19:08:55Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/62405a3b6d304bd180626636854f7acd/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 134,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Optimize your audio with proper speaker positioning.",
+							"releaseDate": "2020-01-02",
+							"longDescription": "Get expert advice on where to place your speakers for the best audio quality and immersive sound experience with your Roku setup.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Season 2",
+					"episodes": [
+						{
+							"id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
+							"title": "Guest Mode",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-01-29T02:32:18Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/aed3cf8c357f4ef8b8e267a30ac8f25a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 15,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Learn how to use Guest Mode for temporary access.",
+							"releaseDate": "2019-12-03",
+							"longDescription": "Understand how to enable and manage Guest Mode on your Roku device, allowing visitors to access content without affecting your personal settings or subscriptions.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "shortform-6f2088297f82e02e74e07341fd404750b56e2fbb",
+							"title": "Private Listening",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-03-06T20:43:17Z",
+								"videos": [
+									{
+										"videoType": "HLS",
+										"url": "https://d1n7kckvd41xqg.cloudfront.net/f137dd3848ba4bf3b70bb00b90b0eaf7/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+										"quality": "HD"
+									}
+								],
+								"duration": 30,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Enjoy content privately with this Roku feature.",
+							"releaseDate": "2019-10-15",
+							"longDescription": "Find out how to use Roku's Private Listening feature, which allows you to listen to TV audio through your headphones, perfect for late-night viewing.",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		
+		{
+			"id": "series_2_RSG",
+			"title": "SceneGraph Developers: Build a Channel",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "A comprehensive course on building Roku channels using SceneGraph.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "Introduction to the course",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit1-intro-v3.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "An overview of what you'll learn in this SceneGraph course.",
+							"releaseDate": "2020-05-07",
+							"longDescription": "This introductory video sets the stage for the 'Build a Channel' course, outlining the curriculum and what you can expect to achieve by the end.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "rsg-unit2-developerSetup",
+							"title": "Development setup",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit2-developerSetup-v4.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 431,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Set up your environment for Roku channel development.",
+							"releaseDate": "2020-05-07",
+							"longDescription": "This episode guides you through setting up your development environment, installing necessary tools, and configuring your Roku device for channel creation.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video3-scenegraph-overview",
+							"title": "Core concepts",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit3-sgoverview-v3.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 765,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Understand the fundamental concepts of SceneGraph.",
+							"releaseDate": "2020-05-07",
+							"longDescription": "Dive into the core concepts of Roku SceneGraph, the declarative framework for building high-performance UIs on Roku devices. Essential for all developers.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "rsg-unit4-contentFeed",
+							"title": "Creating the content feed",
+							"episodeNumber": 4,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit4-contentFeed-v3.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 280,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Learn to structure your channel's content data.",
+							"releaseDate": "2020-07-18",
+							"longDescription": "This video explains how to properly create and structure the content feed for your Roku channel, which is crucial for dynamic content display.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video5-grid-screen",
+							"title": "Creating a Grid Screen",
+							"episodeNumber": 5,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit5-gridscreen-v4.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 1899,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Design and implement a visually appealing Grid Screen.",
+							"releaseDate": "2020-05-07",
+							"longDescription": "Learn the process of creating a Grid Screen using SceneGraph, a common UI component for displaying content in a structured grid layout within your channel.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video6-video-player",
+							"title": "Adding the Video Player",
+							"episodeNumber": 6,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit6-videoplayer-v3.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 819,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Integrate a functional video player into your channel.",
+							"releaseDate": "2020-05-13",
+							"longDescription": "This episode covers the steps to successfully add and configure a video player within your Roku channel, enabling smooth content playback for users.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Season 2",
+					"episodes": [
+						{
+							"id": "video7-debugger",
+							"title": "Debugging channels",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-16T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit7-debugger-v3.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 381,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Master the tools for debugging your Roku channels.",
+							"releaseDate": "2020-05-13",
+							"longDescription": "A detailed guide on using debugging tools and techniques to identify and fix issues within your Roku channels, ensuring a robust user experience.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video8-detailsScreen",
+							"title": "Creating a Details Screen",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-05-22T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit8-details-screen-v3.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 1251,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Build a screen to display detailed content information.",
+							"releaseDate": "2020-07-13",
+							"longDescription": "Learn how to design and implement a Details Screen in your Roku channel to showcase in-depth information about selected content, like descriptions and cast details.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video9-episodesScreen",
+							"title": "Creating an Episodes Screen",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2020-05-29T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit9-episodePicker-v3.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 2188,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Develop a screen for Browse and selecting episodes.",
+							"releaseDate": "2020-05-29",
+							"longDescription": "This video teaches you how to create an Episodes Screen, allowing users to easily navigate and select individual episodes within a series in your Roku channel.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Season 3",
+					"episodes": [
+						{
+							"id": "video10-videoAds",
+							"title": "Displaying Video Ads",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-06-20T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit10-video-ads-part3.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 1380,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Learn to integrate video advertisements into your channel.",
+							"releaseDate": "2020-06-20",
+							"longDescription": "This episode focuses on the implementation of video ads within your Roku channel, covering different ad formats and integration methods to monetize your content.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video11-subscriptions",
+							"title": "Offering Subscriptions",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-06-27T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit11-subscriptions-v3.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 1561,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Implement subscription models for your Roku channel.",
+							"releaseDate": "2020-06-27",
+							"longDescription": "Discover how to offer and manage subscriptions within your Roku channel, providing exclusive content or ad-free experiences to your users.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video12-deep-linking-part1",
+							"title": "Deep Linking (part 1)",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2020-07-10T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit12-deep-linking-v3-part1.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 2481,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "A deep dive into implementing deep linking, part 1.",
+							"releaseDate": "2020-07-04",
+							"longDescription": "This first part of the Deep Linking series explains how to enable direct navigation to specific content within your Roku channel, enhancing user experience.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video12-deep-linking-part2",
+							"title": "Deep Linking (part 2)",
+							"episodeNumber": 4,
+							"content": {
+								"dateAdded": "2020-07-10T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit12-deep-linking-v3-part2.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 1567,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Continuing with advanced deep linking techniques, part 2.",
+							"releaseDate": "2020-07-04",
+							"longDescription": "The second part of the Deep Linking series covers more advanced scenarios and best practices for implementing robust deep linking within your Roku channel.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video13-certification-testing",
+							"title": "Certification Testing",
+							"episodeNumber": 5,
+							"content": {
+								"dateAdded": "2020-07-16T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit13-cert-testing-v3.mp4",
+										"quality": "HD"
+									}
+								],
+								"duration": 848,
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+							"shortDescription": "Prepare your channel for Roku's certification process.",
+							"releaseDate": "2020-07-16",
+							"longDescription": "Understand the requirements and procedures for Roku channel certification, ensuring your channel meets all standards for publication on the Roku Channel Store.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"Quizzes": [
+		{
+			"longDescription": "An in-depth explanation of the BrightScript debug protocol, essential for advanced troubleshooting of Roku applications.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Understanding BrightScript debugging for Roku.",
+			"title": "BrightScript debug protocol",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://image.roku.com/ZHZscHIt176/roku-brightscript-debug-protocol.mp4",
+						"quality": "HD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+
+		 {
+		      "longDescription": "An in-depth explanation of the BrightScript debug protocol, essential for advanced troubleshooting of Roku applications.",
+		      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+		      "releaseDate": "2020-01-20",
+		      "genres": [
+		        "educational"
+		      ],
+		      "tags": [
+		        "demo"
+		      ],
+		      "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+		      "shortDescription": "Understanding BrightScript debugging for Roku.",
+		      "title": "BrightScript debug protocol",
+		      "content": {
+		        "duration": 713,
+		        "videos": [
+		          {
+		            "videoType": "MP4",
+		            "url": "https://image.roku.com/ZHZscHIt176/roku-brightscript-debug-protocol.mp4",
+		            "quality": "HD"
+		          }
+		        ],
+		        "language": "en-us",
+		        "dateAdded": "2020-01-29T02:39:11Z"
+		      }
+		    },
+
+		 {
+		      "longDescription": "An in-depth explanation of the BrightScript debug protocol, essential for advanced troubleshooting of Roku applications.",
+		      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+		      "releaseDate": "2020-01-20",
+		      "genres": [
+		        "educational"
+		      ],
+		      "tags": [
+		        "demo"
+		      ],
+		      "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+		      "shortDescription": "Understanding BrightScript debugging for Roku.",
+		      "title": "BrightScript debug protocol",
+		      "content": {
+		        "duration": 713,
+		        "videos": [
+		          {
+		            "videoType": "MP4",
+		            "url": "https://image.roku.com/ZHZscHIt176/roku-brightscript-debug-protocol.mp4",
+		            "quality": "HD"
+		          }
+		        ],
+		        "language": "en-us",
+		        "dateAdded": "2020-01-29T02:39:11Z"
+		      }
+		    },		
+		
+		{
+			"longDescription": "Discover how to automate the testing process for your Roku channels, improving efficiency and reliability in development.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
+			"shortDescription": "Automate testing for your Roku channels.",
+			"title": "Automated channel testing",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "https://ovp-selector.sr.roku.com/v1/f73763a9-8105-4b78-90e0-381ea0d0128b?format=hls",
+						"quality": "HD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:10Z"
+			}
+		},
+		{
+			"longDescription": "Learn best practices for managing user access and permissions within your Roku channel ecosystem, ensuring security and control.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
+			"shortDescription": "Manage user access and permissions effectively.",
+			"title": "Managing user access",
+			"content": {
+				"duration": 576,
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "https://ovp-selector.sr.roku.com/v1/0c18bf4e-b295-437c-badb-3a171a1b52aa?format=hls",
+						"quality": "HD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		}
+	]
+}
