@@ -2,7 +2,7 @@
 	"providerName": "Roku Developers",
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
-	"Videos": [
+	"Lessons": [
 		{
 			"longDescription": "This video provides a comprehensive overview of Roku's streaming capabilities and how they function. Learn about the underlying technology and user experience.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
