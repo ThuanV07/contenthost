@@ -30,6 +30,32 @@
 			}
 		},
 		{
+			"longDescription": "This video provides a comprehensive overview of Roku's streaming capabilities and how they function. Learn about the underlying technology and user experience.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "Get a quick look at how Roku streaming works.",
+			"title": "Streaming overview",
+			"content": {
+				"duration": 100,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
+						"quality": "HD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		},
+		{
 			"longDescription": "Explore the foundational aspects of Roku development, including essential tools and concepts needed to start building your own channels and applications.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
 			"releaseDate": "2020-01-15",
