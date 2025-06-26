@@ -2,7 +2,7 @@
 	"providerName": "Roku Developers",
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
-	"Lessons(text version)": [
+	"Quizzes": [
 		{
 			"longDescription": "This video provides a comprehensive overview of Roku's streaming capabilities and how they function. Learn about the underlying technology and user experience.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
@@ -146,7 +146,7 @@
 			}
 		}
 	],
-	"series": [
+	"Videos": [
 		{
 			"id": "series_1_tips",
 			"title": "Roku Tips & Tricks",
@@ -737,7 +737,7 @@
 			]
 		}
 	],
-	"quizzes": [
+	"Lesson(Text Version)": [
 		{
 			"longDescription": "An in-depth explanation of the BrightScript debug protocol, essential for advanced troubleshooting of Roku applications.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
@@ -764,6 +764,61 @@
 				"dateAdded": "2020-01-29T02:39:11Z"
 			}
 		},
+
+		 {
+		      "longDescription": "An in-depth explanation of the BrightScript debug protocol, essential for advanced troubleshooting of Roku applications.",
+		      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+		      "releaseDate": "2020-01-20",
+		      "genres": [
+		        "educational"
+		      ],
+		      "tags": [
+		        "demo"
+		      ],
+		      "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+		      "shortDescription": "Understanding BrightScript debugging for Roku.",
+		      "title": "BrightScript debug protocol",
+		      "content": {
+		        "duration": 713,
+		        "videos": [
+		          {
+		            "videoType": "MP4",
+		            "url": "https://image.roku.com/ZHZscHIt176/roku-brightscript-debug-protocol.mp4",
+		            "quality": "HD"
+		          }
+		        ],
+		        "language": "en-us",
+		        "dateAdded": "2020-01-29T02:39:11Z"
+		      }
+		    },
+
+		 {
+		      "longDescription": "An in-depth explanation of the BrightScript debug protocol, essential for advanced troubleshooting of Roku applications.",
+		      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+		      "releaseDate": "2020-01-20",
+		      "genres": [
+		        "educational"
+		      ],
+		      "tags": [
+		        "demo"
+		      ],
+		      "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+		      "shortDescription": "Understanding BrightScript debugging for Roku.",
+		      "title": "BrightScript debug protocol",
+		      "content": {
+		        "duration": 713,
+		        "videos": [
+		          {
+		            "videoType": "MP4",
+		            "url": "https://image.roku.com/ZHZscHIt176/roku-brightscript-debug-protocol.mp4",
+		            "quality": "HD"
+		          }
+		        ],
+		        "language": "en-us",
+		        "dateAdded": "2020-01-29T02:39:11Z"
+		      }
+		    },		
+		
 		{
 			"longDescription": "Discover how to automate the testing process for your Roku channels, improving efficiency and reliability in development.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
