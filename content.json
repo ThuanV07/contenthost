@@ -2,10 +2,11 @@
 	"providerName": "Roku Developers",
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
+{
 	"Videos": [
 		{
 			"longDescription": "This video goes over the basics of the Spanish alphabet and pronunciation",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/25.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"educational"
@@ -31,7 +32,7 @@
 		},
 		{
 			"longDescription": "This video will go over the countries that speak spanish.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/28.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"educational"
@@ -57,7 +58,7 @@
 		},
 		{
 			"longDescription": "This video will go over basic spanish conjugation of verbs",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/31.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"educational"
@@ -83,7 +84,7 @@
 		},
 		{
 			"longDescription": "This video will go over food and verbs related to it.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/34.png",
 			"releaseDate": "2020-01-17",
 			"genres": [
 				"educational"
@@ -109,7 +110,7 @@
 		},
 		{
 			"longDescription": "This video will go over things around the house and verbs related ",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/37.png",
 			"releaseDate": "2020-01-17",
 			"genres": [
 				"educational"
