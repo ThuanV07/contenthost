@@ -146,78 +146,80 @@
 			}
 		}
 	],
-	"Lesson(Test Versiomn)":[
-	{
-		"id": "series_1_tips",
-		"title": "Roku Tips & Tricks",
-		"releaseDate": "2020-03-15T02:01:00+02:00",
-		"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
-		"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/26.png",
-		"genres": [
-			"educational"
-		],
-		"tags": [
-			"tips"
-		],
-		"seasons": []
-	},
-	{
-		"id": "series_1_tips",
-		"title": "Roku Tips & Tricks",
-		"releaseDate": "2020-03-15T02:01:00+02:00",
-		"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
-		"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/29.png",
-		"genres": [
-			"educational"
-		],
-		"tags": [
-			"tips"
-		],
-		"seasons": []
-	},
-	{
-		"id": "series_1_tips",
-		"title": "Roku Tips & Tricks",
-		"releaseDate": "2020-03-15T02:01:00+02:00",
-		"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
-		"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/32.png",
-		"genres": [
-			"educational"
-		],
-		"tags": [
-			"tips"
-		],
-		"seasons": []
-	},
-	{
-		"id": "series_1_tips",
-		"title": "Roku Tips & Tricks",
-		"releaseDate": "2020-03-15T02:01:00+02:00",
-		"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
-		"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/35.png",
-		"genres": [
-			"educational"
-		],
-		"tags": [
-			"tips"
-		],
-		"seasons": []
-	},
-	{
-		"id": "series_1_tips",
-		"title": "Roku Tips & Tricks",
-		"releaseDate": "2020-03-15T02:01:00+02:00",
-		"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
-		"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/38.png",
-		"genres": [
-			"educational"
-		],
-		"tags": [
-			"tips"
-		],
-		"seasons": []
-	}
-],
+{
+	"Lesson(Test Version)": [
+		{
+			"id": "series_1_tips",
+			"title": "Roku Tips & Tricks",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/26.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": []
+		},
+		{
+			"id": "series_1_tips",
+			"title": "Roku Tips & Tricks",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over the countries that speak spanish.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/29.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": []
+		},
+		{
+			"id": "series_1_tips",
+			"title": "Roku Tips & Tricks",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This video will go over conjugation of basic verbs.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/32.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": []
+		},
+		{
+			"id": "series_1_tips",
+			"title": "Roku Tips & Tricks",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over food and things related to it.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/35.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": []
+		},
+		{
+			"id": "series_1_tips",
+			"title": "Roku Tips & Tricks",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over things around the house and verbs related to it.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/38.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": []
+		}
+	]
+}
 	"Quizzes": [
 		{
 			"longDescription": "Test your knowledge on the basics of the Spanish alphabet",
