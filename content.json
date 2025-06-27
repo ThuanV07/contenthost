@@ -4,7 +4,7 @@
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
 	"Videos": [
 		{
-			"longDescription": "This video provides a comprehensive overview of Roku's streaming capabilities and how they function. Learn about the underlying technology and user experience.",
+			"longDescription": "This video goes over the basics of the Spanish alphabet and pronunciation",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -30,7 +30,7 @@
 			}
 		},
 		{
-			"longDescription": "OKie that thing worked. Will just try to add more",
+			"longDescription": "This video will go over the countries that speak spanish.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -56,7 +56,7 @@
 			}
 		},
 		{
-			"longDescription": "Explore the foundational aspects of Roku development, including essential tools and concepts needed to start building your own channels and applications.",
+			"longDescription": "This video will go over basic spanish conjugation of verbs",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -82,7 +82,7 @@
 			}
 		},
 		{
-			"longDescription": "Learn the step-by-step process of enabling Developer Mode on your Roku device, a crucial step for side-loading and testing your applications.",
+			"longDescription": "This video will go over food and verbs related to it.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
 			"releaseDate": "2020-01-17",
 			"genres": [
@@ -108,7 +108,7 @@
 			}
 		},
 		{
-			"longDescription": "Discover how Roku's voice control features enhance user interaction and accessibility, and how to integrate them into your channel.",
+			"longDescription": "This video will go over things around the house and verbs related ",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
 			"releaseDate": "2020-01-17",
 			"genres": [
@@ -151,7 +151,7 @@
 			"id": "series_1_tips",
 			"title": "Roku Tips & Tricks",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Handy tips and tricks to get the most out of your Roku device.",
+			"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
 			"genres": [
 				"educational"
@@ -333,7 +333,7 @@
 			"id": "series_1_tips",
 			"title": "Roku Tips & Tricks",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Handy tips and tricks to get the most out of your Roku device.",
+			"shortDescription": "This lesson will go over the countries that speak spanish.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
 			"genres": [
 				"educational"
@@ -515,7 +515,7 @@
 			"id": "series_1_tips",
 			"title": "Roku Tips & Tricks",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Handy tips and tricks to get the most out of your Roku device.",
+			"shortDescription": "This video will go over conjugation of basic verbs.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
 			"genres": [
 				"educational"
@@ -697,7 +697,7 @@
 			"id": "series_1_tips",
 			"title": "Roku Tips & Tricks",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Handy tips and tricks to get the most out of your Roku device.",
+			"shortDescription": "This lesson will go over food and things related to it.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
 			"genres": [
 				"educational"
@@ -877,7 +877,7 @@
 		
 		{
 			"id": "series_2_RSG",
-			"title": "SceneGraph Developers: Build a Channel",
+			"title": "This video will go over things around the house and verbs related to it.",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "A comprehensive course on building Roku channels using SceneGraph.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
