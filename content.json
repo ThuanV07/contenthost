@@ -145,7 +145,8 @@
 				]
 			}
 		}
-	],
+	]
+},
 {
 	"Lesson(Test Version)": [
 		{
@@ -162,6 +163,7 @@
 			],
 			"seasons": []
 		},
+		
 		{
 			"id": "series_1_tips",
 			"title": "Roku Tips & Tricks",
@@ -176,6 +178,7 @@
 			],
 			"seasons": []
 		},
+		
 		{
 			"id": "series_1_tips",
 			"title": "Roku Tips & Tricks",
@@ -190,6 +193,7 @@
 			],
 			"seasons": []
 		},
+		
 		{
 			"id": "series_1_tips",
 			"title": "Roku Tips & Tricks",
@@ -204,6 +208,7 @@
 			],
 			"seasons": []
 		},
+		
 		{
 			"id": "series_1_tips",
 			"title": "Roku Tips & Tricks",
