@@ -356,28 +356,7 @@
 			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
 			"shortDescription": "Manage user access and permissions effectively.",
 			"title": "Managing user access",
-			"content": {
-				"question1": {
-					 "title:" "Which one means 'I'?", 
-					 "options": ["Yo", "En", "es", "en"], 
-					 "answer": "Yo", 
-					 "answered": false},
-						},
-				"question2": { 
-					"title" "Which one means 'am'?", 
-					"options": ["Yo", "En", "soy", "es"], 
-					"answer": "soy", 
-					"answered": false 
-						},
-    				 "question3": {
-					"title": "Which one means 'is'?", 
-					 "options": ["Yo", "En", "soy", "es"], 
-					 "answer": "es",
-					 "answered": false 
-				 		}
-	
-
-			}
+			
 		}
 	]
 
