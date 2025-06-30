@@ -247,19 +247,8 @@
 			],
 			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
 			"shortDescription": "Understanding BrightScript debugging for Roku.",
-			"title": "BrightScript debug protocol",
-			"content": {
-				"duration": 713,
-				"videos": [
-					{
-						"videoType": "MP4",
-						"url": "https://image.roku.com/ZHZscHIt176/roku-brightscript-debug-protocol.mp4",
-						"quality": "HD"
-					}
-				],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
+			"title": "BrightScript debug protocol"
+
 		},
 
 		 {
@@ -274,19 +263,8 @@
 		      ],
 		      "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
 		      "shortDescription": "Understanding BrightScript debugging for Roku.",
-		      "title": "BrightScript debug protocol",
-		      "content": {
-		        "duration": 713,
-		        "videos": [
-		          {
-		            "videoType": "MP4",
-		            "url": "https://image.roku.com/ZHZscHIt176/roku-brightscript-debug-protocol.mp4",
-		            "quality": "HD"
-		          }
-		        ],
-		        "language": "en-us",
-		        "dateAdded": "2020-01-29T02:39:11Z"
-		      }
+		      "title": "BrightScript debug protocol"
+
 		    },
 
 		 {
@@ -301,19 +279,8 @@
 		      ],
 		      "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
 		      "shortDescription": "Understanding BrightScript debugging for Roku.",
-		      "title": "BrightScript debug protocol",
-		      "content": {
-		        "duration": 713,
-		        "videos": [
-		          {
-		            "videoType": "MP4",
-		            "url": "https://image.roku.com/ZHZscHIt176/roku-brightscript-debug-protocol.mp4",
-		            "quality": "HD"
-		          }
-		        ],
-		        "language": "en-us",
-		        "dateAdded": "2020-01-29T02:39:11Z"
-		      }
+		      "title": "BrightScript debug protocol"
+
 		    },		
 		
 		{
@@ -328,19 +295,8 @@
 			],
 			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
 			"shortDescription": "Automate testing for your Roku channels.",
-			"title": "Automated channel testing",
-			"content": {
-				"duration": 713,
-				"videos": [
-					{
-						"videoType": "HLS",
-						"url": "https://ovp-selector.sr.roku.com/v1/f73763a9-8105-4b78-90e0-381ea0d0128b?format=hls",
-						"quality": "HD"
-					}
-				],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:10Z"
-			}
+			"title": "Automated channel testing"
+
 		},
 		{
 			"longDescription": "Test your knowledge about things around the house and related verbs",
@@ -354,19 +310,8 @@
 			],
 			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
 			"shortDescription": "Manage user access and permissions effectively.",
-			"title": "Managing user access",
-			"content": {
-				"duration": 576,
-				"videos": [
-					{
-						"videoType": "HLS",
-						"url": "https://ovp-selector.sr.roku.com/v1/0c18bf4e-b295-437c-badb-3a171a1b52aa?format=hls",
-						"quality": "HD"
-					}
-				],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
+			"title": "Managing user access"
+
 		}
 	]
 }
