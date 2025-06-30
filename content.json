@@ -278,7 +278,15 @@
 			"id": "quiz-basic-verb-conjugations",
 			"shortDescription": "Understanding BrightScript debugging for Roku.",
 			"title": "Basic Verb Conjugations Quiz",
-			"quizinfo": []
+			"quizinfo": [
+				{ "question": "What is the verb conjugation for 'I' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "o", "answered": false },
+    				{ "question": "What is the verb conjugation for 'you' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "as", "answered": false },
+			    	{ "question": "What is the verb conjugation for 'he' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "a", "answered": false },
+			    	{ "question": "What is the verb conjugation for 'we' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "amos", "answered": false },
+			    	{ "question": "What is the verb conjugation for 'you' with ER/IR verbs?", "options": ["es", "an", "imos", "en"], "answer": "es", "answered": false },
+			    	{ "question": "What is the verb conjugation for 'them' with ER/IR verbs?", "options": ["e", "an", "imos", "en"], "answer": "en", "answered": false },
+			    	{ "question": "What is the verb conjugation for 'he' with ER/IR verbs?", "options": ["e", "an", "imos", "en"], "answer": "e", "answered": false }
+			]
 		},		
 		{
 			"longDescription": "Test your knowledge on different foods and related verbs",
@@ -293,7 +301,17 @@
 			"id": "quiz-food-verbs",
 			"shortDescription": "Automate testing for your Roku channels.",
 			"title": "Food and Related Verbs Quiz",
-			"quizinfo": []
+			"quizinfo": [
+			 	{ "question": "How do you say 'to eat' in Spanish?", "options": ["comer", "beber", "tener", "ir"], "answer": "comer", "answered": false },
+			    	{ "question": "How do you say 'to drink' in Spanish?", "options": ["comer", "beber", "tener", "ir"], "answer": "beber", "answered": false },
+			    	{ "question": "How do you say 'milk' in Spanish?", "options": ["leche", "agua", "hamburguesa", "manzanas"], "answer": "leche", "answered": false },
+			    	{ "question": "How do you say 'water' in Spanish?", "options": ["leche", "agua", "hamburguesa", "manzanas"], "answer": "agua", "answered": false },
+			    	{ "question": "How do you say 'apple' in Spanish?", "options": ["leche", "agua", "hamburguesa", "manzanas"], "answer": "manzanas", "answered": false },
+			    	{ "question": "How do you say 'hamburguesa' in English?", "options": ["milk", "water", "hamburger", "apple"], "answer": "hamburger", "answered": false },
+			    	{ "question": "How do you say 'agua' in English?", "options": ["milk", "water", "hamburger", "apple"], "answer": "water", "answered": false }
+
+				
+			]
 		},
 		{
 			"longDescription": "Test your knowledge about things around the house and related verbs",
@@ -308,7 +326,17 @@
 			"id": "quiz-house-verbs",
 			"shortDescription": "Manage user access and permissions effectively.",
 			"title": "House and Related Verbs Quiz",
-			"quizinfo": []
+			"quizinfo": [
+				{ "question": "How do you say 'to clean' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "limpiar", "answered": false },
+				{ "question": "How do you say 'to open' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "abrir", "answered": false },
+				{ "question": "How do you say 'to wash' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "lavar", "answered": false },
+				{ "question": "How do you say 'to watch' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "mirar", "answered": false },
+				{ "question": "How do you say 'door' in Spanish?", "options": ["puerta", "platos", "peliculas", "cama"], "answer": "puerta", "answered": false },
+				{ "question": "How do you say 'plates' in Spanish?", "options": ["puerta", "platos", "peliculas", "cama"], "answer": "platos", "answered": false },
+				{ "question": "How do you say 'bed' in Spanish?", "options": ["puerta", "platos", "peliculas", "cama"], "answer": "cama", "answered": false }
+
+				
+			]
 		}
 	]
 }
