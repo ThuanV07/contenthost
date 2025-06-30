@@ -357,23 +357,24 @@
 			"shortDescription": "Manage user access and permissions effectively.",
 			"title": "Managing user access",
 			"content": {
-				"question": {
+				"question1": {
 					 "title:" "Which one means 'I'?", 
 					 "options": ["Yo", "En", "es", "en"], 
 					 "answer": "Yo", 
 					 "answered": false},
-			},
-				"question": { 
+						},
+				"question2": { 
 					"title" "Which one means 'am'?", 
 					"options": ["Yo", "En", "soy", "es"], 
 					"answer": "soy", 
-					"answered": false },
-			
-    				 "question": {
+					"answered": false 
+						},
+    				 "question3": {
 					"title": "Which one means 'is'?", 
 					 "options": ["Yo", "En", "soy", "es"], 
 					 "answer": "es",
-					 "answered": false }
+					 "answered": false 
+				 		}
 	
 
 			}
