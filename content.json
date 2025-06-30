@@ -13,9 +13,9 @@
 			"tags": [
 				"getting-started"
 			],
-			"id": "shortform-roku-streaming-overview",
+			"id": "video-spanish-alphabet-pronunciation",
 			"shortDescription": "Get a quick look at how Roku streaming works.",
-			"title": "Streaming overview",
+			"title": "Spanish Alphabet & Pronunciation",
 			"content": {
 				"duration": 100,
 				"videos": [
@@ -39,9 +39,9 @@
 			"tags": [
 				"getting-started"
 			],
-			"id": "shortform-roku-streaming-overview",
+			"id": "video-spanish-speaking-countries",
 			"shortDescription": "Get a quick look at how Roku streaming works.",
-			"title": "Streaming overview",
+			"title": "Spanish Speaking Countries",
 			"content": {
 				"duration": 100,
 				"videos": [
@@ -65,9 +65,9 @@
 			"tags": [
 				"getting-started"
 			],
-			"id": "shortform-roku-development-overview",
+			"id": "video-spanish-verb-conjugation",
 			"shortDescription": "An introductory guide to Roku development.",
-			"title": "Roku Development Overview",
+			"title": "Basic Spanish Verb Conjugation",
 			"content": {
 				"duration": 248,
 				"videos": [
@@ -91,9 +91,9 @@
 			"tags": [
 				"getting-started"
 			],
-			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"id": "video-spanish-food-verbs",
 			"shortDescription": "Guide to activating Developer Mode on Roku.",
-			"title": "Enabling Developer Mode",
+			"title": "Spanish Food & Verbs",
 			"content": {
 				"duration": 120,
 				"videos": [
@@ -117,9 +117,9 @@
 			"tags": [
 				"feature"
 			],
-			"id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
+			"id": "video-spanish-house-verbs",
 			"shortDescription": "Explore the various voice command functionalities.",
-			"title": "Voice Features",
+			"title": "Spanish House & Verbs",
 			"content": {
 				"duration": 98,
 				"videos": [
@@ -148,8 +148,8 @@
 	],
 	"Lesson(Text Version)": [
 		{
-			"id": "series_1_tips",
-			"title": "Roku Tips & Tricks",
+			"id": "lesson-spanish-alphabet-text",
+			"title": "Spanish Alphabet Basics",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/26.png",
@@ -159,15 +159,11 @@
 			"tags": [
 				"tips"
 			],
-			"seasons": [
-				
-				
-			]
+			"seasons": []
 		},
-
 		{
-			"id": "series_1_tips",
-			"title": "Roku Tips & Tricks",
+			"id": "lesson-spanish-countries-text",
+			"title": "Spanish Speaking Countries Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "This lesson will go over the countries that speak spanish.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/29.png",
@@ -177,14 +173,11 @@
 			"tags": [
 				"tips"
 			],
-			"seasons": [
-				
-			]
+			"seasons": []
 		},
-
 		{
-			"id": "series_1_tips",
-			"title": "Roku Tips & Tricks",
+			"id": "lesson-basic-verb-conjugation-text",
+			"title": "Basic Spanish Verb Conjugation Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "This video will go over conjugation of basic verbs.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/32.png",
@@ -194,14 +187,11 @@
 			"tags": [
 				"tips"
 			],
-			"seasons": [
-				
-			]
+			"seasons": []
 		},
-
 		{
-			"id": "series_1_tips",
-			"title": "Roku Tips & Tricks",
+			"id": "lesson-food-related-text",
+			"title": "Spanish Food and Related Verbs Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "This lesson will go over food and things related to it.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/35.png",
@@ -211,14 +201,11 @@
 			"tags": [
 				"tips"
 			],
-			"seasons": [
-				
-			]
+			"seasons": []
 		},
-		
 		{
-			"id": "series_2_RSG",
-			"title": "This lesson will go over things around the house and verbs related to it.",
+			"id": "lesson-house-related-text",
+			"title": "Spanish House Items and Related Verbs Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "A comprehensive course on building Roku channels using SceneGraph.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/38.png",
@@ -228,10 +215,7 @@
 			"tags": [
 				"RSG"
 			],
-			"seasons": [
-				
-				
-			]
+			"seasons": []
 		}
 	],
 	"Quizzes": [
@@ -245,50 +229,57 @@
 			"tags": [
 				"demo"
 			],
-			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"id": "quiz-spanish-alphabet",
 			"shortDescription": "Understanding BrightScript debugging for Roku.",
-			"title": "BrightScript debug protocol",
-			"ff": "ffffff"
-
-
+			"title": "Spanish Alphabet Quiz",
+			"quizinfo": [
+				{ "question": "Which one means 'I'?", "options": ["Yo", "En", "es", "en"], "answer": "Yo", "answered": false},
+				{ "question": "Which one means 'am'?", "options": ["Yo", "En", "soy", "es"], "answer": "soy", "answered": false },
+				{ "question": "Which one means 'is'?", "options": ["Yo", "En", "soy", "es"], "answer": "es", "answered": false },
+				{ "question": "Which one means 'in'?", "options": ["Yo", "En", "soy", "es"], "answer": "En", "answered": false },
+				{ "question": "Which one means 'Spanish'?", "options": ["el", "Espanol", "ella", "yo"], "answer": "Espanol", "answered": false },
+				{ "question": "Which one means 'he'?", "options": ["el", "Espanol", "ella", "yo"], "answer": "el", "answered": false },
+				{ "question": "Which one means 'she'?", "options": ["el", "Espanol", "ella", "yo"], "answer": "ella", "answered": false }
+			]
 		},
-
-		 {
-		      "longDescription": "Test your knowledge on the different spanish speaking countries",
-		      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/30.png",
-		      "releaseDate": "2020-01-20",
-		      "genres": [
-		        "educational"
-		      ],
-		      "tags": [
-		        "demo"
-		      ],
-		      "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
-		      "shortDescription": "Understanding BrightScript debugging for Roku.",
-		      "title": "BrightScript debug protocol",
-			"ff": "ffffff"
-
-
-		    },
-
-		 {
-		      "longDescription": "Test your knowledge on the basic verb conjugations.",
-		      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/33.png",
-		      "releaseDate": "2020-01-20",
-		      "genres": [
-		        "educational"
-		      ],
-		      "tags": [
-		        "demo"
-		      ],
-		      "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
-		      "shortDescription": "Understanding BrightScript debugging for Roku.",
-		      "title": "BrightScript debug protocol",
-			 "ff": "ffffff"
-
-
-		    },		
-		
+		{
+			"longDescription": "Test your knowledge on the different spanish speaking countries",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/30.png",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "quiz-spanish-countries",
+			"shortDescription": "Understanding BrightScript debugging for Roku.",
+			"title": "Spanish Speaking Countries Quiz",
+			"quizinfo": [
+				{ "question": "Which country speaks Spanish?", "options": ["Portugal", "Mexico", "China", "Japan"], "answer": "Mexico", "answered": false },
+				{ "question": "Which country speaks Spanish?", "options": ["Spain", "Brazil", "India", "France"], "answer": "Spain", "answered": false },
+				{ "question": "Which country speaks Spanish?", "options": ["Venezuela", "Vietnam", "Russia", "Nigeria"], "answer": "Venezuela", "answered": false },
+				{ "question": "Which country doesn’t speak Spanish?", "options": ["Mexico", "Portugal", "Venezuela", "Spain"], "answer": "Portugal", "answered": false },
+				{ "question": "Which country doesn’t speak Spanish?", "options": ["Columbia", "El Salvador", "Equatorial Guinea", "Sweden"], "answer": "Sweden", "answered": false },
+				{ "question": "Which country doesn’t speak Spanish?", "options": ["Nicaragua", "Argentina", "Panama", "Singapore"], "answer": "Singapore", "answered": false },
+				{ "question": "Which is the only African country that speaks Spanish?", "options": ["Equatorial Guinea", "Madagascar", "Egypt", "Chad"], "answer": "Equatorial Guinea" }
+			]
+		},
+		{
+			"longDescription": "Test your knowledge on the basic verb conjugations.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/33.png",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "quiz-basic-verb-conjugations",
+			"shortDescription": "Understanding BrightScript debugging for Roku.",
+			"title": "Basic Verb Conjugations Quiz",
+			"quizinfo": []
+		},		
 		{
 			"longDescription": "Test your knowledge on different foods and related verbs",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/36.png",
@@ -299,12 +290,10 @@
 			"tags": [
 				"demo"
 			],
-			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
+			"id": "quiz-food-verbs",
 			"shortDescription": "Automate testing for your Roku channels.",
-			"title": "Automated channel testing",
-			"ff": "ffffff"
-
-
+			"title": "Food and Related Verbs Quiz",
+			"quizinfo": []
 		},
 		{
 			"longDescription": "Test your knowledge about things around the house and related verbs",
@@ -316,14 +305,10 @@
 			"tags": [
 				"demo"
 			],
-			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
+			"id": "quiz-house-verbs",
 			"shortDescription": "Manage user access and permissions effectively.",
-			"title": "Managing user access",
-			"ff": "ffffff"
-		
-				
-			}
-
+			"title": "House and Related Verbs Quiz",
+			"quizinfo": []
 		}
 	]
 }
