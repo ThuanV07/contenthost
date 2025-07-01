@@ -14,7 +14,7 @@
 				"getting-started"
 			],
 			"id": "video-spanish-alphabet-pronunciation",
-			"shortDescription": "Get a quick look at how Roku streaming works.",
+			"shortDescription": "This video goes over the basics of the Spanish alphabet and pronunciation.",
 			"title": "Spanish Alphabet & Pronunciation",
 			"content": {
 				"duration": 100,
@@ -28,7 +28,7 @@
 				"language": "en-us",
 				"dateAdded": "2020-01-15T02:39:11Z"
 			},
-			"scrolltext": "fasd fasd fasd fasd fadsd"
+			"scrolltext": "This video goes over the basics of the Spanish alphabet and pronunciation"
 		},
 		{
 			"longDescription": "This video will go over the countries that speak spanish.",
@@ -41,7 +41,7 @@
 				"getting-started"
 			],
 			"id": "video-spanish-speaking-countries",
-			"shortDescription": "Get a quick look at how Roku streaming works.",
+			"shortDescription": "This video will go over the countries that speak spanish.",
 			"title": "Spanish Speaking Countries",
 			"content": {
 				"duration": 100,
@@ -55,7 +55,7 @@
 				"language": "en-us",
 				"dateAdded": "2020-01-15T02:39:11Z"
 			},
-			"scrolltext": "fasd fasd fasd fasd"
+			"scrolltext": "This video will go over the countries that speak spanish."
 		},
 		{
 			"longDescription": "This video will go over basic spanish conjugation of verbs",
@@ -68,7 +68,7 @@
 				"getting-started"
 			],
 			"id": "video-spanish-verb-conjugation",
-			"shortDescription": "An introductory guide to Roku development.",
+			"shortDescription": "This video will go over basic spanish conjugation of verbs.",
 			"title": "Basic Spanish Verb Conjugation",
 			"content": {
 				"duration": 248,
@@ -82,7 +82,7 @@
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
 			},
-			"scrolltext": "fasd fasd fasd"
+			"scrolltext": "This video will go over basic spanish conjugation of verbs"
 		},
 		{
 			"longDescription": "This video will go over food and verbs related to it.",
@@ -95,7 +95,7 @@
 				"getting-started"
 			],
 			"id": "video-spanish-food-verbs",
-			"shortDescription": "Guide to activating Developer Mode on Roku.",
+			"shortDescription": "This video will go over food and verbs related to it.",
 			"title": "Spanish Food & Verbs",
 			"content": {
 				"duration": 120,
@@ -109,7 +109,7 @@
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
 			},
-			"scrolltext": "fasd fasd"
+			"scrolltext": "This video will go over food and verbs related to it."
 		},
 		{
 			"longDescription": "This video will go over things around the house and verbs related ",
@@ -122,7 +122,7 @@
 				"feature"
 			],
 			"id": "video-spanish-house-verbs",
-			"shortDescription": "Explore the various voice command functionalities.",
+			"shortDescription": "This video will go over things around the house and verbs related to it.",
 			"title": "Spanish House & Verbs",
 			"content": {
 				"duration": 98,
@@ -134,11 +134,9 @@
 					}
 				],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:12Z",
-
+				"dateAdded": "2020-01-29T02:39:12Z"
 			},
-			"scrolltext": "fasd"
-			
+			"scrolltext": "This video will go over things around the house and verbs related to it."
 		}
 	],
 	"Lesson(Text Version)": [
@@ -262,7 +260,7 @@
 			"id": "lesson-house-related-text",
 			"title": "Spanish House Items and Related Verbs Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "A comprehensive course on building Roku channels using SceneGraph.",
+			"shortDescription": "This lesson will go over things around the house and verbs related to it.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/38.png",
 			"genres": [
 				"educational"
@@ -300,7 +298,7 @@
 				"demo"
 			],
 			"id": "quiz-spanish-alphabet",
-			"shortDescription": "Understanding BrightScript debugging for Roku.",
+			"shortDescription": "Test your knowledge on the basics of the Spanish alphabet.",
 			"title": "Spanish Alphabet Quiz",
 			"quizinfo": [
 				{ "question": "Which one means 'I'?", "options": ["Yo", "En", "es", "en"], "answer": "Yo", "answered": false},
@@ -323,7 +321,7 @@
 				"demo"
 			],
 			"id": "quiz-spanish-countries",
-			"shortDescription": "Understanding BrightScript debugging for Roku.",
+			"shortDescription": "Test your knowledge on the different spanish speaking countries.",
 			"title": "Spanish Speaking Countries Quiz",
 			"quizinfo": [
 				{ "question": "Which country speaks Spanish?", "options": ["Portugal", "Mexico", "China", "Japan"], "answer": "Mexico", "answered": false },
@@ -346,7 +344,7 @@
 				"demo"
 			],
 			"id": "quiz-basic-verb-conjugations",
-			"shortDescription": "Understanding BrightScript debugging for Roku.",
+			"shortDescription": "Test your knowledge on the basic verb conjugations.",
 			"title": "Basic Verb Conjugations Quiz",
 			"quizinfo": [
 				{ "question": "What is the verb conjugation for 'I' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "o", "answered": false },
@@ -369,7 +367,7 @@
 				"demo"
 			],
 			"id": "quiz-food-verbs",
-			"shortDescription": "Automate testing for your Roku channels.",
+			"shortDescription": "Test your knowledge on different foods and related verbs.",
 			"title": "Food and Related Verbs Quiz",
 			"quizinfo": [
 			 	{ "question": "How do you say 'to eat' in Spanish?", "options": ["comer", "beber", "tener", "ir"], "answer": "comer", "answered": false },
@@ -392,7 +390,7 @@
 				"demo"
 			],
 			"id": "quiz-house-verbs",
-			"shortDescription": "Manage user access and permissions effectively.",
+			"shortDescription": "Test your knowledge about things around the house and related verbs.",
 			"title": "House and Related Verbs Quiz",
 			"quizinfo": [
 				{ "question": "How do you say 'to clean' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "limpiar", "answered": false },
