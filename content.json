@@ -299,7 +299,7 @@
 			],
 			"id": "quiz-spanish-alphabet",
 			"shortDescription": "Test your knowledge on the basics of the Spanish alphabet.",
-			"title": "Spanish Alphabet Quiz",
+			"qtitle": "Spanish Alphabet Quiz",
 			"quizinfo": [
 				{ "question": "Which one means 'I'?", "options": ["Yo", "En", "es", "en"], "answer": "Yo", "answered": false},
 				{ "question": "Which one means 'am'?", "options": ["Yo", "En", "soy", "es"], "answer": "soy", "answered": false },
@@ -322,7 +322,7 @@
 			],
 			"id": "quiz-spanish-countries",
 			"shortDescription": "Test your knowledge on the different spanish speaking countries.",
-			"title": "Spanish Speaking Countries Quiz",
+			"qtitle": "Spanish Speaking Countries Quiz",
 			"quizinfo": [
 				{ "question": "Which country speaks Spanish?", "options": ["Portugal", "Mexico", "China", "Japan"], "answer": "Mexico", "answered": false },
 				{ "question": "Which country speaks Spanish?", "options": ["Spain", "Brazil", "India", "France"], "answer": "Spain", "answered": false },
@@ -345,7 +345,7 @@
 			],
 			"id": "quiz-basic-verb-conjugations",
 			"shortDescription": "Test your knowledge on the basic verb conjugations.",
-			"title": "Basic Verb Conjugations Quiz",
+			"qtitle": "Basic Verb Conjugations Quiz",
 			"quizinfo": [
 				{ "question": "What is the verb conjugation for 'I' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "o", "answered": false },
 				{ "question": "What is the verb conjugation for 'you' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "as", "answered": false },
@@ -368,7 +368,7 @@
 			],
 			"id": "quiz-food-verbs",
 			"shortDescription": "Test your knowledge on different foods and related verbs.",
-			"title": "Food and Related Verbs Quiz",
+			"qtitle": "Food and Related Verbs Quiz",
 			"quizinfo": [
 			 	{ "question": "How do you say 'to eat' in Spanish?", "options": ["comer", "beber", "tener", "ir"], "answer": "comer", "answered": false },
 			 	{ "question": "How do you say 'to drink' in Spanish?", "options": ["comer", "beber", "tener", "ir"], "answer": "beber", "answered": false },
@@ -391,7 +391,7 @@
 			],
 			"id": "quiz-house-verbs",
 			"shortDescription": "Test your knowledge about things around the house and related verbs.",
-			"title": "House and Related Verbs Quiz",
+			"qtitle": "House and Related Verbs Quiz",
 			"quizinfo": [
 				{ "question": "How do you say 'to clean' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "limpiar", "answered": false },
 				{ "question": "How do you say 'to open' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "abrir", "answered": false },
