@@ -139,121 +139,121 @@
 			"scrolltext": "This video will go over things around the house and verbs related to it."
 		}
 	],
-	"Quizzes": [
+	"Lesson(Text Version)": [
 		{
-			"longDescription": "Test your knowledge on the basics of the Spanish alphabet",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/27.png",
-			"releaseDate": "2020-01-20",
+			"id": "lesson-spanish-alphabet-text",
+			"title": "Spanish Alphabet Basics",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/26.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
-				"demo"
+				"tips"
 			],
-			"id": "quiz-spanish-alphabet",
-			"shortDescription": "Test your knowledge on the basics of the Spanish alphabet.",
-			"qtitle": "Spanish Alphabet Quiz",
-			"quizinfo": [
-				{ "question": "Which one means 'I'?", "options": ["Yo", "En", "es", "en"], "answer": "Yo", "answered": false},
-				{ "question": "Which one means 'am'?", "options": ["Yo", "En", "soy", "es"], "answer": "soy", "answered": false },
-				{ "question": "Which one means 'is'?", "options": ["Yo", "En", "soy", "es"], "answer": "es", "answered": false },
-				{ "question": "Which one means 'in'?", "options": ["Yo", "En", "soy", "es"], "answer": "En", "answered": false },
-				{ "question": "Which one means 'Spanish'?", "options": ["el", "Espanol", "ella", "yo"], "answer": "Espanol", "answered": false },
-				{ "question": "Which one means 'he'?", "options": ["el", "Espanol", "ella", "yo"], "answer": "el", "answered": false },
-				{ "question": "Which one means 'she'?", "options": ["el", "Espanol", "ella", "yo"], "answer": "ella", "answered": false }
+			"textinfo": [
+				{
+					"title": "Lesson 1: Basic Words and Pronouns",
+					"releaseDate": "2025-06-01",
+					"genres": ["educational"],
+					"tags": ["beginner", "vocabulary"],
+					"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+					"description": "In this lesson you learn about the fundamentals of Spanish where you learn the alphabet as well as basic Spanish phrases and sentences. The Spanish alphabet contains 27 letters. It has one more letter than the English alphabet—Ñ. Each letter is pronounced very differently, where each pronunciation is shown in the referenced image.\n\nSpanish shares many familiar words with English: 'I' is 'yo', 'in' is 'en', 'is' is 'es', and 'am' is 'soy'. Other core vocabulary includes 'he' (él), 'she' (ella), and 'Spanish' (español). These words combine similarly to English. For example, 'I am in Spanish' translates word-for-word as 'Yo soy en español'.\n\nHowever, Spanish uses verb conjugation rules, so just like 'he am' is incorrect in English, 'Él soy' is incorrect in Spanish. Instead, you say 'He is' → 'Él es'. At the beginning stage of learning Spanish, word-for-word translations are often possible, but it’s important to recognize grammatical agreements like conjugation.",
+					"imageCredit": "https://www.wanderlustspanish.com/blog/the-letters-of-the-spanish-alphabet/",
+					"trivia": [
+						"Did you know that Spanish has conjugations just like English?",
+						"Did you know that CH, LL, and RR are considered digraphs, not letters, in Spanish?",
+						"Did you know that the Spanish alphabet originates from the Latin alphabet?"
+					]
+				}
 			]
 		},
 		{
-			"longDescription": "Test your knowledge on the different spanish speaking countries",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/30.png",
-			"releaseDate": "2020-01-20",
+			"id": "lesson-spanish-countries-text",
+			"title": "Spanish Speaking Countries Lesson",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over the countries that speak spanish.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/29.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
-				"demo"
+				"tips"
 			],
-			"id": "quiz-spanish-countries",
-			"shortDescription": "Test your knowledge on the different spanish speaking countries.",
-			"qtitle": "Spanish Speaking Countries Quiz",
-			"quizinfo": [
-				{ "question": "Which country speaks Spanish?", "options": ["Portugal", "Mexico", "China", "Japan"], "answer": "Mexico", "answered": false },
-				{ "question": "Which country speaks Spanish?", "options": ["Spain", "Brazil", "India", "France"], "answer": "Spain", "answered": false },
-				{ "question": "Which country speaks Spanish?", "options": ["Venezuela", "Vietnam", "Russia", "Nigeria"], "answer": "Venezuela", "answered": false },
-				{ "question": "Which country doesn’t speak Spanish?", "options": ["Mexico", "Portugal", "Venezuela", "Spain"], "answer": "Portugal", "answered": false },
-				{ "question": "Which country doesn’t speak Spanish?", "options": ["Columbia", "El Salvador", "Equatorial Guinea", "Sweden"], "answer": "Sweden", "answered": false },
-				{ "question": "Which country doesn’t speak Spanish?", "options": ["Nicaragua", "Argentina", "Panama", "Singapore"], "answer": "Singapore", "answered": false },
-				{ "question": "Which is the only African country that speaks Spanish?", "options": ["Equatorial Guinea", "Madagascar", "Egypt", "Chad"], "answer": "Equatorial Guinea" }
+			"textinfo": [
+				{
+					"title": "Lesson 2: Spanish-Speaking Countries",
+					"releaseDate": "2025-06-02",
+					"genres": ["educational"],
+					"tags": ["culture", "geography"],
+					"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+					"description": "In this lesson you will learn about all the countries that speak Spanish in the world. In total, there are 21 countries that have Spanish as their official language. In North America, there are 10 Spanish-speaking countries. Within the continent, 6 of them are in Central America: Guatemala, El Salvador, Nicaragua, Costa Rica, Honduras, and Panama. Three are in the Caribbean: Cuba, the Dominican Republic, and Puerto Rico. The largest of them, Mexico, is located just north of Central America.\n\nIn South America, 9 countries have Spanish as an official language: Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Paraguay, Uruguay, and Argentina.",
+					"imageCredit": "https://spanishmama.com/spanish-speaking-countries-map-free-printable/",
+					"trivia": [
+						"Did you know that 595 million people speak Spanish in the entire world?",
+						"Did you know that Spanish is the 4th most spoken language in the world?",
+						"Did you know that the United States has the second largest population of Spanish speakers in the world?"
+					]
+				}
 			]
 		},
 		{
-			"longDescription": "Test your knowledge on the basic verb conjugations.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/33.png",
-			"releaseDate": "2020-01-20",
+			"id": "lesson-basic-verb-conjugation-text",
+			"title": "Basic Spanish Verb Conjugation Lesson",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over conjugation of basic verbs.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/32.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
-				"demo"
+				"tips"
 			],
-			"id": "quiz-basic-verb-conjugations",
-			"shortDescription": "Test your knowledge on the basic verb conjugations.",
-			"qtitle": "Basic Verb Conjugations Quiz",
-			"quizinfo": [
-				{ "question": "What is the verb conjugation for 'I' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "o", "answered": false },
-				{ "question": "What is the verb conjugation for 'you' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "as", "answered": false },
-				{ "question": "What is the verb conjugation for 'he' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "a", "answered": false },
-				{ "question": "What is the verb conjugation for 'we' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "amos", "answered": false },
-				{ "question": "What is the verb conjugation for 'you' with ER/IR verbs?", "options": ["es", "an", "imos", "en"], "answer": "es", "answered": false },
-				{ "question": "What is the verb conjugation for 'them' with ER/IR verbs?", "options": ["e", "an", "imos", "en"], "answer": "en", "answered": false },
-				{ "question": "What is the verb conjugation for 'he' with ER/IR verbs?", "options": ["e", "an", "imos", "en"], "answer": "e", "answered": false }
-			]
-		},		
-		{
-			"longDescription": "Test your knowledge on different foods and related verbs",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/36.png",
-			"releaseDate": "2020-01-20",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"demo"
-			],
-			"id": "quiz-food-verbs",
-			"shortDescription": "Test your knowledge on different foods and related verbs.",
-			"qtitle": "Food and Related Verbs Quiz",
-			"quizinfo": [
-			 	{ "question": "How do you say 'to eat' in Spanish?", "options": ["comer", "beber", "tener", "ir"], "answer": "comer", "answered": false },
-			 	{ "question": "How do you say 'to drink' in Spanish?", "options": ["comer", "beber", "tener", "ir"], "answer": "beber", "answered": false },
-			 	{ "question": "How do you say 'milk' in Spanish?", "options": ["leche", "agua", "hamburguesa", "manzanas"], "answer": "leche", "answered": false },
-			 	{ "question": "How do you say 'water' in Spanish?", "options": ["leche", "agua", "hamburguesa", "manzanas"], "answer": "agua", "answered": false },
-			 	{ "question": "How do you say 'apple' in Spanish?", "options": ["leche", "agua", "hamburguesa", "manzanas"], "answer": "manzanas", "answered": false },
-			 	{ "question": "How do you say 'hamburguesa' in English?", "options": ["milk", "water", "hamburger", "apple"], "answer": "hamburger", "answered": false },
-			 	{ "question": "How do you say 'agua' in English?", "options": ["milk", "water", "hamburger", "apple"], "answer": "water", "answered": false }
+			"textinfo": [
+				{
+					"title": "Lesson 3: Verb Conjugation - AR, ER, IR",
+					"releaseDate": "2025-06-03",
+					"genres": ["educational"],
+					"tags": ["grammar", "verbs", "conjugation"],
+					"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+					"description": "In this lesson you will learn that there are conjugations in Spanish just like in English. In Spanish, there are three types of verbs that have different endings: AR, ER, and IR verbs. When used in a sentence, the verb endings change depending on the subject. For example, if you want to say 'I eat' in Spanish, you take the verb 'comer' (to eat) and conjugate it as 'como', resulting in 'Yo como.' This lesson focuses only on present tense conjugations.\n\nSome common Spanish verbs are: ser (to be - permanent), estar (to be - temporary), tener (to have), hacer (to do/make), ir (to go), poder (to be able/can), saber (to know - facts), poner (to put), haber (to have - auxiliary/helping verb), querer (to want/love), decir (to say/tell), hablar (to speak), dar (to give), ver (to see), comer (to eat), tomar (to take/drink), vivir (to live), necesitar (to need), quedar (to stay/remain/be left), and venir (to come).\n\nFor this lesson, focus on the regular verbs: hablar, comer, tomar, vivir, necesitar, and quedar. These follow standard conjugation patterns and are ideal for learning how to form present-tense sentences.",
+					"imageCredit": "https://quizlet.com/gb/657158889/conjugation-of-regular-ar-er-ir-verbs-and-irregular-verbs-hacer-ir-diagram/",
+					"trivia": [
+						"Did you know that Spanish has 16 distinct complete verb tenses?",
+						"Did you know that most Spanish verbs are conjugated irregularly?",
+						"Did you know that Spanish verbs are often used without an explicit subject?"
+					]
+				}
 			]
 		},
 		{
-			"longDescription": "Test your knowledge about things around the house and related verbs",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/39.png",
-			"releaseDate": "2020-01-20",
+			"id": "lesson-food-related-text",
+			"title": "Spanish Food and Related Verbs Lesson",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over food and things related to it.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/35.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
-				"demo"
+				"tips"
 			],
-			"id": "quiz-house-verbs",
-			"shortDescription": "Test your knowledge about things around the house and related verbs.",
-			"qtitle": "House and Related Verbs Quiz",
-			"quizinfo": [
-				{ "question": "How do you say 'to clean' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "limpiar", "answered": false },
-				{ "question": "How do you say 'to open' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "abrir", "answered": false },
-				{ "question": "How do you say 'to wash' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "lavar", "answered": false },
-				{ "question": "How do you say 'to watch' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "mirar", "answered": false },
-				{ "question": "How do you say 'door' in Spanish?", "options": ["puerta", "platos", "peliculas", "cama"], "answer": "puerta", "answered": false },
-				{ "question": "How do you say 'plates' in Spanish?", "options": ["puerta", "platos", "peliculas", "cama"], "answer": "platos", "answered": false },
-				{ "question": "How do you say 'bed' in Spanish?", "options": ["puerta", "platos", "peliculas", "cama"], "answer": "cama", "answered": false }
+			"textinfo": [
+				{
+					"title": "Lesson 4: Food Vocabulary & Regular Verb Use – comer & beber",
+					"releaseDate": "2025-06-20",
+					"genres": ["educational"],
+					"tags": ["food", "vocabulary", "verbs", "Spanish"],
+					"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+					"description": "In this lesson, you will expand your Spanish skills by diving into one of everyone’s favorite topics: food. You’ll focus on two essential regular verbs: comer (to eat) and beber (to drink), and learn how to conjugate them in the present tense using food-related vocabulary.\n\nFor example, just as you learned in the previous lesson, the verb form changes depending on the subject. So, 'You eat hamburgers' becomes 'Tú comes hamburguesas.'\n\nSome key vocabulary words introduced in this lesson include: leche (milk), agua (water), hamburguesa (hamburger), and manzana (apple).\n\nYou’ll also learn additional food vocabulary like: pan (bread), arroz (rice), pollo (chicken), carne (meat), pescado (fish), huevo (egg), queso (cheese), plátano (banana), naranja (orange), fresa (strawberry), ensalada (salad), papas/patatas (potatoes), verduras (vegetables), tomate (tomato), cebolla (onion), ajo (garlic), frijoles (beans), sopa (soup), jugo/zumo (juice), refresco (soda), helado (ice cream), torta/pastel (cake), and galleta (cookie).\n\nYou’ll use familiar conjugation patterns and combine them with new vocabulary to express real-life situations involving meals and drinks.",
+					"imageCredit": "https://www.pinterest.com/pin/spanish-food-picture-notes-set--267823509067741360/",
+					"trivia": [
+						"Did you know that ceviche is so important to Peruvian culture that there's a holiday dedicated to it?",
+						"Did you know that tamales are traditionally made in large batches during Christmas and other Mexican celebrations?",
+						"Did you know that people in Argentina often eat locro, a hearty stew, on May 25th to honor the country’s revolution?"
+					]
+				}
 			]
 		}
-	]
 }
