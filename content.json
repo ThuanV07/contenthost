@@ -1,9 +1,6 @@
 {
 	"providerName": "Roku Developers",
 	"language": "en-US",
-	"lastUpdated": "2020-03-15T02:01:00+02:00{
-	"providerName": "Roku Developers",
-	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
 	"Videos": [
 		{
@@ -328,160 +325,62 @@
 			],
 			"id": "quiz-basic-verb-conjugations",
 			"shortDescription": "Test your knowledge on the basic verb conjugations.",
-			"qtitle": "Basic Verb Conjugations
-	"Videos": [
+			"qtitle": "Basic Verb Conjugations Quiz",
+			"quizinfo": [
+				{ "question": "What is the verb conjugation for 'I' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "o", "answered": false },
+				{ "question": "What is the verb conjugation for 'you' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "as", "answered": false },
+				{ "question": "What is the verb conjugation for 'he' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "a", "answered": false },
+				{ "question": "What is the verb conjugation for 'we' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "amos", "answered": false },
+				{ "question": "What is the verb conjugation for 'you' with ER/IR verbs?", "options": ["es", "an", "imos", "en"], "answer": "es", "answered": false },
+				{ "question": "What is the verb conjugation for 'them' with ER/IR verbs?", "options": ["e", "an", "imos", "en"], "answer": "en", "answered": false },
+				{ "question": "What is the verb conjugation for 'he' with ER/IR verbs?", "options": ["e", "an", "imos", "en"], "answer": "e", "answered": false }
+			]
+		},		
 		{
-			"longDescription": "This video goes over the basics of the Spanish alphabet and pronunciation",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/25.png",
-			"releaseDate": "2020-01-15",
+			"longDescription": "Test your knowledge on different foods and related verbs",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/36.png",
+			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
 			],
 			"tags": [
-				"getting-started"
+				"demo"
 			],
-			"id": "video-spanish-alphabet-pronunciation",
-			"shortDescription": "This video goes over the basics of the Spanish alphabet and pronunciation.",
-			"title": "Spanish Alphabet & Pronunciation",
-			"content": {
-				"duration": 100,
-				"videos": [
-					{
-						"videoType": "MP4",
-						"url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
-						"quality": "HD"
-					}
-				],
-				"language": "en-us",
-				"dateAdded": "2020-01-15T02:39:11Z"
-			},
-			"scrolltext": "qwer"
+			"id": "quiz-food-verbs",
+			"shortDescription": "Test your knowledge on different foods and related verbs.",
+			"qtitle": "Food and Related Verbs Quiz",
+			"quizinfo": [
+			 	{ "question": "How do you say 'to eat' in Spanish?", "options": ["comer", "beber", "tener", "ir"], "answer": "comer", "answered": false },
+			 	{ "question": "How do you say 'to drink' in Spanish?", "options": ["comer", "beber", "tener", "ir"], "answer": "beber", "answered": false },
+			 	{ "question": "How do you say 'milk' in Spanish?", "options": ["leche", "agua", "hamburguesa", "manzanas"], "answer": "leche", "answered": false },
+			 	{ "question": "How do you say 'water' in Spanish?", "options": ["leche", "agua", "hamburguesa", "manzanas"], "answer": "agua", "answered": false },
+			 	{ "question": "How do you say 'apple' in Spanish?", "options": ["leche", "agua", "hamburguesa", "manzanas"], "answer": "manzanas", "answered": false },
+			 	{ "question": "How do you say 'hamburguesa' in English?", "options": ["milk", "water", "hamburger", "apple"], "answer": "hamburger", "answered": false },
+			 	{ "question": "How do you say 'agua' in English?", "options": ["milk", "water", "hamburger", "apple"], "answer": "water", "answered": false }
+			]
 		},
 		{
-			"longDescription": "This video will go over the countries that speak spanish.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/28.png",
-			"releaseDate": "2020-01-15",
+			"longDescription": "Test your knowledge about things around the house and related verbs",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/39.png",
+			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
 			],
 			"tags": [
-				"getting-started"
+				"demo"
 			],
-			"id": "video-spanish-speaking-countries",
-			"shortDescription": "This video will go over the countries that speak spanish.",
-			"title": "Spanish Speaking Countries",
-			"content": {
-				"duration": 100,
-				"videos": [
-					{
-						"videoType": "MP4",
-						"url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
-						"quality": "HD"
-					}
-				],
-				"language": "en-us",
-				"dateAdded": "2020-01-15T02:39:11Z"
-			},
-			"scrolltext": "qwert"
-		},
-		{
-			"longDescription": "This video will go over basic spanish conjugation of verbs",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/31.png",
-			"releaseDate": "2020-01-15",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"getting-started"
-			],
-			"id": "video-spanish-verb-conjugation",
-			"shortDescription": "This video will go over basic spanish conjugation of verbs.",
-			"title": "Basic Spanish Verb Conjugation",
-			"content": {
-				"duration": 248,
-				"videos": [
-					{
-						"videoType": "MP4",
-						"url": "https://image.roku.com/ZHZscHIt176/roku-overview.mp4",
-						"quality": "HD"
-					}
-				],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			},
-			"scrolltext": "qwerty"
-		},
-		{
-			"longDescription": "This video will go over food and verbs related to it.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/34.png",
-			"releaseDate": "2020-01-17",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"getting-started"
-			],
-			"id": "video-spanish-food-verbs",
-			"shortDescription": "This video will go over food and verbs related to it.",
-			"title": "Spanish Food & Verbs",
-			"content": {
-				"duration": 120,
-				"videos": [
-					{
-						"videoType": "DASH",
-						"url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
-						"quality": "HD"
-					}
-				],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			},
-			"scrolltext": "qwertyu"
-		},
-		{
-			"longDescription": "This video will go over things around the house and verbs related ",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/37.png",
-			"releaseDate": "2020-01-17",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"feature"
-			],
-			"id": "video-spanish-house-verbs",
-			"shortDescription": "This video will go over things around the house and verbs related to it.",
-			"title": "Spanish House & Verbs",
-			"content": {
-				"duration": 98,
-				"videos": [
-					{
-						"videoType": "MP4",
-						"url": "https://image.roku.com/ZHZscHIt176/roku-voice-demo-v4.mp4",
-						"quality": "HD"
-					}
-				],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:12Z"
-			},
-			"scrolltext": "This video will go over things around the house and verbs related to it."
+			"id": "quiz-house-verbs",
+			"shortDescription": "Test your knowledge about things around the house and related verbs.",
+			"qtitle": "House and Related Verbs Quiz",
+			"quizinfo": [
+				{ "question": "How do you say 'to clean' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "limpiar", "answered": false },
+				{ "question": "How do you say 'to open' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "abrir", "answered": false },
+				{ "question": "How do you say 'to wash' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "lavar", "answered": false },
+				{ "question": "How do you say 'to watch' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "mirar", "answered": false },
+				{ "question": "How do you say 'door' in Spanish?", "options": ["puerta", "platos", "peliculas", "cama"], "answer": "puerta", "answered": false },
+				{ "question": "How do you say 'plates' in Spanish?", "options": ["puerta", "platos", "peliculas", "cama"], "answer": "platos", "answered": false },
+				{ "question": "How do you say 'bed' in Spanish?", "options": ["puerta", "platos", "peliculas", "cama"], "answer": "cama", "answered": false }
+			]
 		}
-	],
-	"Lesson(Text Version)": [
-		{
-			"id": "lesson-spanish-alphabet-text",
-			"title": "Spanish Alphabet Basics",
-			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/26.png",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"tips"
-			],
-			"lessonTitle": "Lesson 1: Basic Words and Pronouns",
-			"lessonReleaseDate": "2025-06-01",
-			"lessonGenres": ["educational"],
-			"lessonTags": ["beginner", "vocabulary"],
-			"thumbnail2": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-			"description": "In this lesson you learn about the fundamentals of Spanish where you learn the alphabet as well as basic Spanish phrases and sentences. The Spanish alphabet contains 27 letters. It has one more letter than the English alphabet—Ñ. Each letter is pronounced very differently, where each pronunciation is shown in the referenced image.\n\nSpanish shares many familiar words with English: 'I' is 'yo', 'in' is 'en', 'is' is 'es', and 'am' is 'soy'. Other core vocabulary includes 'he' (él), 'she' (ella), and 'Spanish' (español). These words combine similarly to English. For example, 'I am in Spanish' translates word-for-word as 'Yo
+	]
+}
