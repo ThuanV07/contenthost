@@ -261,7 +261,7 @@
 			]
 		}
 	],
-	"Quizzes": [
+"Quizzes": [
 		{
 			"longDescription": "Test your knowledge on the basics of the Spanish alphabet",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/27.png",
@@ -276,13 +276,62 @@
 			"shortDescription": "Test your knowledge on the basics of the Spanish alphabet.",
 			"qtitle": "Spanish Alphabet Quiz",
 			"quizinfo": [
-				{ "question": "Which one means 'I'?", "options": ["Yo", "En", "es", "en"], "answer": "Yo", "answered": false},
-				{ "question": "Which one means 'am'?", "options": ["Yo", "En", "soy", "es"], "answer": "soy", "answered": false },
-				{ "question": "Which one means 'is'?", "options": ["Yo", "En", "soy", "es"], "answer": "es", "answered": false },
-				{ "question": "Which one means 'in'?", "options": ["Yo", "En", "soy", "es"], "answer": "En", "answered": false },
-				{ "question": "Which one means 'Spanish'?", "options": ["el", "Espanol", "ella", "yo"], "answer": "Espanol", "answered": false },
-				{ "question": "Which one means 'he'?", "options": ["el", "Espanol", "ella", "yo"], "answer": "el", "answered": false },
-				{ "question": "Which one means 'she'?", "options": ["el", "Espanol", "ella", "yo"], "answer": "ella", "answered": false }
+				{
+					"question1": {
+						"question": "Which one means 'I'?",
+						"options": ["Yo", "En", "es", "en"],
+						"answer": "Yo",
+						"answered": false
+					}
+				},
+				{
+					"question2": {
+						"question": "Which one means 'am'?",
+						"options": ["Yo", "En", "soy", "es"],
+						"answer": "soy",
+						"answered": false
+					}
+				},
+				{
+					"question3": {
+						"question": "Which one means 'is'?",
+						"options": ["Yo", "En", "soy", "es"],
+						"answer": "es",
+						"answered": false
+					}
+				},
+				{
+					"question4": {
+						"question": "Which one means 'in'?",
+						"options": ["Yo", "En", "soy", "es"],
+						"answer": "En",
+						"answered": false
+					}
+				},
+				{
+					"question5": {
+						"question": "Which one means 'Spanish'?",
+						"options": ["el", "Espanol", "ella", "yo"],
+						"answer": "Espanol",
+						"answered": false
+					}
+				},
+				{
+					"question6": {
+						"question": "Which one means 'he'?",
+						"options": ["el", "Espanol", "ella", "yo"],
+						"answer": "el",
+						"answered": false
+					}
+				},
+				{
+					"question7": {
+						"question": "Which one means 'she'?",
+						"options": ["el", "Espanol", "ella", "yo"],
+						"answer": "ella",
+						"answered": false
+					}
+				}
 			]
 		},
 		{
@@ -299,13 +348,61 @@
 			"shortDescription": "Test your knowledge on the different spanish speaking countries.",
 			"qtitle": "Spanish Speaking Countries Quiz",
 			"quizinfo": [
-				{ "question": "Which country speaks Spanish?", "options": ["Portugal", "Mexico", "China", "Japan"], "answer": "Mexico", "answered": false },
-				{ "question": "Which country speaks Spanish?", "options": ["Spain", "Brazil", "India", "France"], "answer": "Spain", "answered": false },
-				{ "question": "Which country speaks Spanish?", "options": ["Venezuela", "Vietnam", "Russia", "Nigeria"], "answer": "Venezuela", "answered": false },
-				{ "question": "Which country doesn’t speak Spanish?", "options": ["Mexico", "Portugal", "Venezuela", "Spain"], "answer": "Portugal", "answered": false },
-				{ "question": "Which country doesn’t speak Spanish?", "options": ["Columbia", "El Salvador", "Equatorial Guinea", "Sweden"], "answer": "Sweden", "answered": false },
-				{ "question": "Which country doesn’t speak Spanish?", "options": ["Nicaragua", "Argentina", "Panama", "Singapore"], "answer": "Singapore", "answered": false },
-				{ "question": "Which is the only African country that speaks Spanish?", "options": ["Equatorial Guinea", "Madagascar", "Egypt", "Chad"], "answer": "Equatorial Guinea" }
+				{
+					"question1": {
+						"question": "Which country speaks Spanish?",
+						"options": ["Portugal", "Mexico", "China", "Japan"],
+						"answer": "Mexico",
+						"answered": false
+					}
+				},
+				{
+					"question2": {
+						"question": "Which country speaks Spanish?",
+						"options": ["Spain", "Brazil", "India", "France"],
+						"answer": "Spain",
+						"answered": false
+					}
+				},
+				{
+					"question3": {
+						"question": "Which country speaks Spanish?",
+						"options": ["Venezuela", "Vietnam", "Russia", "Nigeria"],
+						"answer": "Venezuela",
+						"answered": false
+					}
+				},
+				{
+					"question4": {
+						"question": "Which country doesn’t speak Spanish?",
+						"options": ["Mexico", "Portugal", "Venezuela", "Spain"],
+						"answer": "Portugal",
+						"answered": false
+					}
+				},
+				{
+					"question5": {
+						"question": "Which country doesn’t speak Spanish?",
+						"options": ["Columbia", "El Salvador", "Equatorial Guinea", "Sweden"],
+						"answer": "Sweden",
+						"answered": false
+					}
+				},
+				{
+					"question6": {
+						"question": "Which country doesn’t speak Spanish?",
+						"options": ["Nicaragua", "Argentina", "Panama", "Singapore"],
+						"answer": "Singapore",
+						"answered": false
+					}
+				},
+				{
+					"question7": {
+						"question": "Which is the only African country that speaks Spanish?",
+						"options": ["Equatorial Guinea", "Madagascar", "Egypt", "Chad"],
+						"answer": "Equatorial Guinea"
+					}
+				}
 			]
 		},
 		{
@@ -322,13 +419,62 @@
 			"shortDescription": "Test your knowledge on the basic verb conjugations.",
 			"qtitle": "Basic Verb Conjugations Quiz",
 			"quizinfo": [
-				{ "question": "What is the verb conjugation for 'I' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "o", "answered": false },
-				{ "question": "What is the verb conjugation for 'you' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "as", "answered": false },
-				{ "question": "What is the verb conjugation for 'he' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "a", "answered": false },
-				{ "question": "What is the verb conjugation for 'we' with AR verbs?", "options": ["a", "as", "amos", "o"], "answer": "amos", "answered": false },
-				{ "question": "What is the verb conjugation for 'you' with ER/IR verbs?", "options": ["es", "an", "imos", "en"], "answer": "es", "answered": false },
-				{ "question": "What is the verb conjugation for 'them' with ER/IR verbs?", "options": ["e", "an", "imos", "en"], "answer": "en", "answered": false },
-				{ "question": "What is the verb conjugation for 'he' with ER/IR verbs?", "options": ["e", "an", "imos", "en"], "answer": "e", "answered": false }
+				{
+					"question1": {
+						"question": "What is the verb conjugation for 'I' with AR verbs?",
+						"options": ["a", "as", "amos", "o"],
+						"answer": "o",
+						"answered": false
+					}
+				},
+				{
+					"question2": {
+						"question": "What is the verb conjugation for 'you' with AR verbs?",
+						"options": ["a", "as", "amos", "o"],
+						"answer": "as",
+						"answered": false
+					}
+				},
+				{
+					"question3": {
+						"question": "What is the verb conjugation for 'he' with AR verbs?",
+						"options": ["a", "as", "amos", "o"],
+						"answer": "a",
+						"answered": false
+					}
+				},
+				{
+					"question4": {
+						"question": "What is the verb conjugation for 'we' with AR verbs?",
+						"options": ["a", "as", "amos", "o"],
+						"answer": "amos",
+						"answered": false
+					}
+				},
+				{
+					"question5": {
+						"question": "What is the verb conjugation for 'you' with ER/IR verbs?",
+						"options": ["es", "an", "imos", "en"],
+						"answer": "es",
+						"answered": false
+					}
+				},
+				{
+					"question6": {
+						"question": "What is the verb conjugation for 'them' with ER/IR verbs?",
+						"options": ["e", "an", "imos", "en"],
+						"answer": "en",
+						"answered": false
+					}
+				},
+				{
+					"question7": {
+						"question": "What is the verb conjugation for 'he' with ER/IR verbs?",
+						"options": ["e", "an", "imos", "en"],
+						"answer": "e",
+						"answered": false
+					}
+				}
 			]
 		},		
 		{
@@ -345,13 +491,62 @@
 			"shortDescription": "Test your knowledge on different foods and related verbs.",
 			"qtitle": "Food and Related Verbs Quiz",
 			"quizinfo": [
-			 	{ "question": "How do you say 'to eat' in Spanish?", "options": ["comer", "beber", "tener", "ir"], "answer": "comer", "answered": false },
-			 	{ "question": "How do you say 'to drink' in Spanish?", "options": ["comer", "beber", "tener", "ir"], "answer": "beber", "answered": false },
-			 	{ "question": "How do you say 'milk' in Spanish?", "options": ["leche", "agua", "hamburguesa", "manzanas"], "answer": "leche", "answered": false },
-			 	{ "question": "How do you say 'water' in Spanish?", "options": ["leche", "agua", "hamburguesa", "manzanas"], "answer": "agua", "answered": false },
-			 	{ "question": "How do you say 'apple' in Spanish?", "options": ["leche", "agua", "hamburguesa", "manzanas"], "answer": "manzanas", "answered": false },
-			 	{ "question": "How do you say 'hamburguesa' in English?", "options": ["milk", "water", "hamburger", "apple"], "answer": "hamburger", "answered": false },
-			 	{ "question": "How do you say 'agua' in English?", "options": ["milk", "water", "hamburger", "apple"], "answer": "water", "answered": false }
+			 	{
+					"question1": {
+						"question": "How do you say 'to eat' in Spanish?",
+						"options": ["comer", "beber", "tener", "ir"],
+						"answer": "comer",
+						"answered": false
+					}
+				},
+			 	{
+					"question2": {
+						"question": "How do you say 'to drink' in Spanish?",
+						"options": ["comer", "beber", "tener", "ir"],
+						"answer": "beber",
+						"answered": false
+					}
+				},
+			 	{
+					"question3": {
+						"question": "How do you say 'milk' in Spanish?",
+						"options": ["leche", "agua", "hamburguesa", "manzanas"],
+						"answer": "leche",
+						"answered": false
+					}
+				},
+			 	{
+					"question4": {
+						"question": "How do you say 'water' in Spanish?",
+						"options": ["leche", "agua", "hamburguesa", "manzanas"],
+						"answer": "agua",
+						"answered": false
+					}
+				},
+			 	{
+					"question5": {
+						"question": "How do you say 'apple' in Spanish?",
+						"options": ["leche", "agua", "hamburguesa", "manzanas"],
+						"answer": "manzanas",
+						"answered": false
+					}
+				},
+			 	{
+					"question6": {
+						"question": "How do you say 'hamburguesa' in English?",
+						"options": ["milk", "water", "hamburger", "apple"],
+						"answer": "hamburger",
+						"answered": false
+					}
+				},
+			 	{
+					"question7": {
+						"question": "How do you say 'agua' in English?",
+						"options": ["milk", "water", "hamburger", "apple"],
+						"answer": "water",
+						"answered": false
+					}
+				}
 			]
 		},
 		{
@@ -368,13 +563,62 @@
 			"shortDescription": "Test your knowledge about things around the house and related verbs.",
 			"qtitle": "House and Related Verbs Quiz",
 			"quizinfo": [
-				{ "question": "How do you say 'to clean' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "limpiar", "answered": false },
-				{ "question": "How do you say 'to open' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "abrir", "answered": false },
-				{ "question": "How do you say 'to wash' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "lavar", "answered": false },
-				{ "question": "How do you say 'to watch' in Spanish?", "options": ["lavar", "limpiar", "mirar", "abrir"], "answer": "mirar", "answered": false },
-				{ "question": "How do you say 'door' in Spanish?", "options": ["puerta", "platos", "peliculas", "cama"], "answer": "puerta", "answered": false },
-				{ "question": "How do you say 'plates' in Spanish?", "options": ["puerta", "platos", "peliculas", "cama"], "answer": "platos", "answered": false },
-				{ "question": "How do you say 'bed' in Spanish?", "options": ["puerta", "platos", "peliculas", "cama"], "answer": "cama", "answered": false }
+				{
+					"question1": {
+						"question": "How do you say 'to clean' in Spanish?",
+						"options": ["lavar", "limpiar", "mirar", "abrir"],
+						"answer": "limpiar",
+						"answered": false
+					}
+				},
+				{
+					"question2": {
+						"question": "How do you say 'to open' in Spanish?",
+						"options": ["lavar", "limpiar", "mirar", "abrir"],
+						"answer": "abrir",
+						"answered": false
+					}
+				},
+				{
+					"question3": {
+						"question": "How do you say 'to wash' in Spanish?",
+						"options": ["lavar", "limpiar", "mirar", "abrir"],
+						"answer": "lavar",
+						"answered": false
+					}
+				},
+				{
+					"question4": {
+						"question": "How do you say 'to watch' in Spanish?",
+						"options": ["lavar", "limpiar", "mirar", "abrir"],
+						"answer": "mirar",
+						"answered": false
+					}
+				},
+				{
+					"question5": {
+						"question": "How do you say 'door' in Spanish?",
+						"options": ["puerta", "platos", "peliculas", "cama"],
+						"answer": "puerta",
+						"answered": false
+					}
+				},
+				{
+					"question6": {
+						"question": "How do you say 'plates' in Spanish?",
+						"options": ["puerta", "platos", "peliculas", "cama"],
+						"answer": "platos",
+						"answered": false
+					}
+				},
+				{
+					"question7": {
+						"question": "How do you say 'bed' in Spanish?",
+						"options": ["puerta", "platos", "peliculas", "cama"],
+						"answer": "cama",
+						"answered": false
+					}
+				}
 			]
 		}
 	]
