@@ -1,4 +1,4 @@
-						{
+{
 	"providerName": "Roku Developers",
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
@@ -151,7 +151,7 @@
 			"lessonReleaseDate": "2025-06-01",
 			"lessonGenres": ["educational"],
 			"lessonTags": ["beginner", "vocabulary"],
-			"lessonthumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson1image.jpg",
+			"lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson1image.jpg",
 			"description": "In this lesson you learn about the fundamentals of Spanish where you learn the alphabet as well as basic Spanish phrases and sentences. The Spanish alphabet contains 27 letters. It has one more letter than the English alphabet—Ñ. Each letter is pronounced very differently, where each pronunciation is shown in the referenced image.\n\nSpanish shares many familiar words with English: 'I' is 'yo', 'in' is 'en', 'is' is 'es', and 'am' is 'soy'. Other core vocabulary includes 'he' (él), 'she' (ella), and 'Spanish' (español). These words combine similarly to English. For example, 'I am in Spanish' translates word-for-word as 'Yo soy en español'.\n\nHowever, Spanish uses verb conjugation rules, so just like 'he am' is incorrect in English, 'Él soy' is incorrect in Spanish. Instead, you say 'He is' → 'Él es'. At the beginning stage of learning Spanish, word-for-word translations are often possible, but it’s important to recognize grammatical agreements like conjugation.",
 			"imageCredit": "https://www.wanderlustspanish.com/blog/the-letters-of-the-spanish-alphabet/",
 			"trivia": [
@@ -261,7 +261,6 @@
 			]
 		}
 	],
-{
 	"Quizzes": [
 		{
 			"longDescription": "Test your knowledge on the basics of the Spanish alphabet",
