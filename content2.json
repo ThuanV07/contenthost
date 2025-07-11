@@ -259,7 +259,7 @@
 	"Reading Quiz": [
 		{
 			"shortDescription": "Test your knowledge on the basics of the Spanish alphabet",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/27.png",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/34.png",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -317,7 +317,7 @@
 		},
 		{
 			"shortDescription": "Test your knowledge on the different spanish speaking countries",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/30.png",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/37.png",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -374,7 +374,7 @@
 		},
 		{
 			"shortDescription": "Test your knowledge on the basic verb conjugations.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/33.png",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/40.png",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -432,7 +432,7 @@
 		},		
 		{
 			"shortDescription": "Test your knowledge on different foods and related verbs",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/36.png",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/43.png",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -490,7 +490,7 @@
 		},
 		{
 			"shortDescription": "Test your knowledge about things around the house and related verbs",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/39.png",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/46.png",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -548,13 +548,13 @@
 		}
 	],
 
-	"Listening Quiz": [
+	"Listening Listening Quiz": [
 		{
 			"id": "lesson-spanish-alphabet-text",
 			"title": "Spanish Alphabet Basics",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/26.png",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/69.png",
 			"genres": [
 				"educational"
 			],
@@ -579,7 +579,7 @@
 			"title": "Spanish Speaking Countries Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "This lesson will go over the countries that speak spanish.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/29.png",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/70.png",
 			"genres": [
 				"educational"
 			],
@@ -593,7 +593,7 @@
 			"title": "Basic Spanish Verb Conjugation Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "This lesson will go over conjugation of basic verbs.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/32.png",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/71.png",
 			"genres": [
 				"educational"
 			],
@@ -606,7 +606,7 @@
 			"title": "Spanish Food and Related Verbs Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "This lesson will go over food and things related to it.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/35.png",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/72.png",
 			"genres": [
 				"educational"
 			],
@@ -620,7 +620,7 @@
 			"title": "Spanish House Items and Related Verbs Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "This lesson will go over things around the house and verbs related to it.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/38.png",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/73.png",
 			"genres": [
 				"educational"
 			],
