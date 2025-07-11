@@ -256,7 +256,7 @@
 			]
 		}
 	],
-	"Quizzes": [
+	"Reading Quiz": [
 		{
 			"shortDescription": "Test your knowledge on the basics of the Spanish alphabet",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/27.png",
@@ -546,5 +546,90 @@
 				}
 			]
 		}
+	],
+
+	"Listening Quiz": [
+		{
+			"id": "lesson-spanish-alphabet-text",
+			"title": "Spanish Alphabet Basics",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/26.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"lessonTitle": "Lesson 1: Basic Words and Pronouns",
+			"lessonReleaseDate": "2025-06-01",
+			"lessonGenres": ["educational"],
+			"lessonTags": ["beginner", "vocabulary"],
+			"lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson1image.jpg",
+			"description": "In this lesson you learn about the fundamentals of Spanish where you learn the alphabet as well as basic Spanish phrases and sentences. The Spanish alphabet contains 27 letters. It has one more letter than the English alphabet—Ñ. Each letter is pronounced very differently, where each pronunciation is shown in the referenced image.\n\nSpanish shares many familiar words with English: 'I' is 'yo', 'in' is 'en', 'is' is 'es', and 'am' is 'soy'. Other core vocabulary includes 'he' (él), 'she' (ella), and 'Spanish' (español). These words combine similarly to English. For example, 'I am in Spanish' translates word-for-word as 'Yo soy en español'.\n\nHowever, Spanish uses verb conjugation rules, so just like 'he am' is incorrect in English, 'Él soy' is incorrect in Spanish. Instead, you say 'He is' → 'Él es'. At the beginning stage of learning Spanish, word-for-word translations are often possible, but it’s important to recognize grammatical agreements like conjugation.",
+			"imageCredit": "https://www.wanderlustspanish.com/blog/the-letters-of-the-spanish-alphabet/",
+			"trivia": [
+				"Did you know that Spanish has conjugations just like English?",
+				"Did you know that CH, LL, and RR are considered digraphs, not letters, in Spanish?",
+				"Did you know that the Spanish alphabet originates from the Latin alphabet?"
+			]
+		},
+		{
+			"id": "lesson-spanish-countries-text",
+			"title": "Spanish Speaking Countries Lesson",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over the countries that speak spanish.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/29.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			]
+	
+		},
+		{
+			"id": "lesson-basic-verb-conjugation-text",
+			"title": "Basic Spanish Verb Conjugation Lesson",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over conjugation of basic verbs.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/32.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			]
+		},
+		{
+			"id": "lesson-food-related-text",
+			"title": "Spanish Food and Related Verbs Lesson",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over food and things related to it.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/35.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			]
+
+		},
+		{
+			"id": "lesson-house-related-text",
+			"title": "Spanish House Items and Related Verbs Lesson",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over things around the house and verbs related to it.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/38.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			]
+
+		}
 	]
+
 }
+
