@@ -4,7 +4,7 @@
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
 	"Videos": [
 		{
-			"longDescription": "This video goes over the basics of the Spanish alphabet and pronunciation",
+			"shortDescription": "This video goes over the basics of the Spanish alphabet and pronunciation",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/25.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -14,7 +14,6 @@
 				"getting-started"
 			],
 			"id": "video-spanish-alphabet-pronunciation",
-			"shortDescription": "This video goes over the basics of the Spanish alphabet and pronunciation.",
 			"title": "Spanish Alphabet & Pronunciation",
 			"content": {
 				"duration": 100,
@@ -30,7 +29,7 @@
 			}
 		},
 		{
-			"longDescription": "This video will go over the countries that speak spanish.",
+			"shortDescription": "This video will go over the countries that speak spanish.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/28.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -40,7 +39,6 @@
 				"getting-started"
 			],
 			"id": "video-spanish-speaking-countries",
-			"shortDescription": "This video will go over the countries that speak spanish.",
 			"title": "Spanish Speaking Countries",
 			"content": {
 				"duration": 100,
@@ -56,7 +54,7 @@
 			}
 		},
 		{
-			"longDescription": "This video will go over basic spanish conjugation of verbs",
+			"shortDescription": "This video will go over basic spanish conjugation of verbs",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/31.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -66,7 +64,6 @@
 				"getting-started"
 			],
 			"id": "video-spanish-verb-conjugation",
-			"shortDescription": "This video will go over basic spanish conjugation of verbs.",
 			"title": "Basic Spanish Verb Conjugation",
 			"content": {
 				"duration": 248,
@@ -82,7 +79,7 @@
 			}
 		},
 		{
-			"longDescription": "This video will go over food and verbs related to it.",
+			"shortDescription": "This video will go over food and verbs related to it.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/34.png",
 			"releaseDate": "2020-01-17",
 			"genres": [
@@ -92,7 +89,6 @@
 				"getting-started"
 			],
 			"id": "video-spanish-food-verbs",
-			"shortDescription": "This video will go over food and verbs related to it.",
 			"title": "Spanish Food & Verbs",
 			"content": {
 				"duration": 120,
@@ -108,7 +104,7 @@
 			}
 		},
 		{
-			"longDescription": "This video will go over things around the house and verbs related ",
+			"shortDescription": "This video will go over things around the house and verbs related ",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/37.png",
 			"releaseDate": "2020-01-17",
 			"genres": [
@@ -118,7 +114,6 @@
 				"feature"
 			],
 			"id": "video-spanish-house-verbs",
-			"shortDescription": "This video will go over things around the house and verbs related to it.",
 			"title": "Spanish House & Verbs",
 			"content": {
 				"duration": 98,
@@ -263,7 +258,7 @@
 	],
 	"Quizzes": [
 		{
-			"longDescription": "Test your knowledge on the basics of the Spanish alphabet",
+			"shortDescription": "Test your knowledge on the basics of the Spanish alphabet",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/27.png",
 			"releaseDate": "2020-01-20",
 			"genres": [
@@ -274,7 +269,7 @@
 			],
 			"id": "quiz-spanish-alphabet",
 			"shortDescription": "Test your knowledge on the basics of the Spanish alphabet.",
-			"qtitle": "Spanish Alphabet Quiz",
+			"title": "Spanish Alphabet Quiz",
 			"quizinfo": [
 				{
 					"question": "Which one means 'I'?",
@@ -321,7 +316,7 @@
 			]
 		},
 		{
-			"longDescription": "Test your knowledge on the different spanish speaking countries",
+			"shortDescription": "Test your knowledge on the different spanish speaking countries",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/30.png",
 			"releaseDate": "2020-01-20",
 			"genres": [
@@ -332,7 +327,7 @@
 			],
 			"id": "quiz-spanish-countries",
 			"shortDescription": "Test your knowledge on the different spanish speaking countries.",
-			"qtitle": "Spanish Speaking Countries Quiz",
+			"title": "Spanish Speaking Countries Quiz",
 			"quizinfo": [
 				{
 					"question": "Which country speaks Spanish?",
@@ -378,7 +373,7 @@
 			]
 		},
 		{
-			"longDescription": "Test your knowledge on the basic verb conjugations.",
+			"shortDescription": "Test your knowledge on the basic verb conjugations.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/33.png",
 			"releaseDate": "2020-01-20",
 			"genres": [
@@ -389,7 +384,7 @@
 			],
 			"id": "quiz-basic-verb-conjugations",
 			"shortDescription": "Test your knowledge on the basic verb conjugations.",
-			"qtitle": "Basic Verb Conjugations Quiz",
+			"title": "Basic Verb Conjugations Quiz",
 			"quizinfo": [
 				{
 					"question": "What is the verb conjugation for 'I' with AR verbs?",
@@ -436,7 +431,7 @@
 			]
 		},		
 		{
-			"longDescription": "Test your knowledge on different foods and related verbs",
+			"shortDescription": "Test your knowledge on different foods and related verbs",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/36.png",
 			"releaseDate": "2020-01-20",
 			"genres": [
@@ -447,7 +442,7 @@
 			],
 			"id": "quiz-food-verbs",
 			"shortDescription": "Test your knowledge on different foods and related verbs.",
-			"qtitle": "Food and Related Verbs Quiz",
+			"title": "Food and Related Verbs Quiz",
 			"quizinfo": [
 				{
 					"question": "How do you say 'to eat' in Spanish?",
@@ -494,7 +489,7 @@
 			]
 		},
 		{
-			"longDescription": "Test your knowledge about things around the house and related verbs",
+			"shortDescription": "Test your knowledge about things around the house and related verbs",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/39.png",
 			"releaseDate": "2020-01-20",
 			"genres": [
@@ -505,7 +500,7 @@
 			],
 			"id": "quiz-house-verbs",
 			"shortDescription": "Test your knowledge about things around the house and related verbs.",
-			"qtitle": "House and Related Verbs Quiz",
+			"title": "House and Related Verbs Quiz",
 			"quizinfo": [
 				{
 					"question": "How do you say 'to clean' in Spanish?",
