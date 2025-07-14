@@ -556,7 +556,7 @@
 			"tags": [
 				"tips"
 			],
-			"lquizinfo":[
+			"quizinfo":[
 				{
 					"question": "l1q1",
 					"options": ["he", "she", "I", "they"],
@@ -627,7 +627,7 @@
 			"tags": [
 				"tips"
 			],
-			"lquizinfo":[
+			"quizinfo":[
 				{
 					"question": "l2q1",
 					"options": ["he", "she", "I", "they"],
@@ -698,7 +698,7 @@
 			"tags": [
 				"tips"
 			],
-			"lquizinfo":[
+			"quizinfo":[
 				{
 					"question": "l3q1",
 					"options": ["he", "she", "I", "they"],
@@ -769,7 +769,7 @@
 			"tags": [
 				"tips"
 			],
-			"lquizinfo":[
+			"quizinfo":[
 				{
 					"question": "l4q1",
 					"options": ["he", "she", "I", "they"],
@@ -840,7 +840,7 @@
 			"tags": [
 				"RSG"
 			],
-			"lquizinfo":[
+			"quizinfo":[
 				{
 					"question": "l5q1",
 					"options": ["he", "she", "I", "they"],
