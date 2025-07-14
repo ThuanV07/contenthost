@@ -4,8 +4,8 @@
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
 	"Videos": [
 		{
-			"longDescription": "This video provides a comprehensive overview of Roku's streaming capabilities and how they function. Learn about the underlying technology and user experience.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"shortDescription": "This video goes over the basics of the Spanish alphabet and pronunciation",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/25.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"educational"
@@ -13,9 +13,8 @@
 			"tags": [
 				"getting-started"
 			],
-			"id": "shortform-roku-streaming-overview",
-			"shortDescription": "Get a quick look at how Roku streaming works.",
-			"title": "Streaming overview",
+			"id": "video-spanish-alphabet-pronunciation",
+			"title": "Spanish Alphabet & Pronunciation",
 			"content": {
 				"duration": 100,
 				"videos": [
@@ -30,8 +29,8 @@
 			}
 		},
 		{
-			"longDescription": "OKie that thing worked. Will just try to add more",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"shortDescription": "This video will go over the countries that speak spanish.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/28.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"educational"
@@ -39,9 +38,8 @@
 			"tags": [
 				"getting-started"
 			],
-			"id": "shortform-roku-streaming-overview",
-			"shortDescription": "Get a quick look at how Roku streaming works.",
-			"title": "Streaming overview",
+			"id": "video-spanish-speaking-countries",
+			"title": "Spanish Speaking Countries",
 			"content": {
 				"duration": 100,
 				"videos": [
@@ -56,8 +54,8 @@
 			}
 		},
 		{
-			"longDescription": "Explore the foundational aspects of Roku development, including essential tools and concepts needed to start building your own channels and applications.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"shortDescription": "This video will go over basic spanish conjugation of verbs",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/31.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"educational"
@@ -65,9 +63,8 @@
 			"tags": [
 				"getting-started"
 			],
-			"id": "shortform-roku-development-overview",
-			"shortDescription": "An introductory guide to Roku development.",
-			"title": "Roku Development Overview",
+			"id": "video-spanish-verb-conjugation",
+			"title": "Basic Spanish Verb Conjugation",
 			"content": {
 				"duration": 248,
 				"videos": [
@@ -82,8 +79,8 @@
 			}
 		},
 		{
-			"longDescription": "Learn the step-by-step process of enabling Developer Mode on your Roku device, a crucial step for side-loading and testing your applications.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"shortDescription": "This video will go over food and verbs related to it.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/34.png",
 			"releaseDate": "2020-01-17",
 			"genres": [
 				"educational"
@@ -91,9 +88,8 @@
 			"tags": [
 				"getting-started"
 			],
-			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
-			"shortDescription": "Guide to activating Developer Mode on Roku.",
-			"title": "Enabling Developer Mode",
+			"id": "video-spanish-food-verbs",
+			"title": "Spanish Food & Verbs",
 			"content": {
 				"duration": 120,
 				"videos": [
@@ -108,8 +104,8 @@
 			}
 		},
 		{
-			"longDescription": "Discover how Roku's voice control features enhance user interaction and accessibility, and how to integrate them into your channel.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"shortDescription": "This video will go over things around the house and verbs related ",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/37.png",
 			"releaseDate": "2020-01-17",
 			"genres": [
 				"educational"
@@ -117,9 +113,8 @@
 			"tags": [
 				"feature"
 			],
-			"id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
-			"shortDescription": "Explore the various voice command functionalities.",
-			"title": "Voice Features",
+			"id": "video-spanish-house-verbs",
+			"title": "Spanish House & Verbs",
 			"content": {
 				"duration": 98,
 				"videos": [
@@ -130,1293 +125,511 @@
 					}
 				],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:12Z",
-				"captions": [
-					{
-						"language": "en",
-						"captionType": "CLOSED_CAPTION",
-						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
-					},
-					{
-						"language": "en",
-						"captionType": "CLOSED_CAPTION",
-						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
-					}
-				]
+				"dateAdded": "2020-01-29T02:39:12Z"
 			}
 		}
 	],
 	"Lesson(Text Version)": [
 		{
-			"id": "series_1_tips",
-			"title": "Roku Tips & Tricks",
+			"id": "lesson-spanish-alphabet-text",
+			"title": "Spanish Alphabet Basics",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Handy tips and tricks to get the most out of your Roku device.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/26.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
 				"tips"
 			],
-			"seasons": [
-				{
-					"title": "Season 1",
-					"episodes": [
-						{
-							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
-							"title": "How to listen to music",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-03-06T20:25:52Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/61f6f859d30743378290300e99f2f53a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 187,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Discover various ways to enjoy music on your Roku device.",
-							"releaseDate": "2020-01-02",
-							"longDescription": "This episode guides you through different methods and applications available for listening to music directly on your Roku streaming device, enhancing your audio experience.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-							"title": "Best speaker placement",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-02-04T19:08:55Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/62405a3b6d304bd180626636854f7acd/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 134,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Optimize your audio with proper speaker positioning.",
-							"releaseDate": "2020-01-02",
-							"longDescription": "Get expert advice on where to place your speakers for the best audio quality and immersive sound experience with your Roku setup.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
-				},
-				{
-					"title": "Season 2",
-					"episodes": [
-						{
-							"id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
-							"title": "Guest Mode",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-01-29T02:32:18Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/aed3cf8c357f4ef8b8e267a30ac8f25a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 15,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Learn how to use Guest Mode for temporary access.",
-							"releaseDate": "2019-12-03",
-							"longDescription": "Understand how to enable and manage Guest Mode on your Roku device, allowing visitors to access content without affecting your personal settings or subscriptions.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "shortform-6f2088297f82e02e74e07341fd404750b56e2fbb",
-							"title": "Private Listening",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-03-06T20:43:17Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/f137dd3848ba4bf3b70bb00b90b0eaf7/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 30,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Enjoy content privately with this Roku feature.",
-							"releaseDate": "2019-10-15",
-							"longDescription": "Find out how to use Roku's Private Listening feature, which allows you to listen to TV audio through your headphones, perfect for late-night viewing.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
-				}
+			"lessonTitle": "Lesson 1: Basic Words and Pronouns",
+			"lessonReleaseDate": "2025-06-01",
+			"lessonGenres": ["educational"],
+			"lessonTags": ["beginner", "vocabulary"],
+			"lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson1image.jpg",
+			"description": "In this lesson you learn about the fundamentals of Spanish where you learn the alphabet as well as basic Spanish phrases and sentences. The Spanish alphabet contains 27 letters. It has one more letter than the English alphabet—Ñ. Each letter is pronounced very differently, where each pronunciation is shown in the referenced image.\n\nSpanish shares many familiar words with English: 'I' is 'yo', 'in' is 'en', 'is' is 'es', and 'am' is 'soy'. Other core vocabulary includes 'he' (él), 'she' (ella), and 'Spanish' (español). These words combine similarly to English. For example, 'I am in Spanish' translates word-for-word as 'Yo soy en español'.\n\nHowever, Spanish uses verb conjugation rules, so just like 'he am' is incorrect in English, 'Él soy' is incorrect in Spanish. Instead, you say 'He is' → 'Él es'. At the beginning stage of learning Spanish, word-for-word translations are often possible, but it’s important to recognize grammatical agreements like conjugation.",
+			"imageCredit": "https://www.wanderlustspanish.com/blog/the-letters-of-the-spanish-alphabet/",
+			"trivia": [
+				"Did you know that Spanish has conjugations just like English?",
+				"Did you know that CH, LL, and RR are considered digraphs, not letters, in Spanish?",
+				"Did you know that the Spanish alphabet originates from the Latin alphabet?"
 			]
 		},
-
 		{
-			"id": "series_1_tips",
-			"title": "Roku Tips & Tricks",
+			"id": "lesson-spanish-countries-text",
+			"title": "Spanish Speaking Countries Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Handy tips and tricks to get the most out of your Roku device.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"shortDescription": "This lesson will go over the countries that speak spanish.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/29.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
 				"tips"
 			],
-			"seasons": [
-				{
-					"title": "Season 1",
-					"episodes": [
-						{
-							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
-							"title": "How to listen to music",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-03-06T20:25:52Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/61f6f859d30743378290300e99f2f53a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 187,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Discover various ways to enjoy music on your Roku device.",
-							"releaseDate": "2020-01-02",
-							"longDescription": "This episode guides you through different methods and applications available for listening to music directly on your Roku streaming device, enhancing your audio experience.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-							"title": "Best speaker placement",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-02-04T19:08:55Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/62405a3b6d304bd180626636854f7acd/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 134,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Optimize your audio with proper speaker positioning.",
-							"releaseDate": "2020-01-02",
-							"longDescription": "Get expert advice on where to place your speakers for the best audio quality and immersive sound experience with your Roku setup.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
-				},
-				{
-					"title": "Season 2",
-					"episodes": [
-						{
-							"id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
-							"title": "Guest Mode",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-01-29T02:32:18Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/aed3cf8c357f4ef8b8e267a30ac8f25a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 15,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Learn how to use Guest Mode for temporary access.",
-							"releaseDate": "2019-12-03",
-							"longDescription": "Understand how to enable and manage Guest Mode on your Roku device, allowing visitors to access content without affecting your personal settings or subscriptions.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "shortform-6f2088297f82e02e74e07341fd404750b56e2fbb",
-							"title": "Private Listening",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-03-06T20:43:17Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/f137dd3848ba4bf3b70bb00b90b0eaf7/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 30,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Enjoy content privately with this Roku feature.",
-							"releaseDate": "2019-10-15",
-							"longDescription": "Find out how to use Roku's Private Listening feature, which allows you to listen to TV audio through your headphones, perfect for late-night viewing.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
-				}
+			"lessonTitle": "Lesson 2: Spanish-Speaking Countries",
+			"lessonReleaseDate": "2025-06-02",
+			"lessonGenres": ["educational"],
+			"lessonTags": ["culture", "geography"],
+			"lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson2image.png",
+			"description": "In this lesson you will learn about all the countries that speak Spanish in the world. In total, there are 21 countries that have Spanish as their official language. In North America, there are 10 Spanish-speaking countries. Within the continent, 6 of them are in Central America: Guatemala, El Salvador, Nicaragua, Costa Rica, Honduras, and Panama. Three are in the Caribbean: Cuba, the Dominican Republic, and Puerto Rico. The largest of them, Mexico, is located just north of Central America.\n\nIn South America, 9 countries have Spanish as an official language: Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Paraguay, Uruguay, and Argentina.",
+			"imageCredit": "https://spanishmama.com/spanish-speaking-countries-map-free-printable/",
+			"trivia": [
+				"Did you know that 595 million people speak Spanish in the entire world?",
+				"Did you know that Spanish is the 4th most spoken language in the world?",
+				"Did you know that the United States has the second largest population of Spanish speakers in the world?"
 			]
 		},
-
 		{
-			"id": "series_1_tips",
-			"title": "Roku Tips & Tricks",
+			"id": "lesson-basic-verb-conjugation-text",
+			"title": "Basic Spanish Verb Conjugation Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Handy tips and tricks to get the most out of your Roku device.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"shortDescription": "This lesson will go over conjugation of basic verbs.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/32.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
 				"tips"
 			],
-			"seasons": [
-				{
-					"title": "Season 1",
-					"episodes": [
-						{
-							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
-							"title": "How to listen to music",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-03-06T20:25:52Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/61f6f859d30743378290300e99f2f53a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 187,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Discover various ways to enjoy music on your Roku device.",
-							"releaseDate": "2020-01-02",
-							"longDescription": "This episode guides you through different methods and applications available for listening to music directly on your Roku streaming device, enhancing your audio experience.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-							"title": "Best speaker placement",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-02-04T19:08:55Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/62405a3b6d304bd180626636854f7acd/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 134,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Optimize your audio with proper speaker positioning.",
-							"releaseDate": "2020-01-02",
-							"longDescription": "Get expert advice on where to place your speakers for the best audio quality and immersive sound experience with your Roku setup.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
-				},
-				{
-					"title": "Season 2",
-					"episodes": [
-						{
-							"id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
-							"title": "Guest Mode",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-01-29T02:32:18Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/aed3cf8c357f4ef8b8e267a30ac8f25a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 15,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Learn how to use Guest Mode for temporary access.",
-							"releaseDate": "2019-12-03",
-							"longDescription": "Understand how to enable and manage Guest Mode on your Roku device, allowing visitors to access content without affecting your personal settings or subscriptions.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "shortform-6f2088297f82e02e74e07341fd404750b56e2fbb",
-							"title": "Private Listening",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-03-06T20:43:17Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/f137dd3848ba4bf3b70bb00b90b0eaf7/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 30,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Enjoy content privately with this Roku feature.",
-							"releaseDate": "2019-10-15",
-							"longDescription": "Find out how to use Roku's Private Listening feature, which allows you to listen to TV audio through your headphones, perfect for late-night viewing.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
-				}
+			"lessonTitle": "Lesson 3: Verb Conjugation - AR, ER, IR",
+			"lessonReleaseDate": "2025-06-03",
+			"lessonGenres": ["educational"],
+			"lessonTags": ["grammar", "verbs", "conjugation"],
+			"lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson3image.jpg",
+			"description": "In this lesson you will learn that there are conjugations in Spanish just like in English. In Spanish, there are three types of verbs that have different endings: AR, ER, and IR verbs. When used in a sentence, the verb endings change depending on the subject. For example, if you want to say 'I eat' in Spanish, you take the verb 'comer' (to eat) and conjugate it as 'como', resulting in 'Yo como.' This lesson focuses only on present tense conjugations.\n\nSome common Spanish verbs are: ser (to be - permanent), estar (to be - temporary), tener (to have), hacer (to do/make), ir (to go), poder (to be able/can), saber (to know - facts), poner (to put), haber (to have - auxiliary/helping verb), querer (to want/love), decir (to say/tell), hablar (to speak), dar (to give), ver (to see), comer (to eat), tomar (to take/drink), vivir (to live), necesitar (to need), quedar (to stay/remain/be left), and venir (to come).\n\nFor this lesson, focus on the regular verbs: hablar, comer, tomar, vivir, necesitar, and quedar. These follow standard conjugation patterns and are ideal for learning how to form present-tense sentences.",
+			"imageCredit": "https://quizlet.com/gb/657158889/conjugation-of-regular-ar-er-ir-verbs-and-irregular-verbs-hacer-ir-diagram/",
+			"trivia": [
+				"Did you know that Spanish has 16 distinct complete verb tenses?",
+				"Did you know that most Spanish verbs are conjugated irregularly?",
+				"Did you know that Spanish verbs are often used without an explicit subject?"
 			]
 		},
-
 		{
-			"id": "series_1_tips",
-			"title": "Roku Tips & Tricks",
+			"id": "lesson-food-related-text",
+			"title": "Spanish Food and Related Verbs Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Handy tips and tricks to get the most out of your Roku device.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"shortDescription": "This lesson will go over food and things related to it.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/35.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
 				"tips"
 			],
-			"seasons": [
-				{
-					"title": "Season 1",
-					"episodes": [
-						{
-							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
-							"title": "How to listen to music",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-03-06T20:25:52Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/61f6f859d30743378290300e99f2f53a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 187,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Discover various ways to enjoy music on your Roku device.",
-							"releaseDate": "2020-01-02",
-							"longDescription": "This episode guides you through different methods and applications available for listening to music directly on your Roku streaming device, enhancing your audio experience.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-							"title": "Best speaker placement",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-02-04T19:08:55Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/62405a3b6d304bd180626636854f7acd/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 134,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Optimize your audio with proper speaker positioning.",
-							"releaseDate": "2020-01-02",
-							"longDescription": "Get expert advice on where to place your speakers for the best audio quality and immersive sound experience with your Roku setup.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
-				},
-				{
-					"title": "Season 2",
-					"episodes": [
-						{
-							"id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
-							"title": "Guest Mode",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-01-29T02:32:18Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/aed3cf8c357f4ef8b8e267a30ac8f25a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 15,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Learn how to use Guest Mode for temporary access.",
-							"releaseDate": "2019-12-03",
-							"longDescription": "Understand how to enable and manage Guest Mode on your Roku device, allowing visitors to access content without affecting your personal settings or subscriptions.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "shortform-6f2088297f82e02e74e07341fd404750b56e2fbb",
-							"title": "Private Listening",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-03-06T20:43:17Z",
-								"videos": [
-									{
-										"videoType": "HLS",
-										"url": "https://d1n7kckvd41xqg.cloudfront.net/f137dd3848ba4bf3b70bb00b90b0eaf7/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-										"quality": "HD"
-									}
-								],
-								"duration": 30,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Enjoy content privately with this Roku feature.",
-							"releaseDate": "2019-10-15",
-							"longDescription": "Find out how to use Roku's Private Listening feature, which allows you to listen to TV audio through your headphones, perfect for late-night viewing.",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
-				}
+			"lessonTitle": "Lesson 4: Food Vocabulary & Regular Verb Use – comer & beber",
+			"lessonReleaseDate": "2025-06-20",
+			"lessonGenres": ["educational"],
+			"lessonTags": ["food", "vocabulary", "verbs", "Spanish"],
+			"lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/Lesson4image.jpg",
+			"description": "In this lesson, you will expand your Spanish skills by diving into one of everyone’s favorite topics: food. You’ll focus on two essential regular verbs: comer (to eat) and beber (to drink), and learn how to conjugate them in the present tense using food-related vocabulary.\n\nFor example, just as you learned in the previous lesson, the verb form changes depending on the subject. So, 'You eat hamburgers' becomes 'Tú comes hamburguesas.'\n\nSome key vocabulary words introduced in this lesson include: leche (milk), agua (water), hamburguesa (hamburger), and manzana (apple).\n\nYou’ll also learn additional food vocabulary like: pan (bread), arroz (rice), pollo (chicken), carne (meat), pescado (fish), huevo (egg), queso (cheese), plátano (banana), naranja (orange), fresa (strawberry), ensalada (salad), papas/patatas (potatoes), verduras (vegetables), tomate (tomato), cebolla (onion), ajo (garlic), frijoles (beans), sopa (soup), jugo/zumo (juice), refresco (soda), helado (ice cream), torta/pastel (cake), and galleta (cookie).\n\nYou’ll use familiar conjugation patterns and combine them with new vocabulary to express real-life situations involving meals and drinks.",
+			"imageCredit": "https://www.pinterest.com/pin/spanish-food-picture-notes-set--267823509067741360/",
+			"trivia": [
+				"Did you know that ceviche is so important to Peruvian culture that there's a holiday dedicated to it?",
+				"Did you know that tamales are traditionally made in large batches during Christmas and other Mexican celebrations?",
+				"Did you know that people in Argentina often eat locro, a hearty stew, on May 25th to honor the country’s revolution?"
 			]
 		},
-		
 		{
-			"id": "series_2_RSG",
-			"title": "SceneGraph Developers: Build a Channel",
+			"id": "lesson-house-related-text",
+			"title": "Spanish House Items and Related Verbs Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "A comprehensive course on building Roku channels using SceneGraph.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
+			"shortDescription": "This lesson will go over things around the house and verbs related to it.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/38.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
 				"RSG"
 			],
-			"seasons": [
+			"lessonTitle": "Lesson 5: Around the House – Vocabulary & Regular Verb Practice",
+			"lessonReleaseDate": "2025-06-20",
+			"lessonGenres": ["educational"],
+			"lessonTags": ["household", "vocabulary", "verbs", "Spanish"],
+			"lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson5image.avif",
+			"description": "In this lesson, we’ll explore Spanish vocabulary related to the home and practice present-tense conjugation using four regular verbs: lavar (to wash), limpiar (to clean), mirar (to watch), and abrir (to open).\n\nWe’ll use common household objects in our sentences, such as puerta (door), platos (plates), películas (movies), and cama (bed). The conjugation process mirrors what you've learned in previous lessons—changing the verb to match the subject and applying it to the correct noun. For example: 'He opens the door' becomes 'Él abre la puerta.'\n\nAdditional vocabulary includes items you’re likely to see around the house: mesa (table), silla (chair), sofá (sofa/couch), ventana (window), pared (wall), techo (ceiling/roof), piso (floor), baño (bathroom), cocina (kitchen), refrigerador (refrigerator), microondas (microwave), horno (oven), lavaplatos (dishwasher), fregadero (sink), espejo (mirror), ducha (shower), inodoro (toilet), toalla (towel), televisor (TV), lámpara (lamp), alfombra (carpet/rug), cortina (curtain), cuadro (picture/frame), ropa (clothes), armario (closet), cajón (drawer), escoba (broom), and aspiradora (vacuum cleaner).\n\nBy the end of this lesson, you’ll be able to describe actions and objects commonly found in a home using basic Spanish sentence structures.",
+			"imageCredit": "https://www.teacherspayteachers.com/Product/Spanish-House-Vocabulary-PICTURE-Notes-SET-592518",
+			"trivia": [
+				"Did you know that Spaniards have a famous saying, 'mi casa es tu casa' which means 'my house is your house'? It reflects the warm and welcoming nature of Spanish-speaking cultures.",
+				"Did you know that the Spanish word 'casa' comes from the Latin 'căsa,' which originally meant 'hut' or 'cottage'?",
+				"Did you know that many Spanish homes feature exterior roller blinds called 'persianas' to keep rooms cool and provide privacy?"
+			]
+		}
+	],
+	"Reading Quiz": [
+		{
+			"shortDescription": "Test your knowledge on the basics of the Spanish alphabet",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/34.png",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "quiz-spanish-alphabet",
+			"shortDescription": "Test your knowledge on the basics of the Spanish alphabet.",
+			"title": "Spanish Alphabet Quiz",
+			"quizinfo": [
 				{
-					"title": "Season 1",
-					"episodes": [
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Introduction to the course",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit1-intro-v3.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "An overview of what you'll learn in this SceneGraph course.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "This introductory video sets the stage for the 'Build a Channel' course, outlining the curriculum and what you can expect to achieve by the end.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg-unit2-developerSetup",
-							"title": "Development setup",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit2-developerSetup-v4.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 431,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Set up your environment for Roku channel development.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "This episode guides you through setting up your development environment, installing necessary tools, and configuring your Roku device for channel creation.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video3-scenegraph-overview",
-							"title": "Core concepts",
-							"episodeNumber": 3,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit3-sgoverview-v3.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 765,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Understand the fundamental concepts of SceneGraph.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "Dive into the core concepts of Roku SceneGraph, the declarative framework for building high-performance UIs on Roku devices. Essential for all developers.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg-unit4-contentFeed",
-							"title": "Creating the content feed",
-							"episodeNumber": 4,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit4-contentFeed-v3.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 280,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Learn to structure your channel's content data.",
-							"releaseDate": "2020-07-18",
-							"longDescription": "This video explains how to properly create and structure the content feed for your Roku channel, which is crucial for dynamic content display.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video5-grid-screen",
-							"title": "Creating a Grid Screen",
-							"episodeNumber": 5,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit5-gridscreen-v4.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 1899,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Design and implement a visually appealing Grid Screen.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "Learn the process of creating a Grid Screen using SceneGraph, a common UI component for displaying content in a structured grid layout within your channel.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video6-video-player",
-							"title": "Adding the Video Player",
-							"episodeNumber": 6,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit6-videoplayer-v3.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 819,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Integrate a functional video player into your channel.",
-							"releaseDate": "2020-05-13",
-							"longDescription": "This episode covers the steps to successfully add and configure a video player within your Roku channel, enabling smooth content playback for users.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
+					"question": "Which one means 'I'?",
+					"options": ["Yo", "En", "es", "en"],
+					"answer": "Yo",
+					"answered": false
 				},
 				{
-					"title": "Season 2",
-					"episodes": [
-						{
-							"id": "video7-debugger",
-							"title": "Debugging channels",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-16T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit7-debugger-v3.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 381,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Master the tools for debugging your Roku channels.",
-							"releaseDate": "2020-05-13",
-							"longDescription": "A detailed guide on using debugging tools and techniques to identify and fix issues within your Roku channels, ensuring a robust user experience.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video8-detailsScreen",
-							"title": "Creating a Details Screen",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-05-22T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit8-details-screen-v3.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 1251,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Build a screen to display detailed content information.",
-							"releaseDate": "2020-07-13",
-							"longDescription": "Learn how to design and implement a Details Screen in your Roku channel to showcase in-depth information about selected content, like descriptions and cast details.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video9-episodesScreen",
-							"title": "Creating an Episodes Screen",
-							"episodeNumber": 3,
-							"content": {
-								"dateAdded": "2020-05-29T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit9-episodePicker-v3.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 2188,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Develop a screen for Browse and selecting episodes.",
-							"releaseDate": "2020-05-29",
-							"longDescription": "This video teaches you how to create an Episodes Screen, allowing users to easily navigate and select individual episodes within a series in your Roku channel.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
+					"question": "Which one means 'am'?",
+					"options": ["Yo", "En", "soy", "es"],
+					"answer": "soy",
+					"answered": false
 				},
 				{
-					"title": "Season 3",
-					"episodes": [
-						{
-							"id": "video10-videoAds",
-							"title": "Displaying Video Ads",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-06-20T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit10-video-ads-part3.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 1380,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Learn to integrate video advertisements into your channel.",
-							"releaseDate": "2020-06-20",
-							"longDescription": "This episode focuses on the implementation of video ads within your Roku channel, covering different ad formats and integration methods to monetize your content.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video11-subscriptions",
-							"title": "Offering Subscriptions",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-06-27T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit11-subscriptions-v3.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 1561,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Implement subscription models for your Roku channel.",
-							"releaseDate": "2020-06-27",
-							"longDescription": "Discover how to offer and manage subscriptions within your Roku channel, providing exclusive content or ad-free experiences to your users.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video12-deep-linking-part1",
-							"title": "Deep Linking (part 1)",
-							"episodeNumber": 3,
-							"content": {
-								"dateAdded": "2020-07-10T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit12-deep-linking-v3-part1.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 2481,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "A deep dive into implementing deep linking, part 1.",
-							"releaseDate": "2020-07-04",
-							"longDescription": "This first part of the Deep Linking series explains how to enable direct navigation to specific content within your Roku channel, enhancing user experience.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video12-deep-linking-part2",
-							"title": "Deep Linking (part 2)",
-							"episodeNumber": 4,
-							"content": {
-								"dateAdded": "2020-07-10T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit12-deep-linking-v3-part2.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 1567,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Continuing with advanced deep linking techniques, part 2.",
-							"releaseDate": "2020-07-04",
-							"longDescription": "The second part of the Deep Linking series covers more advanced scenarios and best practices for implementing robust deep linking within your Roku channel.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video13-certification-testing",
-							"title": "Certification Testing",
-							"episodeNumber": 5,
-							"content": {
-								"dateAdded": "2020-07-16T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "https://image.roku.com/ZHZscHIt176/rsg-unit13-cert-testing-v3.mp4",
-										"quality": "HD"
-									}
-								],
-								"duration": 848,
-								"language": "en-us"
-							},
-							"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-							"shortDescription": "Prepare your channel for Roku's certification process.",
-							"releaseDate": "2020-07-16",
-							"longDescription": "Understand the requirements and procedures for Roku channel certification, ensuring your channel meets all standards for publication on the Roku Channel Store.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
+					"question": "Which one means 'is'?",
+					"options": ["Yo", "En", "soy", "es"],
+					"answer": "es",
+					"answered": false
+				},
+				{
+					"question": "Which one means 'in'?",
+					"options": ["Yo", "En", "soy", "es"],
+					"answer": "En",
+					"answered": false
+				},
+				{
+					"question": "Which one means 'Spanish'?",
+					"options": ["el", "Espanol", "ella", "yo"],
+					"answer": "Espanol",
+					"answered": false
+				},
+				{
+					"question": "Which one means 'he'?",
+					"options": ["el", "Espanol", "ella", "yo"],
+					"answer": "el",
+					"answered": false
+				},
+				{
+					"question": "Which one means 'she'?",
+					"options": ["el", "Espanol", "ella", "yo"],
+					"answer": "ella",
+					"answered": false
+				}
+			]
+		},
+		{
+			"shortDescription": "Test your knowledge on the different spanish speaking countries",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/37.png",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "quiz-spanish-countries",
+			"shortDescription": "Test your knowledge on the different spanish speaking countries.",
+			"title": "Spanish Speaking Countries Quiz",
+			"quizinfo": [
+				{
+					"question": "Which country speaks Spanish?",
+					"options": ["Portugal", "Mexico", "China", "Japan"],
+					"answer": "Mexico",
+					"answered": false
+				},
+				{
+					"question": "Which country speaks Spanish?",
+					"options": ["Spain", "Brazil", "India", "France"],
+					"answer": "Spain",
+					"answered": false
+				},
+				{
+					"question": "Which country speaks Spanish?",
+					"options": ["Venezuela", "Vietnam", "Russia", "Nigeria"],
+					"answer": "Venezuela",
+					"answered": false
+				},
+				{
+					"question": "Which country doesn’t speak Spanish?",
+					"options": ["Mexico", "Portugal", "Venezuela", "Spain"],
+					"answer": "Portugal",
+					"answered": false
+				},
+				{
+					"question": "Which country doesn’t speak Spanish?",
+					"options": ["Columbia", "El Salvador", "Equatorial Guinea", "Sweden"],
+					"answer": "Sweden",
+					"answered": false
+				},
+				{
+					"question": "Which country doesn’t speak Spanish?",
+					"options": ["Nicaragua", "Argentina", "Panama", "Singapore"],
+					"answer": "Singapore",
+					"answered": false
+				},
+				{
+					"question": "Which is the only African country that speaks Spanish?",
+					"options": ["Equatorial Guinea", "Madagascar", "Egypt", "Chad"],
+					"answer": "Equatorial Guinea"
+				}
+			]
+		},
+		{
+			"shortDescription": "Test your knowledge on the basic verb conjugations.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/40.png",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "quiz-basic-verb-conjugations",
+			"shortDescription": "Test your knowledge on the basic verb conjugations.",
+			"title": "Basic Verb Conjugations Quiz",
+			"quizinfo": [
+				{
+					"question": "What is the verb conjugation for 'I' with AR verbs?",
+					"options": ["a", "as", "amos", "o"],
+					"answer": "o",
+					"answered": false
+				},
+				{
+					"question": "What is the verb conjugation for 'you' with AR verbs?",
+					"options": ["a", "as", "amos", "o"],
+					"answer": "as",
+					"answered": false
+				},
+				{
+					"question": "What is the verb conjugation for 'he' with AR verbs?",
+					"options": ["a", "as", "amos", "o"],
+					"answer": "a",
+					"answered": false
+				},
+				{
+					"question": "What is the verb conjugation for 'we' with AR verbs?",
+					"options": ["a", "as", "amos", "o"],
+					"answer": "amos",
+					"answered": false
+				},
+				{
+					"question": "What is the verb conjugation for 'you' with ER/IR verbs?",
+					"options": ["es", "an", "imos", "en"],
+					"answer": "es",
+					"answered": false
+				},
+				{
+					"question": "What is the verb conjugation for 'them' with ER/IR verbs?",
+					"options": ["e", "an", "imos", "en"],
+					"answer": "en",
+					"answered": false
+				},
+				{
+					"question": "What is the verb conjugation for 'he' with ER/IR verbs?",
+					"options": ["e", "an", "imos", "en"],
+					"answer": "e",
+					"answered": false
+				}
+			]
+		},		
+		{
+			"shortDescription": "Test your knowledge on different foods and related verbs",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/43.png",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "quiz-food-verbs",
+			"shortDescription": "Test your knowledge on different foods and related verbs.",
+			"title": "Food and Related Verbs Quiz",
+			"quizinfo": [
+				{
+					"question": "How do you say 'to eat' in Spanish?",
+					"options": ["comer", "beber", "tener", "ir"],
+					"answer": "comer",
+					"answered": false
+				},
+				{
+					"question": "How do you say 'to drink' in Spanish?",
+					"options": ["comer", "beber", "tener", "ir"],
+					"answer": "beber",
+					"answered": false
+				},
+				{
+					"question": "How do you say 'milk' in Spanish?",
+					"options": ["leche", "agua", "hamburguesa", "manzanas"],
+					"answer": "leche",
+					"answered": false
+				},
+				{
+					"question": "How do you say 'water' in Spanish?",
+					"options": ["leche", "agua", "hamburguesa", "manzanas"],
+					"answer": "agua",
+					"answered": false
+				},
+				{
+					"question": "How do you say 'apple' in Spanish?",
+					"options": ["leche", "agua", "hamburguesa", "manzanas"],
+					"answer": "manzanas",
+					"answered": false
+				},
+				{
+					"question": "How do you say 'hamburguesa' in English?",
+					"options": ["milk", "water", "hamburger", "apple"],
+					"answer": "hamburger",
+					"answered": false
+				},
+				{
+					"question": "How do you say 'agua' in English?",
+					"options": ["milk", "water", "hamburger", "apple"],
+					"answer": "water",
+					"answered": false
+				}
+			]
+		},
+		{
+			"shortDescription": "Test your knowledge about things around the house and related verbs",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/46.png",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "quiz-house-verbs",
+			"shortDescription": "Test your knowledge about things around the house and related verbs.",
+			"title": "House and Related Verbs Quiz",
+			"quizinfo": [
+				{
+					"question": "How do you say 'to clean' in Spanish?",
+					"options": ["lavar", "limpiar", "mirar", "abrir"],
+					"answer": "limpiar",
+					"answered": false
+				},
+				{
+					"question": "How do you say 'to open' in Spanish?",
+					"options": ["lavar", "limpiar", "mirar", "abrir"],
+					"answer": "abrir",
+					"answered": false
+				},
+				{
+					"question": "How do you say 'to wash' in Spanish?",
+					"options": ["lavar", "limpiar", "mirar", "abrir"],
+					"answer": "lavar",
+					"answered": false
+				},
+				{
+					"question": "How do you say 'to watch' in Spanish?",
+					"options": ["lavar", "limpiar", "mirar", "abrir"],
+					"answer": "mirar",
+					"answered": false
+				},
+				{
+					"question": "How do you say 'door' in Spanish?",
+					"options": ["puerta", "platos", "peliculas", "cama"],
+					"answer": "puerta",
+					"answered": false
+				},
+				{
+					"question": "How do you say 'plates' in Spanish?",
+					"options": ["puerta", "platos", "peliculas", "cama"],
+					"answer": "platos",
+					"answered": false
+				},
+				{
+					"question": "How do you say 'bed' in Spanish?",
+					"options": ["puerta", "platos", "peliculas", "cama"],
+					"answer": "cama",
+					"answered": false
 				}
 			]
 		}
 	],
-	"Quizzes": [
+
+	"Listening Quiz": [
 		{
-			"longDescription": "An in-depth explanation of the BrightScript debug protocol, essential for advanced troubleshooting of Roku applications.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-			"releaseDate": "2020-01-20",
+			"id": "lesson-spanish-alphabet-text",
+			"title": "Spanish Alphabet Basics",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/vietnamese%20listening%20quiz%20thumbnails/64.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
-				"demo"
+				"tips"
 			],
-			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
-			"shortDescription": "Understanding BrightScript debugging for Roku.",
-			"title": "BrightScript debug protocol",
-			"content": {
-				"duration": 713,
-				"videos": [
-					{
-						"videoType": "MP4",
-						"url": "https://image.roku.com/ZHZscHIt176/roku-brightscript-debug-protocol.mp4",
-						"quality": "HD"
-					}
-				],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
-		},
-
-		 {
-		      "longDescription": "An in-depth explanation of the BrightScript debug protocol, essential for advanced troubleshooting of Roku applications.",
-		      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-		      "releaseDate": "2020-01-20",
-		      "genres": [
-		        "educational"
-		      ],
-		      "tags": [
-		        "demo"
-		      ],
-		      "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
-		      "shortDescription": "Understanding BrightScript debugging for Roku.",
-		      "title": "BrightScript debug protocol",
-		      "content": {
-		        "duration": 713,
-		        "videos": [
-		          {
-		            "videoType": "MP4",
-		            "url": "https://image.roku.com/ZHZscHIt176/roku-brightscript-debug-protocol.mp4",
-		            "quality": "HD"
-		          }
-		        ],
-		        "language": "en-us",
-		        "dateAdded": "2020-01-29T02:39:11Z"
-		      }
-		    },
-
-		 {
-		      "longDescription": "An in-depth explanation of the BrightScript debug protocol, essential for advanced troubleshooting of Roku applications.",
-		      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-		      "releaseDate": "2020-01-20",
-		      "genres": [
-		        "educational"
-		      ],
-		      "tags": [
-		        "demo"
-		      ],
-		      "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
-		      "shortDescription": "Understanding BrightScript debugging for Roku.",
-		      "title": "BrightScript debug protocol",
-		      "content": {
-		        "duration": 713,
-		        "videos": [
-		          {
-		            "videoType": "MP4",
-		            "url": "https://image.roku.com/ZHZscHIt176/roku-brightscript-debug-protocol.mp4",
-		            "quality": "HD"
-		          }
-		        ],
-		        "language": "en-us",
-		        "dateAdded": "2020-01-29T02:39:11Z"
-		      }
-		    },		
-		
-		{
-			"longDescription": "Discover how to automate the testing process for your Roku channels, improving efficiency and reliability in development.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-			"releaseDate": "2020-01-20",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"demo"
-			],
-			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
-			"shortDescription": "Automate testing for your Roku channels.",
-			"title": "Automated channel testing",
-			"content": {
-				"duration": 713,
-				"videos": [
-					{
-						"videoType": "HLS",
-						"url": "https://ovp-selector.sr.roku.com/v1/f73763a9-8105-4b78-90e0-381ea0d0128b?format=hls",
-						"quality": "HD"
-					}
-				],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:10Z"
-			}
+			"lessonTitle": "Lesson 1: Basic Words and Pronouns",
+			"lessonReleaseDate": "2025-06-01",
+			"lessonGenres": ["educational"],
+			"lessonTags": ["beginner", "vocabulary"],
+			"lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson1image.jpg",
+			"description": "In this lesson you learn about the fundamentals of Spanish where you learn the alphabet as well as basic Spanish phrases and sentences. The Spanish alphabet contains 27 letters. It has one more letter than the English alphabet—Ñ. Each letter is pronounced very differently, where each pronunciation is shown in the referenced image.\n\nSpanish shares many familiar words with English: 'I' is 'yo', 'in' is 'en', 'is' is 'es', and 'am' is 'soy'. Other core vocabulary includes 'he' (él), 'she' (ella), and 'Spanish' (español). These words combine similarly to English. For example, 'I am in Spanish' translates word-for-word as 'Yo soy en español'.\n\nHowever, Spanish uses verb conjugation rules, so just like 'he am' is incorrect in English, 'Él soy' is incorrect in Spanish. Instead, you say 'He is' → 'Él es'. At the beginning stage of learning Spanish, word-for-word translations are often possible, but it’s important to recognize grammatical agreements like conjugation.",
+			"imageCredit": "https://www.wanderlustspanish.com/blog/the-letters-of-the-spanish-alphabet/",
+			"trivia": [
+				"Did you know that Spanish has conjugations just like English?",
+				"Did you know that CH, LL, and RR are considered digraphs, not letters, in Spanish?",
+				"Did you know that the Spanish alphabet originates from the Latin alphabet?"
+			]
 		},
 		{
-			"longDescription": "Learn best practices for managing user access and permissions within your Roku channel ecosystem, ensuring security and control.",
-			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/gothgirl.jpg",
-			"releaseDate": "2020-01-20",
+			"id": "lesson-spanish-countries-text",
+			"title": "Spanish Speaking Countries Lesson",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over the countries that speak spanish.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/vietnamese%20listening%20quiz%20thumbnails/65.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
-				"demo"
+				"tips"
+			]
+	
+		},
+		{
+			"id": "lesson-basic-verb-conjugation-text",
+			"title": "Basic Spanish Verb Conjugation Lesson",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over conjugation of basic verbs.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/vietnamese%20listening%20quiz%20thumbnails/66.png",
+			"genres": [
+				"educational"
 			],
-			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
-			"shortDescription": "Manage user access and permissions effectively.",
-			"title": "Managing user access",
-			"content": {
-				"duration": 576,
-				"videos": [
-					{
-						"videoType": "HLS",
-						"url": "https://ovp-selector.sr.roku.com/v1/0c18bf4e-b295-437c-badb-3a171a1b52aa?format=hls",
-						"quality": "HD"
-					}
-				],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
+			"tags": [
+				"tips"
+			]
+		},
+		{
+			"id": "lesson-food-related-text",
+			"title": "Spanish Food and Related Verbs Lesson",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over food and things related to it.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/vietnamese%20listening%20quiz%20thumbnails/67.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			]
+
+		},
+		{
+			"id": "lesson-house-related-text",
+			"title": "Spanish House Items and Related Verbs Lesson",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "This lesson will go over things around the house and verbs related to it.",
+			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/vietnamese%20listening%20quiz%20thumbnails/68.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			]
+
 		}
 	]
+
 }
+
