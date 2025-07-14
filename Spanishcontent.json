@@ -269,7 +269,6 @@
 				"demo"
 			],
 			"id": "quiz-spanish-alphabet",
-			"shortDescription": "Test your knowledge on the basics of the Spanish alphabet.",
 			"title": "Spanish Alphabet Quiz",
 			"quizinfo": [
 				{
@@ -327,7 +326,6 @@
 				"demo"
 			],
 			"id": "quiz-spanish-countries",
-			"shortDescription": "Test your knowledge on the different spanish speaking countries.",
 			"title": "Spanish Speaking Countries Quiz",
 			"quizinfo": [
 				{
@@ -384,7 +382,6 @@
 				"demo"
 			],
 			"id": "quiz-basic-verb-conjugations",
-			"shortDescription": "Test your knowledge on the basic verb conjugations.",
 			"title": "Basic Verb Conjugations Quiz",
 			"quizinfo": [
 				{
@@ -442,7 +439,6 @@
 				"demo"
 			],
 			"id": "quiz-food-verbs",
-			"shortDescription": "Test your knowledge on different foods and related verbs.",
 			"title": "Food and Related Verbs Quiz",
 			"quizinfo": [
 				{
@@ -500,7 +496,6 @@
 				"demo"
 			],
 			"id": "quiz-house-verbs",
-			"shortDescription": "Test your knowledge about things around the house and related verbs.",
 			"title": "House and Related Verbs Quiz",
 			"quizinfo": [
 				{
@@ -548,13 +543,12 @@
 			]
 		}
 	],
-
 	"Listening Quiz": [
 		{
 			"id": "lesson-spanish-alphabet-text",
 			"title": "Spanish Alphabet Basics",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
+			"shortDescription": "Test your knowledge on the basics of the Spanish alphabet.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/69.png",
 			"genres": [
 				"educational"
@@ -562,73 +556,348 @@
 			"tags": [
 				"tips"
 			],
-			"lessonTitle": "Lesson 1: Basic Words and Pronouns",
-			"lessonReleaseDate": "2025-06-01",
-			"lessonGenres": ["educational"],
-			"lessonTags": ["beginner", "vocabulary"],
-			"lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson1image.jpg",
-			"description": "In this lesson you learn about the fundamentals of Spanish where you learn the alphabet as well as basic Spanish phrases and sentences. The Spanish alphabet contains 27 letters. It has one more letter than the English alphabet—Ñ. Each letter is pronounced very differently, where each pronunciation is shown in the referenced image.\n\nSpanish shares many familiar words with English: 'I' is 'yo', 'in' is 'en', 'is' is 'es', and 'am' is 'soy'. Other core vocabulary includes 'he' (él), 'she' (ella), and 'Spanish' (español). These words combine similarly to English. For example, 'I am in Spanish' translates word-for-word as 'Yo soy en español'.\n\nHowever, Spanish uses verb conjugation rules, so just like 'he am' is incorrect in English, 'Él soy' is incorrect in Spanish. Instead, you say 'He is' → 'Él es'. At the beginning stage of learning Spanish, word-for-word translations are often possible, but it’s important to recognize grammatical agreements like conjugation.",
-			"imageCredit": "https://www.wanderlustspanish.com/blog/the-letters-of-the-spanish-alphabet/",
-			"trivia": [
-				"Did you know that Spanish has conjugations just like English?",
-				"Did you know that CH, LL, and RR are considered digraphs, not letters, in Spanish?",
-				"Did you know that the Spanish alphabet originates from the Latin alphabet?"
+			"lquizinfo":[
+				{
+					"question": "l1q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l1q2",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l1q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l1q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l1q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l1q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l1q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				}
 			]
 		},
 		{
 			"id": "lesson-spanish-countries-text",
 			"title": "Spanish Speaking Countries Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "This lesson will go over the countries that speak spanish.",
+			"shortDescription": "Test your knowledge on the different spanish speaking countries",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/70.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
 				"tips"
+			],
+			"lquizinfo":[
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q2",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				}
 			]
-	
 		},
 		{
 			"id": "lesson-basic-verb-conjugation-text",
 			"title": "Basic Spanish Verb Conjugation Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "This lesson will go over conjugation of basic verbs.",
+			"shortDescription": "Test your knowledge on the basic verb conjugations.",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/71.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
 				"tips"
+			],
+			"lquizinfo":[
+				{
+					"question": "l3q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q2",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				}
 			]
 		},
 		{
 			"id": "lesson-food-related-text",
 			"title": "Spanish Food and Related Verbs Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "This lesson will go over food and things related to it.",
+			"shortDescription": "Test your knowledge on different foods and related verbs",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/72.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
 				"tips"
+			],
+			"lquizinfo":[
+				{
+					"question": "l4q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l1q2",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l1q3",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l1q3",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l1q3",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l1q3",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l1q3",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				}
 			]
-
 		},
 		{
 			"id": "lesson-house-related-text",
 			"title": "Spanish House Items and Related Verbs Lesson",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "This lesson will go over things around the house and verbs related to it.",
+			"shortDescription": "Test your knowledge about things around the house and related verbs",
 			"thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/73.png",
 			"genres": [
 				"educational"
 			],
 			"tags": [
 				"RSG"
+			],
+			"lquizinfo":[
+				{
+					"question": "l5q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q2",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q3",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				},
+				{
+					"question": "l2q1",
+					"options": ["he", "she", "I", "they"],
+					"answer": "I",
+					"answered": false,
+					"questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
+					"answersaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+				}
 			]
-
 		}
 	]
 
