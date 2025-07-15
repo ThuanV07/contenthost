@@ -618,7 +618,7 @@
           "optionsaudio": "https://audio.jukehost.co.uk/4s02G4IDk1Sf8k6H3wvSXilOssfanmL3"
         },
         {
-          "question": "Which is the only African country that speaks Spanish?",
+          "question": "Listen to the audio and select the correct choice",
           "options": ["Equatorial Guinea", "Madagascar", "Egypt", "Chad"],
           "answer": "Equatorial Guinea",
           "answered": false,
@@ -704,7 +704,7 @@
       "tags": ["tips"],
       "quizinfo": [
         {
-          "question": "Listen to the audio and select the correct choice for 'to eat'?",
+          "question": "Listen to the audio and select the correct choice",
           "options": ["comer", "beber", "tener", "ir"],
           "answer": "comer",
           "answered": false,
@@ -712,7 +712,7 @@
           "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
         },
         {
-          "question": "Listen to the audio and select the correct choice for 'to drink'?",
+          "question": "Listen to the audio and select the correct choice",
           "options": ["comer", "beber", "tener", "ir"],
           "answer": "beber",
           "answered": false,
@@ -720,7 +720,7 @@
           "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
         },
         {
-          "question": "Listen to the audio and select the correct choice for 'milk'?",
+          "question": "Listen to the audio and select the correct choice",
           "options": ["leche", "agua", "hamburguesa", "manzanas"],
           "answer": "leche",
           "answered": false,
@@ -728,7 +728,7 @@
           "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
         },
         {
-          "question": "Listen to the audio and select the correct choice for 'water'?",
+          "question": "Listen to the audio and select the correct choice",
           "options": ["leche", "agua", "hamburguesa", "manzanas"],
           "answer": "agua",
           "answered": false,
@@ -736,7 +736,7 @@
           "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
         },
         {
-          "question": "Listen to the audio and select the correct choice for 'apple'?",
+          "question": "Listen to the audio and select the correct choice",
           "options": ["leche", "agua", "hamburguesa", "manzanas"],
           "answer": "manzanas",
           "answered": false,
@@ -744,7 +744,7 @@
           "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
         },
         {
-          "question": "Listen to the audio and select the correct choice for 'hamburger'?",
+          "question": "Listen to the audio and select the correct choice",
           "options": ["milk", "water", "hamburger", "apple"],
           "answer": "hamburger",
           "answered": false,
@@ -752,7 +752,7 @@
           "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
         },
         {
-          "question": "Listen to the audio and select the correct choice for 'water'?",
+          "question": "Listen to the audio and select the correct choice",
           "options": ["milk", "water", "hamburger", "apple"],
           "answer": "water",
           "answered": false,
