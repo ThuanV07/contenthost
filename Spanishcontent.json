@@ -17,6 +17,8 @@
           {
             "videoType": "MP4",
             "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/spanishalphabetvideo.mp4",
+            "credit": "Edulus Edu"
+            "source": "https://www.youtube.com/watch?v=dlazjKbt40Q"
             "quality": "HD"
           }
         ],
@@ -37,7 +39,9 @@
         "videos": [
           {
             "videoType": "MP4",
-            "url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
+            "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/spanishspeakingcountries.mp4",
+            "credit": "Infinity Fun"
+            "source": "https://www.youtube.com/watch?v=6eXSNAcGXrU"
             "quality": "HD"
           }
         ],
@@ -58,7 +62,9 @@
         "videos": [
           {
             "videoType": "MP4",
-            "url": "https://rr4---sn-o097znzr.googlevideo.com/videoplayback?expire=1752589049&ei=mQ52aISvGZWLsfIP576k4Qg&ip=23.26.94.116&id=o-AOpf-L59EC9MX-gNg1XOzN3LB5olJCahD3x17z_MdBxm&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&ctier=L&bui=AY1jyLNF9YwbVHONLYp1saqb8geV93PU7_beY7Sf5vbRtMxjOh-GQzahYA32aOoMpDGIOcuIQSsy7Y_T&spc=l3OVKUcIxiI9yxgbFOwopB2QRzdu6HLwuuK6hBBR-P6mfKNKweQc4p67GZv7VagSKQ&vprv=1&svpuc=1&xtags=heaudio%3Dtrue&mime=video%2Fmp4&ns=fg4fpwKnvzWlCmNLObgdJkcQ&rqh=1&cnr=14&ratebypass=yes&dur=190.124&lmt=1741084908379981&lmw=1&c=TVHTML5&sefc=1&txp=5309224&n=Hx6fJxApD4OSww&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cctier%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cxtags%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAMczYNxqiwrUR57ha3son8xNLwQMSc8pJnlbUZlWsbrFAiEAnR6FOdwwWQUhcAuwih1dw85fYdScZo8nolnGNe_Zwo8%3D&rm=sn-pouxbg5-naje7e,sn-o09sr7z&rrc=79,104&fexp=24350590,24350737,24350827,24350961,24351316,24351318,24351528,24351907,24352220,24352297,24352299,24352309,24352311,24352334,24352336,24352402,24352404,24352452,24352454,24352457,24352460,24352466,24352468,24352517,24352519,24352535,24352537,24352559,24352568,24352573,24352574&req_id=25931140365da3ee&rms=rdu,au&redirect_counter=2&cms_redirect=yes&cmsv=e&ipbypass=yes&met=1752567455,&mh=fj&mip=2601:646:a200:1285:e955:edd3:110d:51fe&mm=29&mn=sn-o097znzr&ms=rdu&mt=1752567198&mv=m&mvi=4&pl=48&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRQIgJm6j4m0kg3zzrryv9_xwG5qMLDmpu8CrEacWYlYlniYCIQDo10ZalnTY43wKF0TcsJFqZ4h6X1FnHB-8aUsfLKJCeA%3D%3D",
+            "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/conjugations.mp4"
+            "credit": "Lingo Learner"
+            "source": "https://www.youtube.com/watch?v=hfWcAgihqVw&t=3s"
             "quality": "HD"
           }
         ],
@@ -78,8 +84,10 @@
         "duration": 120,
         "videos": [
           {
-            "videoType": "DASH",
-            "url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
+            "videoType": "MP4",
+            "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/foodspanish.mp4",
+            "credit": "Spanish Mastery"
+            "source": "https://www.youtube.com/watch?v=ZoziDfm0f0s&t=90s"
             "quality": "HD"
           }
         ],
@@ -100,7 +108,9 @@
         "videos": [
           {
             "videoType": "MP4",
-            "url": "https://image.roku.com/ZHZscHIt176/roku-voice-demo-v4.mp4",
+            "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/thingsaroundthehouse.mp4",
+            "credit": "Learn English with Bob the Canadian"
+            "source": "https://www.youtube.com/watch?v=WHYMGNbPv2U&t=1s"
             "quality": "HD"
           }
         ],
