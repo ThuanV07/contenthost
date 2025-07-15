@@ -484,339 +484,335 @@
   ],
   "Listening Quiz": [
     {
-      "id": "lesson-spanish-alphabet-text",
-      "title": "Spanish Alphabet Basics",
-      "releaseDate": "2020-03-15T02:01:00+02:00",
-      "shortDescription": "Test your knowledge on the basics of the Spanish alphabet.",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/Spanish%20listening%20quiz%20thumbnails/69.png",
+      "id": "quiz-1-listening",
+      "title": "Vietnamese Basics Quiz 1",
+      "shortDescription": "Test your knowledge of basic Vietnamese words and pronouns.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/vietnamese%20listening%20quiz%20thumbnails/64.png",
       "genres": ["educational"],
-      "tags": ["tips"],
+      "tags": ["beginner", "vocabulary"],
       "quizinfo": [
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["yo", "en", "soy", "es"],
-          "answer": "yo",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/1nPKc8HNUKvDFEULmrf2OfOv87uRyuJx",
+          "options": ["You", "I", "He", "She"],
+          "optionsaudio": "https://audio.jukehost.co.uk/MDimdjximdvquOxiHLa9VhS2gfRqlVhC",
+          "answer": "I",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["yo", "en", "soy", "es"],
-          "answer": "soy",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/YY14UvUEqcNXhqaoLN80PAhUi46wjM0O",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/kd3WbCwh9Vv6p1W9cRa9tiEwqFAxBhZQ",
+          "options": ["Am/Is/Are", "In", "And", "Not"],
+          "optionsaudio": "https://audio.jukehost.co.uk/hobU4Ezbd7MhwHjXVs1PecBDxEr7XyE2",
+          "answer": "Am/Is/Are",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["yo", "en", "soy", "es"],
-          "answer": "es",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/8tMyk6ABlmXzowT48tnkqlZiu2DyHbon",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/slk5eKHNi1FHMMZUwCaKFgsz2dNeH6h6",
+          "options": ["On", "In", "Under", "With"],
+          "optionsaudio": "https://audio.jukehost.co.uk/4aEd8KiGcUH3W2Fuh27XRepIZLgnbiqN",
+          "answer": "In",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["yo", "en", "soy", "es"],
-          "answer": "en",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/cd6QHUgfmg731YUEPjdjj1NTqgVnxIMF",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/YqoG9h6N4FDxK5uZORRtGwYlJzMO9eMj",
+          "options": ["English", "French", "Vietnamese", "Korean"],
+          "optionsaudio": "https://audio.jukehost.co.uk/Zgz1JaJtQ7paeFDKHpvgPdLSyqv7f3Aq",
+          "answer": "Vietnamese",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["el", "español", "ella", "yo"],
-          "answer": "yo",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/r4m3TMj7TE2uZuTFadhHT1MYvw5ibPgZ",
-          "optionsaudio": "https://audio.jukehost.co.uk/YZhTtY0Mt7YCYLBsTI2HCyZElQDFij3J"
+          "questionaudio": "https://audio.jukehost.co.uk/QRcOanVbKMDabzLBYXrY4KC497FiAtjK",
+          "options": ["She", "It", "He", "We"],
+          "optionsaudio": "https://audio.jukehost.co.uk/IQRUlKio0NWPFA1pKdNicKOwwseLoyiM",
+          "answer": "He",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["el", "español", "ella", "yo"],
-          "answer": "ella",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/MhuAuUTAh1elRhKY2dM9WVsHEO8UvuVj",
-          "optionsaudio": "https://audio.jukehost.co.uk/YZhTtY0Mt7YCYLBsTI2HCyZElQDFij3J"
+          "questionaudio": "https://audio.jukehost.co.uk/3DQZnhlCH80tmspG1EjTXLYuyGS6Nvz8",
+          "options": ["He", "She", "They", "You"],
+          "optionsaudio": "https://audio.jukehost.co.uk/6Wp4jZviflkEEdK8JPJLdbBdw2UIv2OF",
+          "answer": "She",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["el", "español", "ella", "yo"],
-          "answer": "el",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/YODimrQLbZYaV5yqa1Xpl2PUT6NAQCbl",
-          "optionsaudio": "https://audio.jukehost.co.uk/YZhTtY0Mt7YCYLBsTI2HCyZElQDFij3J"
+          "questionaudio": "https://audio.jukehost.co.uk/5XZz7lU1AhJ9M8ivujSA7zODM1zt37tB",
+          "options": ["Tôi là người Anh", "Tôi là người Mỹ", "Tôi là người Việt Nam", "Tôi là người Pháp"],
+          "optionsaudio": "https://audio.jukehost.co.uk/9zuu0b0020HahEjKHKVmvE4Aa62doYbs",
+          "answer": "Tôi là người Việt Nam",
+          "answered": false
         }
       ]
     },
     {
-      "id": "lesson-spanish-countries-text",
-      "title": "Spanish Speaking Countries Lesson",
-      "releaseDate": "2020-03-15T02:01:00+02:00",
-      "shortDescription": "Test your knowledge on the different spanish speaking countries",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/Spanish%20listening%20quiz%20thumbnails/70.png",
+      "id": "quiz-2-listening",
+      "title": "Vietnamese Greetings Quiz 2",
+      "shortDescription": "Test your knowledge of Vietnamese greetings and common phrases.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/vietnamese%20listening%20quiz%20thumbnails/65.png",
       "genres": ["educational"],
-      "tags": ["tips"],
+      "tags": ["beginner", "greetings"],
       "quizinfo": [
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["Portugal", "Mexico", "China", "Japan"],
-          "answer": "Mexico",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/ZkbvIS3cWnCcuh1xaumow8BlVDL4S0lL",
-          "optionsaudio": "https://audio.jukehost.co.uk/CdrLChWx7ZSZeEQdmJjeSIyRXd7NAIio"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Goodbye", "Hello", "Thank you", "Excuse me"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Hello",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["Spain", "Brazil", "India", "France"],
-          "answer": "Spain",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/ZkbvIS3cWnCcuh1xaumow8BlVDL4S0lL",
-          "optionsaudio": "https://audio.jukehost.co.uk/LRwiMAGIEt7yoMbWFYXmLzuKqltQGlcD"
+          "questionaudio": "https://audio.jukehost.co.uk/hcmZQ7n6ODNWSpZWSVM1ifiCc9BXqnRa",
+          "options": ["Bạn khỏe không?", "Bạn tên gì", "Bạn ở đâu?", "Bạn ăn chưa?"],
+          "optionsaudio": "https://audio.jukehost.co.uk/Ozk1meYial1FFHrV33STx25kZ6NshQ7D",
+          "answer": "Bạn tên gì",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["Venezuela", "Vietnam", "Russia", "Nigeria"],
-          "answer": "Venezuela",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/ZkbvIS3cWnCcuh1xaumow8BlVDL4S0lL",
-          "optionsaudio": "https://audio.jukehost.co.uk/tj3EueqEV5SYgTgHcRYhJptiGyM2qjLj"
+          "questionaudio": "https://audio.jukehost.co.uk/MpTO41KH1JaJkkImIwsTKPl4XcmPmAYG",
+          "options": ["Tên tôi là…", "Tôi tên là…", "Cả hai đều đúng", "Không có câu đúng"],
+          "optionsaudio": "https://audio.jukehost.co.uk/ufrlkwvG5KIFiYsrumiR4BFva1EI2iZ2",
+          "answer": "Tên tôi là…",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["Mexico", "Portugal", "Venezuela", "Spain"],
-          "answer": "Spain",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/LtV71shfXSPGaLx20S5T3wLGjkFQUgGk",
-          "optionsaudio": "https://audio.jukehost.co.uk/AhB5h6gWR2CUdRfSTs2UlyFTcJVbapya"
+          "questionaudio": "https://audio.jukehost.co.uk/Za0p4vNJXXnAnYzUHPS3TUSuqc96YWa1",
+          "options": ["Rất vui được gặp bạn", "Xin lỗi", "Cảm ơn", "Dạ thưa"],
+          "optionsaudio": "https://audio.jukehost.co.uk/uEtuvhXCapoOUBtEIBTm77ZkV6AU861u",
+          "answer": "Rất vui được gặp bạn",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["Columbia", "El Salvador", "Equatorial", "Guinea"],
-          "answer": "El Salvador",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/LtV71shfXSPGaLx20S5T3wLGjkFQUgGk",
-          "optionsaudio": "https://audio.jukehost.co.uk/D7xJYDuzo4vBgrR5TrJ1F8Ci0akzciom"
+          "questionaudio": "https://audio.jukehost.co.uk/BT3Ww02xPS4Q80xz0dxmgEbbiqpTqIzO",
+          "options": ["Hello", "Please", "Goodbye", "Sorry"],
+          "optionsaudio": "https://audio.jukehost.co.uk/hkBLlZX114gwSQ7abMpzpgOqm4lQprrm",
+          "answer": "Goodbye",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["Nicaragua", "Argentina", "Panama", "Singapore"],
-          "answer": "Nicaragua",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/LtV71shfXSPGaLx20S5T3wLGjkFQUgGk",
-          "optionsaudio": "https://audio.jukehost.co.uk/4s02G4IDk1Sf8k6H3wvSXilOssfanmL3"
+          "questionaudio": "https://audio.jukehost.co.uk/4fX9AE7SVAukuANrkGY1VWWVqAcet5fD",
+          "options": ["Chào em!", "Chào anh!", "Chào cô!", "Chào bạn!"],
+          "optionsaudio": "https://audio.jukehost.co.uk/Ld1XGjHjbWngIDu4fLEUE17vYlf6L02i",
+          "answer": "Chào cô!",
+          "answered": false
         },
         {
-          "question": "Which is the only African country that speaks Spanish?",
-          "options": ["Equatorial Guinea", "Madagascar", "Egypt", "Chad"],
-          "answer": "Equatorial Guinea",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/YaCr0K0cVyMjM1Ic9jNKLoVQouYl4pXo",
-          "optionsaudio": "https://audio.jukehost.co.uk/CU7YqsUo8PSOSqDmslCf53yCXHLFziKF"
+          "question": "Listen to the audio and select the correct choice",
+          "questionaudio": "https://audio.jukehost.co.uk/61jes9OVEMxMvlIEpsF6B8BDeBi66UX9",
+          "options": ["Bạn khỏe không?", "Bạn đang làm gì?", "Bạn đi đâu?", "Bạn muốn gì?"],
+          "optionsaudio": "https://audio.jukehost.co.uk/1syTFDP0RphUk4xg8Rzhglghnmz1o47t",
+          "answer": "Bạn khỏe không?",
+          "answered": false
         }
       ]
     },
     {
-      "id": "lesson-basic-verb-conjugation-text",
-      "title": "Basic Spanish Verb Conjugation Lesson",
-      "releaseDate": "2020-03-15T02:01:00+02:00",
-      "shortDescription": "Test your knowledge on the basic verb conjugations.",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/Spanish%20listening%20quiz%20thumbnails/71.png",
+      "id": "quiz-3-listening",
+      "title": "Vietnamese Grammar Quiz 3",
+      "shortDescription": "Test your knowledge of basic Vietnamese grammar, including verbs and tense indicators.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/vietnamese%20listening%20quiz%20thumbnails/66.png",
       "genres": ["educational"],
-      "tags": ["tips"],
+      "tags": ["grammar", "verbs", "tense"],
       "quizinfo": [
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["comer", "beber", "tener", "ir"],
-          "answer": "comer",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/r9g3w4RXJfVRYpQEH5QVMBwaDQtSdzFl",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Yes", "No"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "No",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["comer", "beber", "tener", "ir"],
-          "answer": "beber",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/U5wX9H8kRSlOQt7RiQr1X0kIMfkvnDwu",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Drink", "Eat", "Run", "Walk"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Eat",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["leche", "agua", "hamburguesa", "manzanas"],
-          "answer": "leche",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/8NYP2TdETiPdvXqUnMtnz5ZiSQY0Jjn1",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Bạn uống nước", "Tôi ăn cơm", "Họ đi học", "Anh ấy đọc sách"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Tôi ăn cơm",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["leche", "agua", "hamburguesa", "manzanas"],
-          "answer": "agua",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/Owje5EoCUkKOoHceVDNUpB62o4a6tGAx",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Sẽ", "Đã", "Đang", "Vẫn"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Đang",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["leche", "agua", "hamburguesa", "manzanas"],
-          "answer": "manzanas",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/D6dMBpx9gUBcGPbDS5KDtpQjP1QDjbCU",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Đang", "Sẽ", "Đã", "Khi"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Sẽ",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["milk", "water", "hamburger", "apple"],
-          "answer": "hamburger",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/7T8vT7GZBDprkHRK5KKpnu7UcKPyC0IH",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Chúng tôi ăn cơm", "Họ ăn cơm", "Bạn ăn cơm", "Anh ấy ăn cơm"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Họ ăn cơm",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["milk", "water", "hamburger", "apple"],
-          "answer": "water",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/GSFc1kZkclVwf55oRyn4fdiEbfCXYHAG",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Subject", "Time words/adverbs", "Articles", "Prepositions"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Time words/adverbs",
+          "answered": false
         }
       ]
     },
     {
-      "id": "lesson-food-related-text",
-      "title": "Spanish Food and Related Verbs Lesson",
-      "releaseDate": "2020-03-15T02:01:00+02:00",
-      "shortDescription": "Test your knowledge on different foods and related verbs",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/Spanish%20listening%20quiz%20thumbnails/72.png",
+      "id": "quiz-4-listening",
+      "title": "Vietnamese Food & Drink Quiz 4",
+      "shortDescription": "Test your knowledge of Vietnamese food and drink vocabulary.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/vietnamese%20listening%20quiz%20thumbnails/67.png",
       "genres": ["educational"],
-      "tags": ["tips"],
+      "tags": ["vocabulary", "food", "drinks"],
       "quizinfo": [
         {
-          "question": "Listen to the audio and select the correct choice for 'to eat'?",
-          "options": ["comer", "beber", "tener", "ir"],
-          "answer": "comer",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/r9g3w4RXJfVRYpQEH5QVMBwaDQtSdzFl",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "question": "Listen to the audio and select the correct choice",
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Milk", "Water", "Juice", "Soda"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Water",
+          "answered": false
         },
         {
-          "question": "Listen to the audio and select the correct choice for 'to drink'?",
-          "options": ["comer", "beber", "tener", "ir"],
-          "answer": "beber",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/U5wX9H8kRSlOQt7RiQr1X0kIMfkvnDwu",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "question": "Listen to the audio and select the correct choice",
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Water", "Milk", "Tea", "Coffee"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Milk",
+          "answered": false
         },
         {
-          "question": "Listen to the audio and select the correct choice for 'milk'?",
-          "options": ["leche", "agua", "hamburguesa", "manzanas"],
-          "answer": "leche",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/8NYP2TdETiPdvXqUnMtnz5ZiSQY0Jjn1",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "question": "Listen to the audio and select the correct choice",
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Orange", "Apple", "Banana", "Grape"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Apple",
+          "answered": false
         },
         {
-          "question": "Listen to the audio and select the correct choice for 'water'?",
-          "options": ["leche", "agua", "hamburguesa", "manzanas"],
-          "answer": "agua",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/Owje5EoCUkKOoHceVDNUpB62o4a6tGAx",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "question": "Listen to the audio and select the correct choice",
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Bread", "Rice", "Hamburger", "Sandwich"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Sandwich",
+          "answered": false
         },
         {
-          "question": "Listen to the audio and select the correct choice for 'apple'?",
-          "options": ["leche", "agua", "hamburguesa", "manzanas"],
-          "answer": "manzanas",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/D6dMBpx9gUBcGPbDS5KDtpQjP1QDjbCU",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "question": "Listen to the audio and select the correct choice",
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Tôi ăn bánh mì", "Tôi uống nước", "Tôi ăn táo", "Tôi uống sữa"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Tôi uống nước",
+          "answered": false
         },
         {
-          "question": "Listen to the audio and select the correct choice for 'hamburger'?",
-          "options": ["milk", "water", "hamburger", "apple"],
-          "answer": "hamburger",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/7T8vT7GZBDprkHRK5KKpnu7UcKPyC0IH",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "question": "Listen to the audio and select the correct choice",
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Tôi ăn táo", "Tôi uống nước", "Tôi ăn bánh mì", "Tôi uống sữa"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Tôi ăn táo",
+          "answered": false
         },
         {
-          "question": "Listen to the audio and select the correct choice for 'water'?",
-          "options": ["milk", "water", "hamburger", "apple"],
-          "answer": "water",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/GSFc1kZkclVwf55oRyn4fdiEbfCXYHAG",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "question": "Listen to the audio and select the correct choice",
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Ăn", "Uống", "Xem", "Đi"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Uống",
+          "answered": false
         }
       ]
     },
     {
-      "id": "lesson-house-related-text",
-      "title": "Spanish House Items and Related Verbs Lesson",
-      "releaseDate": "2020-03-15T02:01:00+02:00",
-      "shortDescription": "Test your knowledge about things around the house and related verbs",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/Spanish%20listening%20quiz%20thumbnails/73.png",
+      "id": "quiz-5-listening",
+      "title": "Vietnamese Household & Actions Quiz 5",
+      "shortDescription": "Test your knowledge of Vietnamese household items and related verbs.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/listeningquizthumbnails/vietnamese%20listening%20quiz%20thumbnails/68.png",
       "genres": ["educational"],
-      "tags": ["RSG"],
+      "tags": ["vocabulary", "household", "verbs"],
       "quizinfo": [
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["lavar", "limpiar", "mirar", "abrir"],
-          "answer": "limpiar",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/XioJRToeU5DbuYxhpHkXTa8RUaOdotHH",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Clean", "Wash", "Watch", "Open"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Wash",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["lavar", "limpiar", "mirar", "abrir"],
-          "answer": "abrir",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/cBb0HEzOF8DKFDMt6HACGVD3BpOXWCOO",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Wash", "Open", "Clean", "Drink"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Clean",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["lavar", "limpiar", "mirar", "abrir"],
-          "answer": "lavar",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/SAZxSQyEpB6MkZ3w6soUOuPK6SiDvzKv",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Watch", "Read", "Play", "Listen"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Watch",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["lavar", "limpiar", "mirar", "abrir"],
-          "answer": "mirar",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/rc5Fz1oEIDGQIfflbrEJ7ziaef0Eg0EL",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Close", "Open", "Lock", "Break"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Open",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["puerta", "platos", "peliculas", "cama"],
-          "answer": "puerta",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/sfLnfMiHwkNNZABQldqQZGWkGW7aQ7D1",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Window", "Door", "Chair", "Table"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Door",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["puerta", "platos", "peliculas", "cama"],
-          "answer": "platos",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/9CobdYbJv8iVh7ZqzHiscWTcEKdOxzDv",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Cup", "Plate", "Bowl", "Dish"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Dish",
+          "answered": false
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["puerta", "platos", "peliculas", "cama"],
-          "answer": "cama",
-          "answered": false,
-          "questionaudio": "https://audio.jukehost.co.uk/Ngcfx95ePUQLNRXqVMONzE9JKWf8ECS2",
-          "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
+          "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
+          "options": ["Tôi lau nhà", "Tôi mở cửa", "Tôi rửa chén", "Tôi xem phim"],
+          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
+          "answer": "Tôi rửa chén",
+          "answered": false
         }
       ]
     }
   ]
+}
 }
