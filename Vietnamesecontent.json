@@ -4,13 +4,13 @@
   "lastUpdated": "2020-03-15T02:01:00+02:00",
   "Videos": [
     {
-      "shortDescription": "This video goes over the basics of the Spanish alphabet and pronunciation",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/25.png",
+      "shortDescription": "This video goes over the basics of Vietnamese pronunciation.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/vietnamese%20video%2C%20reading%2C%20and%20lesson%20thumbnails/49.png",
       "releaseDate": "2020-01-15",
       "genres": ["educational"],
       "tags": ["getting-started"],
-      "id": "video-spanish-alphabet-pronunciation",
-      "title": "Spanish Alphabet & Pronunciation",
+      "id": "video-vietnamese-basics",
+      "title": "Vietnamese Basics",
       "content": {
         "duration": 100,
         "videos": [
@@ -25,13 +25,13 @@
       }
     },
     {
-      "shortDescription": "This video will go over the countries that speak spanish.",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/28.png",
+      "shortDescription": "This video will go over basic Vietnamese greetings.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/vietnamese%20video%2C%20reading%2C%20and%20lesson%20thumbnails/52.png",
       "releaseDate": "2020-01-15",
       "genres": ["educational"],
       "tags": ["getting-started"],
-      "id": "video-spanish-speaking-countries",
-      "title": "Spanish Speaking Countries",
+      "id": "video-vietnamese-greetings",
+      "title": "Vietnamese Greetings",
       "content": {
         "duration": 100,
         "videos": [
@@ -46,13 +46,13 @@
       }
     },
     {
-      "shortDescription": "This video will go over basic spanish conjugation of verbs",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/31.png",
+      "shortDescription": "This video will go over basic Vietnamese verb conjugation and tense indicators.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/vietnamese%20video%2C%20reading%2C%20and%20lesson%20thumbnails/55.png",
       "releaseDate": "2020-01-15",
       "genres": ["educational"],
       "tags": ["getting-started"],
-      "id": "video-spanish-verb-conjugation",
-      "title": "Basic Spanish Verb Conjugation",
+      "id": "video-vietnamese-grammar",
+      "title": "Vietnamese Grammar",
       "content": {
         "duration": 248,
         "videos": [
@@ -67,13 +67,13 @@
       }
     },
     {
-      "shortDescription": "This video will go over food and verbs related to it.",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/34.png",
+      "shortDescription": "This video will go over Vietnamese food and related verbs.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/vietnamese%20video%2C%20reading%2C%20and%20lesson%20thumbnails/60.png",
       "releaseDate": "2020-01-17",
       "genres": ["educational"],
       "tags": ["getting-started"],
-      "id": "video-spanish-food-verbs",
-      "title": "Spanish Food & Verbs",
+      "id": "video-vietnamese-food-drink",
+      "title": "Vietnamese Food & Drink",
       "content": {
         "duration": 120,
         "videos": [
@@ -88,13 +88,13 @@
       }
     },
     {
-      "shortDescription": "This video will go over things around the house and verbs related ",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/37.png",
+      "shortDescription": "This video will go over things around the house and related verbs in Vietnamese.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/vietnamese%20video%2C%20reading%2C%20and%20lesson%20thumbnails/63.png",
       "releaseDate": "2020-01-17",
       "genres": ["educational"],
       "tags": ["feature"],
-      "id": "video-spanish-house-verbs",
-      "title": "Spanish House & Verbs",
+      "id": "video-vietnamese-household-actions",
+      "title": "Vietnamese Household & Actions",
       "content": {
         "duration": 98,
         "videos": [
@@ -111,372 +111,368 @@
   ],
   "Lesson(Text Version)": [
     {
-      "id": "lesson-spanish-alphabet-text",
-      "title": "Spanish Alphabet Basics",
+      "id": "lesson-vietnamese-basic-vocabulary-text",
+      "title": "Basic Vietnamese Vocabulary",
       "releaseDate": "2020-03-15T02:01:00+02:00",
-      "shortDescription": "This Lesson goes over the basics of the Spanish alphabet and pronunciation.",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/26.png",
+      "shortDescription": "This lesson goes over essential Vietnamese words for simple sentences.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/vietnamese%20video%2C%20reading%2C%20and%20lesson%20thumbnails/50.png",
       "genres": ["educational"],
-      "tags": ["tips"],
-      "lessonTitle": "Lesson 1: Basic Words and Pronouns",
+      "tags": ["beginner", "vocabulary"],
+      "lessonTitle": "Lesson 1: Basic Vietnamese Vocabulary",
       "lessonReleaseDate": "2025-06-01",
       "lessonGenres": ["educational"],
       "lessonTags": ["beginner", "vocabulary"],
       "lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson1image.jpg",
-      "description": "In this lesson you learn about the basics of Spanish where you learn the alphabet as well as basic spanish phrases and sentences. The spanish alphabet contains 27 letters. It has one more letter than the English alphabet being Ñ. Each letter is pronounced very differently where each pronunciation is shown below. Spanish contains much of the same words as the English alphabet where I is yo, in is en, is is es, and am is soy. There are also some other common words such as he is el, she is ella, and spanish is espanol. When you combine these words, they combine just like the english alphabet so if you wanted to say “I am in spanish” you would just translate the words where you would say “Yo soy en espanol.” In Spanish there is also conjugation where you can’t say “El soy” in Spanish, which is very similar to English as people don’t say “he am”. However people do say “he is” where in spanish it translates the same where you would say “El es”. Almost everything in spanish translates the same from sentence to sentence at the beginning so when doing your translations make sure to do just translate each word as you go by.",
-      "imageCredit": "https://www.wanderlustspanish.com/blog/the-letters-of-the-spanish-alphabet/",
+      "description": "Vietnamese is a tonal language spoken primarily in Vietnam. In this first lesson, you’ll learn some essential words that will help you form simple sentences. The word for \"I\" or \"me\" is tôi , and it's commonly used in everyday speech. To say \"am,\" you use là when stating identity or describing something (e.g., “I am…”). The word \"trong\" means \"in\" and is often used to describe location. To say \"Vietnamese,\" say tiếng Việt. These basic words are crucial for building sentences like “I am Vietnamese,” which translates to “Tôi là người Việt Nam.”\nNow let’s practice putting these words together. For example, if you want to say “He is Vietnamese,” you would say “Anh ấy là người Việt Nam.” Similarly, to say “She is Vietnamese,” you’d use “Cô ấy là người Việt Nam.” As you can see, the structure is quite logical and easy to follow once you understand the meaning of each word. This foundation will allow you to create many other sentences using similar patterns. You can also substitute “người Việt Nam” with other nationalities to express different identities, such as “người Mỹ” for American or “người Anh” for British.",
+      "imageCredit": "https://flexiclasses.com/vietnamese-grammar-bank/vietnamese-pronouns/",
       "trivia": [
-        "Did you know that Spanish has conjugations just like English?",
-        "Did you know that CH, LL, and RR are considered digraphs, not letters, in Spanish?",
-        "Did you know that the Spanish alphabet originates from the Latin alphabet?"
+        "Did you know that \"tôi\" can mean both “I” and “me” in Vietnamese?",
+        "Did you know that Vietnamese has no gendered pronouns like “he” or “she” unless you're being specific?",
+        "Did you know that “tiếng” literally means “sound” but becomes “language” when combined with a country name?"
       ]
     },
     {
-      "id": "lesson-spanish-countries-text",
-      "title": "Spanish Speaking Countries Lesson",
+      "id": "lesson-vietnamese-greetings-introductions-text",
+      "title": "Greetings and Introductions",
       "releaseDate": "2020-03-15T02:01:00+02:00",
-      "shortDescription": "This lesson will go over the countries that speak spanish.",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/29.png",
+      "shortDescription": "This lesson teaches how to greet people and introduce yourself in Vietnamese.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/vietnamese%20video%2C%20reading%2C%20and%20lesson%20thumbnails/53.png",
       "genres": ["educational"],
-      "tags": ["tips"],
-      "lessonTitle": "Lesson 2: Spanish-Speaking Countries",
+      "tags": ["beginner", "greetings", "culture"],
+      "lessonTitle": "Lesson 2: Greetings and Introductions",
       "lessonReleaseDate": "2025-06-02",
       "lessonGenres": ["educational"],
-      "lessonTags": ["culture", "geography"],
+      "lessonTags": ["beginner", "greetings", "culture"],
       "lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson2image.png",
-      "description": "In this lesson you will learn about all the countries that speak Spanish in the world. In total there are 21 countries that have Spanish as their official language. In North America there are 10 countries that have Spanish as their official language. Within the continent 6 of them are in central america being Guatemala, El Salvador, Nicaragua, Costa Rica, Honduras, and Panama. 3 are in the Caribbean being Cuba, Dominican Republic, and Puerto Rico. The biggest one being Mexico resides right above the countries in central America. In South America there are 9 countries that have Spanish as their official language being Venezuela, Colombia, Ecuador, Peru, Bolivia Chile, Paraguay, Uruguay, and Argentina.",
-      "imageCredit": "https://spanishmama.com/spanish-speaking-countries-map-free-printable/",
+      "description": "In this lesson, you'll learn how to greet people and introduce yourself in Vietnamese. A common greeting is “Xin chào” , which means “Hello.” To ask someone’s name, you can say “Bạn tên gì?” which translates to “What is your name?” If you're introducing yourself, you might say “Tôi tên là [your name]” , meaning “My name is…”\nYou can make greetings more formal by using titles like “Anh” (for an older male), “Chị” (for an older female), or “Cô” (for a woman who is much older or in a position of respect). For example, “Chào chị!” means “Hello, older sister!” or “Chào cô!” means “Hello, ma’am!” These distinctions are important in Vietnamese culture, where showing respect through language is valued.\nWhen meeting someone new, it’s polite to smile and greet them warmly. You can add phrases like “Rất vui được gặp bạn” which means “Nice to meet you.” When ending a conversation, “Tạm biệt” means “Goodbye.” Learning these expressions will help you connect with native speakers and show cultural awareness. You can also adjust your tone depending on whether you're speaking to a friend, teacher, or elder.",
+      "imageCredit": "https://www.vietnamesepod101.com/blog/2019/06/20/how-to-introduce-yourself-in-vietnamese/",
       "trivia": [
-        "Did you know that 595 million people speak Spanish in the entire world?",
-        "Did you know that Spanish is the 4th most spoken language in the world?",
-        "Did you know that the United States has the second largest population of Spanish speakers in the world?"
+        "Did you know that Vietnamese use different forms of address based on age and gender to show respect?",
+        "Did you know that “Chào” alone can also mean “hi” or “hello” in informal settings?",
+        "Did you know that Vietnamese greetings often include body language like smiles and small bows?"
       ]
     },
     {
-      "id": "lesson-basic-verb-conjugation-text",
-      "title": "Basic Spanish Verb Conjugation Lesson",
+      "id": "lesson-vietnamese-verb-conjugation-basics-text",
+      "title": "Verb Conjugation Basics",
       "releaseDate": "2020-03-15T02:01:00+02:00",
-      "shortDescription": "This lesson will go over conjugation of basic verbs.",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/32.png",
+      "shortDescription": "This lesson explains how verbs work in Vietnamese, focusing on their unchanging forms.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/vietnamese%20video%2C%20reading%2C%20and%20lesson%20thumbnails/56.png",
       "genres": ["educational"],
-      "tags": ["tips"],
-      "lessonTitle": "Lesson 3: Verb Conjugation - AR, ER, IR",
+      "tags": ["grammar", "verbs", "tense"],
+      "lessonTitle": "Lesson 3: Verb Conjugation Basics",
       "lessonReleaseDate": "2025-06-03",
       "lessonGenres": ["educational"],
-      "lessonTags": ["grammar", "verbs", "conjugation"],
+      "lessonTags": ["grammar", "verbs", "tense"],
       "lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson3image.jpg",
-      "description": "In this lesson you will learn that there are conjugations in Spanish just like in english. In spanish there are 3 types of verbs that have different endings being AR, ER, and IR Verbs. When you use each one in a sentence, the ending changes depending on what the verb is subjected to you. For example if you wanted to say “I eat” in spanish, you would change the verb “Comer” in spanish to como, so it would be “Yo como.” In this lesson only present tense verbs will be discussed Some common verbs in spanish are ser (to be - permanent), estar (to be - temporary), tener (to have), hacer (to do/make), ir (to go), poder (to be able/can), saber (to know - facts), poner (to put), haber (to have - auxiliary/helping verb), querer (to want/love), decir (to say/tell), hablar (to speak), dar (to give), ver (to see), comer (to eat), tomar (to take/drink), vivir (to live), necesitar (to need), quedar (to stay/remain/be left), venir (to come). The only verbs that you need to know are hablar, comer, tomar, vivir, necesitar, and quedar. These verbs are the only verbs that don’t contain irregular verbs or verbs that don’t always directly follow the formula.",
-      "imageCredit": "https://quizlet.com/gb/657158889/conjugation-of-regular-ar-er-ir-verbs-and-irregular-verbs-hacer-ir-diagram/",
+      "description": "In Vietnamese, verbs don’t change form based on who is doing the action. Unlike Spanish, Vietnamese doesn't conjugate verbs for subject pronouns. For example, the verb “ăn” means both \"to eat\" and \"eats.\" So you can say “Tôi ăn cơm” (I eat rice), “Bạn ăn cơm” (You eat rice), and “Họ ăn cơm” (They eat rice), all using the same verb form.\nThis makes Vietnamese grammar simpler in some ways. However, time indicators are added to show tense. For example, “Tôi ăn cơm hôm qua” means “I ate rice yesterday,” while “Tôi sẽ ăn cơm tối nay” means “I will eat rice tonight.” Also, adverbs like đang (currently) or sẽ (will) help indicate tense without changing the verb itself. This system may feel different if you're used to conjugated verbs in languages like Spanish or French, but it actually simplifies sentence construction.\nBecause there’s no conjugation, learning new verbs becomes easier, you only need to memorize one form per verb. Once you know the base verb, you can use it with any subject or time frame by simply adding the appropriate adverb or time expression. This makes Vietnamese very consistent and predictable compared to many other languages.",
+      "imageCredit": "https://www.vietnamesepod101.com/blog/2020/08/25/vietnamese-verbs/",
       "trivia": [
-        "Did you know that Spanish has 16 distinct complete verb tenses?",
-        "Did you know that most Spanish verbs are conjugated irregularly?",
-        "Did you know that Spanish verbs are often used without an explicit subject?"
+        "Did you know that Vietnamese verbs never change form, no matter who is doing the action?",
+        "Did you know that instead of conjugating verbs, Vietnamese adds time markers like hôm qua (yesterday) or mai (tomorrow)?",
+        "Did you know that the same verb can be used for “eat,” “eats,” and “eating” in Vietnamese?"
       ]
     },
     {
-      "id": "lesson-food-related-text",
-      "title": "Spanish Food and Related Verbs Lesson",
+      "id": "lesson-vietnamese-food-vocabulary-text",
+      "title": "Common Nouns and Food Vocabulary",
       "releaseDate": "2020-03-15T02:01:00+02:00",
-      "shortDescription": "This lesson will go over food and things related to it.",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/35.png",
+      "shortDescription": "This lesson covers essential nouns and food-related words in Vietnamese.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/vietnamese%20video%2C%20reading%2C%20and%20lesson%20thumbnails/59.png",
       "genres": ["educational"],
-      "tags": ["tips"],
-      "lessonTitle": "Lesson 4: Food Vocabulary & Regular Verb Use – comer & beber",
+      "tags": ["vocabulary", "food", "drinks"],
+      "lessonTitle": "Lesson 4: Common Nouns and Food Vocabulary",
       "lessonReleaseDate": "2025-06-20",
       "lessonGenres": ["educational"],
-      "lessonTags": ["food", "vocabulary", "verbs", "Spanish"],
+      "lessonTags": ["vocabulary", "food", "drinks"],
       "lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/Lesson4image.jpg",
-      "description": "In this lesson we will be learning about food. In this lesson there are two verbs that correlate with eating. Those are comer and beber which both mean to eat and to drink and are regular verbs. There are a couple food vocab words that you will learn in this lesson which include leche (Milk), agua (water), hamburguesa (hamburger), manzana (apple). Just like how you conjugated with the verbs in the previous lesson you will do the exact same thing for here but just at the food at the end. For example “You eat hamburgers would be,” “Tu comes hamburguesas.” Some other food vocab words you can learn are pan (bread), arroz (rice), pollo (chicken), carne (meat), pescado (fish), huevo (egg), queso (cheese), plátano (banana), naranja (orange), fresa (strawberry), ensalada (salad), papas or patatas (potatoes), verduras (vegetables), tomate (tomato), cebolla (onion), ajo (garlic), frijoles (beans), sopa (soup), jugo or zumo (juice), refresco (soda), helado (ice cream), torta or pastel (cake), galleta (cookie).",
-      "imageCredit": "https://www.pinterest.com/pin/spanish-food-picture-notes-set--267823509067741360/",
+      "description": "In this lesson, we’ll learn some everyday nouns and food-related vocabulary. Knowing how to talk about what you eat is essential for daily conversations. Here are some key terms: nước means water, sữa means milk, táo means apple, hamburger is still hamburger , and bánh mì means sandwich. You can combine these words with verbs like ăn (to eat) and uống (to drink).\nFor example, to say “I drink water,” you’d say “Tôi uống nước.” To say “I eat apples,” you'd say “Tôi ăn táo.” And to translate “He eats hamburgers,” you'd say “Anh ấy ăn hamburger.” These structures mirror the ones we learned earlier, so they should feel familiar. Now, try practicing by creating your own sentences!\nThere are also many traditional Vietnamese dishes that you can describe using these words. For instance, phở is a popular noodle soup, and bún chả refers to grilled pork with noodles. By combining food items with verbs and subjects, you can build full descriptions of meals or preferences. Try saying “I like pho” – “Tôi thích phở.” This flexibility allows you to talk about food confidently even at the beginner level.",
+      "imageCredit": "https://x.com/VietnamesePod/status/1755018598458732748?lang=ar",
       "trivia": [
-        "Did you know that ceviche is so important to Peruvian culture that there's a holiday dedicated to it?",
-        "Did you know that tamales are traditionally made in large batches during Christmas and other Mexican celebrations?",
-        "Did you know that people in Argentina often eat locro, a hearty stew, on May 25th to honor the country’s revolution?"
+        "Did you know that bánh mì is considered one of the best street foods in the world?",
+        "Did you know that phở is pronounced like “fuh,” not like the letter F-O?",
+        "Did you know that Vietnamese borrowed many food words directly from French, like bánh mì ?"
       ]
     },
     {
-      "id": "lesson-house-related-text",
-      "title": "Spanish House Items and Related Verbs Lesson",
+      "id": "lesson-vietnamese-verbs-daily-actions-text",
+      "title": "Verbs and Daily Actions",
       "releaseDate": "2020-03-15T02:01:00+02:00",
-      "shortDescription": "This lesson will go over things around the house and verbs related to it.",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/38.png",
+      "shortDescription": "This lesson explores useful verbs for daily activities and household actions in Vietnamese.",
+      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/vietnamese%20video%2C%20reading%2C%20and%20lesson%20thumbnails/62.png",
       "genres": ["educational"],
-      "tags": ["RSG"],
-      "lessonTitle": "Lesson 5: Around the House – Vocabulary & Regular Verb Practice",
+      "tags": ["household", "vocabulary", "verbs"],
+      "lessonTitle": "Lesson 5: Verbs and Daily Actions",
       "lessonReleaseDate": "2025-06-20",
       "lessonGenres": ["educational"],
-      "lessonTags": ["household", "vocabulary", "verbs", "Spanish"],
+      "lessonTags": ["household", "vocabulary", "verbs"],
       "lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson5image.avif",
-      "description": "In this lesson we will be learning about stuff around the house. There are three main verbs that you need to know being, llavar (wash), limpiar (clean), mirar (watch), Abrir (open). In the house there are many items inside but there are only a couple that you need to know for this lesson being puerta (door), platos (plates), peliculas (movies), cama (bed). The sentence process is once again similar to the previous lessons where you use the verb with I or he or they and use the conjugation with the object in mind. All of these verbs are also regular verbs. Some other common household items around the house are, mesa (table), silla (chair), cama (bed), sofá (sofa/couch), ventana (window), pared (wall), techo (ceiling/roof), piso (floor), baño (bathroom), cocina (kitchen), refrigerador (refrigerator), microondas (microwave), horno (oven), lavaplatos (dishwasher), fregadero (sink), espejo (mirror), ducha (shower), inodoro (toilet), toalla (towel), televisor (TV), lámpara (lamp), alfombra (carpet/rug), cortina (curtain), cuadro (picture/frame), ropa (clothes), armario (closet), cajón (drawer), escoba (broom), aspiradora (vacuum cleaner).",
-      "imageCredit": "https://www.teacherspayteachers.com/Product/Spanish-House-Vocabulary-PICTURE-Notes-SET-592518",
+      "description": "Let’s explore more useful verbs related to daily activities. Rửa means to wash, lau means to clean, xem means to watch or look at, and mở means to open. These verbs are used frequently in daily life and can be combined with objects like cửa (door), chén (dish), and phim (movie). For example, “Tôi rửa chén” means “I wash dishes.”\nYou can also build sentences like “Tôi mở cửa” (I open the door) or “Anh ấy lau nhà” (He cleans the house). Remember, Vietnamese verbs remain the same regardless of the subject. Just add the correct object and subject to complete the sentence. Let’s practice forming sentences using these verbs!\nUsing these verbs, you can describe your routine or chores around the house. For example, “Tôi xem phim vào buổi tối” means “I watch movies in the evening,” and “Cô ấy mở cửa sổ” means “She opens the window.” Understanding how to pair verbs with objects will greatly improve your ability to communicate clearly in Vietnamese.",
+      "imageCredit": "https://www.vietnamesepod101.com/blog/2020/08/25/vietnamese-verbs/",
       "trivia": [
-        "Did you know that Spaniards have a famous saying, 'mi casa es tu casa' which means 'my house is your house'? It reflects the warm and welcoming nature of Spanish-speaking cultures.",
-        "Did you know that the Spanish word 'casa' comes from the Latin 'căsa,' which originally meant 'hut' or 'cottage'?",
-        "Did you know that many Spanish homes feature exterior roller blinds called 'persianas' to keep rooms cool and provide privacy?"
+        "Did you know that “rửa mặt” means “wash face” and is part of most people’s morning routines?",
+        "Did you know that “xem ti vi” is the common way to say “watch TV” in Vietnamese?",
+        "Did you know that “mở mắt” literally means “open eyes” and is used to describe waking up?"
       ]
     }
   ],
-"Reading Quiz": [
+  "Reading Quiz": [
     {
-      "shortDescription": "Test your knowledge on the basics of the Spanish alphabet",
+      "id": "quiz-vietnamese-basic-vocabulary",
+      "title": "Basic Vietnamese Vocabulary Quiz",
+      "shortDescription": "Test your knowledge of basic Vietnamese words and pronouns.",
       "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/34.png",
-      "releaseDate": "2020-01-20",
       "genres": ["educational"],
-      "tags": ["demo"],
-      "id": "quiz-spanish-alphabet",
-      "title": "Spanish Alphabet Quiz",
+      "tags": ["beginner", "vocabulary"],
       "quizinfo": [
         {
-          "question": "Which one means 'I'?",
-          "options": ["yo", "en", "soy", "es"],
-          "answer": "yo",
+          "question": "What does \"tôi\" mean?",
+          "options": ["You", "I", "He", "She"],
+          "answer": "I",
           "answered": false
         },
         {
-          "question": "Which one means 'am'?",
-          "options": ["yo", "en", "soy", "es"],
-          "answer": "soy",
+          "question": "What does \"là\" mean?",
+          "options": ["Am/Is/Are", "In", "And", "Not"],
+          "answer": "Am/Is/Are",
           "answered": false
         },
         {
-          "question": "Which one means 'is'?",
-          "options": ["yo", "en", "soy", "es"],
-          "answer": "es",
+          "question": "What does \"trong\" mean?",
+          "options": ["On", "In", "Under", "With"],
+          "answer": "In",
           "answered": false
         },
         {
-          "question": "Which one means 'in'?",
-          "options": ["yo", "en", "soy", "es"],
-          "answer": "en",
+          "question": "What does \"tiếng Việt\" mean?",
+          "options": ["English", "French", "Vietnamese", "Korean"],
+          "answer": "Vietnamese",
           "answered": false
         },
         {
-          "question": "Which one means 'Spanish'?",
-          "options": ["el", "espanol", "ella", "yo"],
-          "answer": "espanol",
+          "question": "What does \"anh ấy\" mean?",
+          "options": ["She", "It", "He", "We"],
+          "answer": "He",
           "answered": false
         },
         {
-          "question": "Which one means 'he'?",
-          "options": ["el", "espanol", "ella", "yo"],
-          "answer": "el",
+          "question": "What does \"cô ấy\" mean?",
+          "options": ["He", "She", "They", "You"],
+          "answer": "She",
           "answered": false
         },
         {
-          "question": "Which one means 'she'?",
-          "options": ["el", "espanol", "ella", "yo"],
-          "answer": "ella",
+          "question": "How do you say “I am Vietnamese”?",
+          "options": ["Tôi là người Anh", "Tôi là người Mỹ", "Tôi là người Việt Nam", "Tôi là người Pháp"],
+          "answer": "Tôi là người Việt Nam",
           "answered": false
         }
       ]
     },
     {
-      "shortDescription": "Test your knowledge on the different spanish speaking countries",
+      "id": "quiz-vietnamese-greetings-introductions",
+      "title": "Vietnamese Greetings & Introductions Quiz",
+      "shortDescription": "Test your knowledge of Vietnamese greetings and common introduction phrases.",
       "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/37.png",
-      "releaseDate": "2020-01-20",
       "genres": ["educational"],
-      "tags": ["demo"],
-      "id": "quiz-spanish-countries",
-      "title": "Spanish Speaking Countries Quiz",
+      "tags": ["beginner", "greetings", "introductions"],
       "quizinfo": [
         {
-          "question": "Which country speaks Spanish?",
-          "options": ["Portugal", "Mexico", "China", "Japan"],
-          "answer": "Mexico",
+          "question": "What does “Xin chào” mean?",
+          "options": ["Goodbye", "Hello", "Thank you", "Excuse me"],
+          "answer": "Hello",
           "answered": false
         },
         {
-          "question": "Which country speaks Spanish?",
-          "options": ["Spain", "Brazil", "India", "France"],
-          "answer": "Spain",
+          "question": "How do you say “What is your name”?",
+          "options": ["Bạn khỏe không?", "Bạn tên gì?", "Bạn ở đâu?", "Bạn ăn chưa?"],
+          "answer": "Bạn tên gì?",
           "answered": false
         },
         {
-          "question": "Which country speaks Spanish?",
-          "options": ["Venezuela", "Vietnam", "Russia", "Nigeria"],
-          "answer": "Venezuela",
+          "question": "How do you say “My name is…”?",
+          "options": ["Tên tôi là…", "Tôi tên là…", "Cả hai đều đúng", "Không có câu đúng"],
+          "answer": "Tôi tên là…",
           "answered": false
         },
         {
-          "question": "Which country doesn’t speak Spanish?",
-          "options": ["Mexico", "Portugal", "Venezuela", "Spain"],
-          "answer": "Portugal",
+          "question": "What is a way to say “Nice to meet you”?",
+          "options": ["Rất vui được gặp bạn", "Xin lỗi", "Cảm ơn", "Dạ thưa"],
+          "answer": "Rất vui được gặp bạn",
           "answered": false
         },
         {
-          "question": "Which country doesn’t speak Spanish?",
-          "options": ["Columbia", "El Salvador", "Equatorial Guinea", "Sweden"],
-          "answer": "Sweden",
+          "question": "What does “Tạm biệt” mean?",
+          "options": ["Hello", "Please", "Goodbye", "Sorry"],
+          "answer": "Goodbye",
           "answered": false
         },
         {
-          "question": "Which country doesn’t speak Spanish?",
-          "options": ["Nicaragua", "Argentina", "Panama", "Singapore"],
-          "answer": "Singapore",
+          "question": "Which phrase shows respect when greeting a woman who is much older?",
+          "options": ["Chào em!", "Chào anh!", "Chào cô!", "Chào bạn!"],
+          "answer": "Chào cô!",
           "answered": false
         },
         {
-          "question": "Which is the only African country that speaks Spanish?",
-          "options": ["Equatorial Guinea", "Madagascar", "Egypt", "Chad"],
-          "answer": "Equatorial Guinea"
+          "question": "Which phrase means “How are you?”",
+          "options": ["Bạn khỏe không?", "Bạn đang làm gì?", "Bạn đi đâu?", "Bạn muốn gì?"],
+          "answer": "Bạn khỏe không?",
+          "answered": false
         }
       ]
     },
     {
-      "shortDescription": "Test your knowledge on the basic verb conjugations.",
+      "id": "quiz-vietnamese-verb-conjugation-basics",
+      "title": "Vietnamese Verb Conjugation Basics Quiz",
+      "shortDescription": "Test your knowledge on Vietnamese verb structure and tense indicators.",
       "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/40.png",
-      "releaseDate": "2020-01-20",
       "genres": ["educational"],
-      "tags": ["demo"],
-      "id": "quiz-basic-verb-conjugations",
-      "title": "Basic Verb Conjugations Quiz",
+      "tags": ["grammar", "verbs", "tense"],
       "quizinfo": [
         {
-          "question": "What is the verb conjugation for 'I' with AR verbs?",
-          "options": ["a", "as", "amos", "o"],
-          "answer": "o",
+          "question": "Does Vietnamese conjugate verbs based on the subject?",
+          "options": ["Yes", "No"],
+          "answer": "No",
           "answered": false
         },
         {
-          "question": "What is the verb conjugation for 'you' with AR verbs?",
-          "options": ["a", "as", "amos", "o"],
-          "answer": "as",
+          "question": "What does “ăn” mean?",
+          "options": ["Drink", "Eat", "Run", "Walk"],
+          "answer": "Eat",
           "answered": false
         },
         {
-          "question": "What is the verb conjugation for 'he' with AR verbs?",
-          "options": ["a", "as", "amos", "o"],
-          "answer": "a",
+          "question": "How do you say “I eat rice”?",
+          "options": ["Bạn uống nước", "Tôi ăn cơm", "Họ đi học", "Anh ấy đọc sách"],
+          "answer": "Tôi ăn cơm",
           "answered": false
         },
         {
-          "question": "What is the verb conjugation for 'we' with AR verbs?",
-          "options": ["a", "as", "amos", "o"],
-          "answer": "amos",
+          "question": "What word means “currently” in Vietnamese?",
+          "options": ["Sẽ", "Đã", "Đang", "Vẫn"],
+          "answer": "Đang",
           "answered": false
         },
         {
-          "question": "What is the verb conjugation for 'you' with ER/IR verbs?",
-          "options": ["es", "an", "imos", "en"],
-          "answer": "es",
+          "question": "What word indicates future tense?",
+          "options": ["Đang", "Sẽ", "Đã", "Khi"],
+          "answer": "Sẽ",
           "answered": false
         },
         {
-          "question": "What is the verb conjugation for 'them' with ER/IR verbs?",
-          "options": ["e", "an", "imos", "en"],
-          "answer": "en",
+          "question": "How do you say “They eat rice”?",
+          "options": ["Chúng tôi ăn cơm", "Họ ăn cơm", "Bạn ăn cơm", "Anh ấy ăn cơm"],
+          "answer": "Họ ăn cơm",
           "answered": false
         },
         {
-          "question": "What is the verb conjugation for 'he' with ER/IR verbs?",
-          "options": ["e", "an", "imos", "en"],
-          "answer": "e",
+          "question": "What helps indicate tense in Vietnamese since verbs don’t change?",
+          "options": ["Subject", "Time words/adverbs", "Articles", "Prepositions"],
+          "answer": "Time words/adverbs",
           "answered": false
         }
       ]
     },
     {
-      "shortDescription": "Test your knowledge on different foods and related verbs",
+      "id": "quiz-vietnamese-food-vocabulary",
+      "title": "Vietnamese Food Vocabulary Quiz",
+      "shortDescription": "Test your knowledge on different Vietnamese foods and related verbs.",
       "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/43.png",
-      "releaseDate": "2020-01-20",
       "genres": ["educational"],
-      "tags": ["demo"],
-      "id": "quiz-food-verbs",
-      "title": "Food and Related Verbs Quiz",
+      "tags": ["vocabulary", "food", "drinks"],
       "quizinfo": [
         {
-          "question": "How do you say 'to eat' in Spanish?",
-          "options": ["comer", "beber", "tener", "ir"],
-          "answer": "comer",
+          "question": "What does “nước” mean?",
+          "options": ["Milk", "Water", "Juice", "Soda"],
+          "answer": "Water",
           "answered": false
         },
         {
-          "question": "How do you say 'to drink' in Spanish?",
-          "options": ["comer", "beber", "tener", "ir"],
-          "answer": "beber",
+          "question": "What does “sữa” mean?",
+          "options": ["Water", "Milk", "Tea", "Coffee"],
+          "answer": "Milk",
           "answered": false
         },
         {
-          "question": "How do you say 'milk' in Spanish?",
-          "options": ["leche", "agua", "hamburguesa", "manzanas"],
-          "answer": "leche",
+          "question": "What does “táo” mean?",
+          "options": ["Orange", "Apple", "Banana", "Grape"],
+          "answer": "Apple",
           "answered": false
         },
         {
-          "question": "How do you say 'water' in Spanish?",
-          "options": ["leche", "agua", "hamburguesa", "manzanas"],
-          "answer": "agua",
+          "question": "What does “bánh mì” mean?",
+          "options": ["Bread", "Rice", "Hamburger", "Sandwich"],
+          "answer": "Sandwich",
           "answered": false
         },
         {
-          "question": "How do you say 'apple' in Spanish?",
-          "options": ["leche", "agua", "hamburguesa", "manzanas"],
-          "answer": "manzanas",
+          "question": "How do you say “I drink water”?",
+          "options": ["Tôi ăn bánh mì", "Tôi uống nước", "Tôi ăn táo", "Tôi uống sữa"],
+          "answer": "Tôi uống nước",
           "answered": false
         },
         {
-          "question": "How do you say 'hamburguesa' in English?",
-          "options": ["milk", "water", "hamburger", "apple"],
-          "answer": "hamburger",
+          "question": "How do you say “I eat apples”?",
+          "options": ["Tôi ăn táo", "Tôi uống nước", "Tôi ăn bánh mì", "Tôi uống sữa"],
+          "answer": "Tôi ăn táo",
           "answered": false
         },
         {
-          "question": "How do you say 'agua' in English?",
-          "options": ["milk", "water", "hamburger", "apple"],
-          "answer": "water",
+          "question": "What is the verb for “to drink”?",
+          "options": ["Ăn", "Uống", "Xem", "Đi"],
+          "answer": "Uống",
           "answered": false
         }
       ]
     },
     {
-      "shortDescription": "Test your knowledge about things around the house and related verbs",
+      "id": "quiz-vietnamese-verbs-daily-actions",
+      "title": "Vietnamese Verbs and Daily Actions Quiz",
+      "shortDescription": "Test your knowledge about daily actions and related verbs in Vietnamese.",
       "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/46.png",
-      "releaseDate": "2020-01-20",
       "genres": ["educational"],
-      "tags": ["demo"],
-      "id": "quiz-house-verbs",
-      "title": "House and Related Verbs Quiz",
+      "tags": ["vocabulary", "household", "verbs"],
       "quizinfo": [
         {
-          "question": "How do you say 'to clean' in Spanish?",
-          "options": ["lavar", "limpiar", "mirar", "abrir"],
-          "answer": "limpiar",
+          "question": "What does “rửa” mean?",
+          "options": ["Clean", "Wash", "Watch", "Open"],
+          "answer": "Wash",
           "answered": false
         },
         {
-          "question": "How do you say 'to open' in Spanish?",
-          "options": ["lavar", "limpiar", "mirar", "abrir"],
-          "answer": "abrir",
+          "question": "What does “lau” mean?",
+          "options": ["Wash", "Open", "Clean", "Drink"],
+          "answer": "Clean",
           "answered": false
         },
         {
-          "question": "How do you say 'to wash' in Spanish?",
-          "options": ["lavar", "limpiar", "mirar", "abrir"],
-          "answer": "lavar",
+          "question": "What does “xem” mean?",
+          "options": ["Watch", "Read", "Play", "Listen"],
+          "answer": "Watch",
           "answered": false
         },
         {
-          "question": "How do you say 'to watch' in Spanish?",
-          "options": ["lavar", "limpiar", "mirar", "abrir"],
-          "answer": "mirar",
+          "question": "What does “mở” mean?",
+          "options": ["Close", "Open", "Lock", "Break"],
+          "answer": "Open",
           "answered": false
         },
         {
-          "question": "How do you say 'door' in Spanish?",
-          "options": ["puerta", "platos", "peliculas", "cama"],
-          "answer": "puerta",
+          "question": "What does “cửa” mean?",
+          "options": ["Window", "Door", "Chair", "Table"],
+          "answer": "Door",
           "answered": false
         },
         {
-          "question": "How do you say 'plates' in Spanish?",
-          "options": ["puerta", "platos", "peliculas", "cama"],
-          "answer": "platos",
+          "question": "What does “chén” mean?",
+          "options": ["Cup", "Plate", "Bowl", "Dish"],
+          "answer": "Dish",
           "answered": false
         },
         {
-          "question": "How do you say 'bed' in Spanish?",
-          "options": ["puerta", "platos", "peliculas", "cama"],
-          "answer": "cama",
+          "question": "How do you say “I wash dishes”?",
+          "options": ["Tôi lau nhà", "Tôi mở cửa", "Tôi rửa chén", "Tôi xem phim"],
+          "answer": "Tôi rửa chén",
           "answered": false
         }
       ]
@@ -543,7 +539,7 @@
           "question": "Listen to the audio and select the correct choice",
           "questionaudio": "https://audio.jukehost.co.uk/5XZz7lU1AhJ9M8ivujSA7zODM1zt37tB",
           "options": ["Tôi là người Anh", "Tôi là người Mỹ", "Tôi là người Việt Nam", "Tôi là người Pháp"],
-          "optionsaudio": "https://audio.jukehost.co.uk/9zuu0b0020HahEjKHKVmvE4Aa62doYbs",
+          "optionsaudio": "https://jukehost.co.uk/9zuu0b0020HahEjKHKVmvE4Aa62doYbs",
           "answer": "Tôi là người Việt Nam",
           "answered": false
         }
@@ -659,7 +655,6 @@
           "question": "Listen to the audio and select the correct choice",
           "questionaudio": "https://audio.jukehost.co.uk/aAC7n0TQ0lHnEq1Uhz4ISlE35n2Nrq6W",
           "options": ["Đang", "Sẽ", "Đã", "Khi"],
-          "optionsaudio": "https://audio.jukehost.co.uk/mdketfwIdqOcdPefialTPJ36n7JlZk9I",
           "answer": "Sẽ",
           "answered": false
         },
