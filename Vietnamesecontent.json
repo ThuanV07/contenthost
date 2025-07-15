@@ -16,7 +16,7 @@
         "videos": [
           {
             "videoType": "MP4",
-            "url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
+            "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/vietnamesevideo.mp4",
             "quality": "HD"
           }
         ],
@@ -78,7 +78,7 @@
         "duration": 120,
         "videos": [
           {
-            "videoType": "DASH",
+            "videoType": "MP4",
             "url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
             "quality": "HD"
           }
@@ -143,7 +143,7 @@
       "lessonReleaseDate": "2025-06-02",
       "lessonGenres": ["educational"],
       "lessonTags": ["beginner", "greetings", "culture"],
-      "lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/vietnameselesson2image.pngg",
+      "lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/vietnameselesson2image.png",
       "description": "In this lesson, you'll learn how to greet people and introduce yourself in Vietnamese. A common greeting is “Xin chào” , which means “Hello.” To ask someone’s name, you can say “Bạn tên gì?” which translates to “What is your name?” If you're introducing yourself, you might say “Tôi tên là [your name]” , meaning “My name is…”\nYou can make greetings more formal by using titles like “Anh” (for an older male), “Chị” (for an older female), or “Cô” (for a woman who is much older or in a position of respect). For example, “Chào chị!” means “Hello, older sister!” or “Chào cô!” means “Hello, ma’am!” These distinctions are important in Vietnamese culture, where showing respect through language is valued.\nWhen meeting someone new, it’s polite to smile and greet them warmly. You can add phrases like “Rất vui được gặp bạn” which means “Nice to meet you.” When ending a conversation, “Tạm biệt” means “Goodbye.” Learning these expressions will help you connect with native speakers and show cultural awareness. You can also adjust your tone depending on whether you're speaking to a friend, teacher, or elder.",
       "imageCredit": "https://www.vietnamesepod101.com/blog/2019/06/20/how-to-introduce-yourself-in-vietnamese/",
       "trivia": [
