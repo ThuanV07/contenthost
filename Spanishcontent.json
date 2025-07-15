@@ -216,7 +216,7 @@
       ]
     }
   ],
-  "Reading Quiz": [
+"Reading Quiz": [
     {
       "shortDescription": "Test your knowledge on the basics of the Spanish alphabet",
       "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/audio%20and%20readingquiz%20thumbnails/34.png",
@@ -228,43 +228,43 @@
       "quizinfo": [
         {
           "question": "Which one means 'I'?",
-          "options": ["Yo", "En", "es", "en"],
-          "answer": "Yo",
+          "options": ["yo", "en", "soy", "es"],
+          "answer": "yo",
           "answered": false
         },
         {
           "question": "Which one means 'am'?",
-          "options": ["Yo", "En", "soy", "es"],
+          "options": ["yo", "en", "soy", "es"],
           "answer": "soy",
           "answered": false
         },
         {
           "question": "Which one means 'is'?",
-          "options": ["Yo", "En", "soy", "es"],
+          "options": ["yo", "en", "soy", "es"],
           "answer": "es",
           "answered": false
         },
         {
           "question": "Which one means 'in'?",
-          "options": ["Yo", "En", "soy", "es"],
-          "answer": "En",
+          "options": ["yo", "en", "soy", "es"],
+          "answer": "en",
           "answered": false
         },
         {
           "question": "Which one means 'Spanish'?",
-          "options": ["el", "Espanol", "ella", "yo"],
-          "answer": "Espanol",
+          "options": ["el", "espanol", "ella", "yo"],
+          "answer": "espanol",
           "answered": false
         },
         {
           "question": "Which one means 'he'?",
-          "options": ["el", "Espanol", "ella", "yo"],
+          "options": ["el", "espanol", "ella", "yo"],
           "answer": "el",
           "answered": false
         },
         {
           "question": "Which one means 'she'?",
-          "options": ["el", "Espanol", "ella", "yo"],
+          "options": ["el", "espanol", "ella", "yo"],
           "answer": "ella",
           "answered": false
         }
@@ -494,32 +494,32 @@
       "quizinfo": [
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["Yo", "En", "Soy", "Es"],
-          "answer": "Yo",
+          "options": ["yo", "en", "soy", "es"],
+          "answer": "yo",
           "answered": false,
           "questionaudio": "https://audio.jukehost.co.uk/Ks2WZHiBYAE8AYYXgE1VuaTOhV7MgGVG",
           "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["Yo", "En", "Soy", "Es"],
-          "answer": "Soy",
+          "options": ["yo", "en", "soy", "es"],
+          "answer": "soy",
           "answered": false,
           "questionaudio": "https://audio.jukehost.co.uk/YY14UvUEqcNXhqaoLN80PAhUi46wjM0O",
           "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["Yo", "En", "Soy", "Es"],
-          "answer": "Es",
+          "options": ["yo", "en", "soy", "es"],
+          "answer": "es",
           "answered": false,
           "questionaudio": "https://audio.jukehost.co.uk/8tMyk6ABlmXzowT48tnkqlZiu2DyHbon",
           "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
         },
         {
           "question": "Listen to the audio and select the correct choice",
-          "options": ["Yo", "En", "Soy", "Es"],
-          "answer": "En",
+          "options": ["yo", "en", "soy", "es"],
+          "answer": "en",
           "answered": false,
           "questionaudio": "https://audio.jukehost.co.uk/cd6QHUgfmg731YUEPjdjj1NTqgVnxIMF",
           "optionsaudio": "https://audio.jukehost.co.uk/uiEkfssSN6VZ0k7mp0fC8hSzrBBwqTfN"
