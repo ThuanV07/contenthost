@@ -4,120 +4,120 @@
   "lastUpdated": "2020-03-15T02:01:00+02:00",
   "Videos": [
     {
-      "shortDescription": "This video goes over the basics of the Spanish alphabet and pronunciation",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/25.png",
-      "releaseDate": "2020-01-15",
-      "genres": ["educational"],
-      "tags": ["getting-started"],
-      "id": "video-spanish-alphabet-pronunciation",
-      "title": "Spanish Alphabet & Pronunciation",
-      "content": {
-        "duration": 100,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/spanishalphabetvideo.mp4",
-            "credit": "Edulus Edu"
-            "source": "https://www.youtube.com/watch?v=dlazjKbt40Q"
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": "2020-01-15T02:39:11Z"
-      }
-    },
-    {
-      "shortDescription": "This video will go over the countries that speak spanish.",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/28.png",
-      "releaseDate": "2020-01-15",
-      "genres": ["educational"],
-      "tags": ["getting-started"],
-      "id": "video-spanish-speaking-countries",
-      "title": "Spanish Speaking Countries",
-      "content": {
-        "duration": 100,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/spanishspeakingcountries.mp4",
-            "credit": "Infinity Fun"
-            "source": "https://www.youtube.com/watch?v=6eXSNAcGXrU"
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": "2020-01-15T02:39:11Z"
-      }
-    },
-    {
-      "shortDescription": "This video will go over basic spanish conjugation of verbs",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/31.png",
-      "releaseDate": "2020-01-15",
-      "genres": ["educational"],
-      "tags": ["getting-started"],
-      "id": "video-spanish-verb-conjugation",
-      "title": "Basic Spanish Verb Conjugation",
-      "content": {
-        "duration": 248,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/conjugations.mp4"
-            "credit": "Lingo Learner"
-            "source": "https://www.youtube.com/watch?v=hfWcAgihqVw&t=3s"
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": "2020-01-29T02:39:11Z"
-      }
-    },
-    {
-      "shortDescription": "This video will go over food and verbs related to it.",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/34.png",
-      "releaseDate": "2020-01-17",
-      "genres": ["educational"],
-      "tags": ["getting-started"],
-      "id": "video-spanish-food-verbs",
-      "title": "Spanish Food & Verbs",
-      "content": {
-        "duration": 120,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/foodspanish.mp4",
-            "credit": "Spanish Mastery"
-            "source": "https://www.youtube.com/watch?v=ZoziDfm0f0s&t=90s"
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": "2020-01-29T02:39:11Z"
-      }
-    },
-    {
-      "shortDescription": "This video will go over things around the house and verbs related ",
-      "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/37.png",
-      "releaseDate": "2020-01-17",
-      "genres": ["educational"],
-      "tags": ["feature"],
-      "id": "video-spanish-house-verbs",
-      "title": "Spanish House & Verbs",
-      "content": {
-        "duration": 98,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/thingsaroundthehouse.mp4",
-            "credit": "Learn English with Bob the Canadian"
-            "source": "https://www.youtube.com/watch?v=WHYMGNbPv2U&t=1s"
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": "2020-01-29T02:39:12Z"
-      }
+    "shortDescription": "This video goes over the basics of the Spanish alphabet and pronunciation",
+    "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/25.png",
+    "releaseDate": "2020-01-15",
+    "genres": ["educational"],
+    "tags": ["getting-started"],
+    "id": "video-spanish-alphabet-pronunciation",
+    "title": "Spanish Alphabet & Pronunciation",
+    "content": {
+      "duration": 100,
+      "videos": [
+        {
+          "videoType": "MP4",
+          "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/spanishalphabetvideo.mp4",
+          "credit": "Edulus Edu",
+          "source": "https://www.youtube.com/watch?v=dlazjKbt40Q",
+          "quality": "HD"
+        }
+      ],
+      "language": "en-us",
+      "dateAdded": "2020-01-15T02:39:11Z"
     }
+  },
+  {
+    "shortDescription": "This video will go over the countries that speak spanish.",
+    "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/28.png",
+    "releaseDate": "2020-01-15",
+    "genres": ["educational"],
+    "tags": ["getting-started"],
+    "id": "video-spanish-speaking-countries",
+    "title": "Spanish Speaking Countries",
+    "content": {
+      "duration": 100,
+      "videos": [
+        {
+          "videoType": "MP4",
+          "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/spanishspeakingcountries.mp4",
+          "credit": "Infinity Fun",
+          "source": "https://www.youtube.com/watch?v=6eXSNAcGXrU",
+          "quality": "HD"
+        }
+      ],
+      "language": "en-us",
+      "dateAdded": "2020-01-15T02:39:11Z"
+    }
+  },
+  {
+    "shortDescription": "This video will go over basic spanish conjugation of verbs",
+    "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/31.png",
+    "releaseDate": "2020-01-15",
+    "genres": ["educational"],
+    "tags": ["getting-started"],
+    "id": "video-spanish-verb-conjugation",
+    "title": "Basic Spanish Verb Conjugation",
+    "content": {
+      "duration": 248,
+      "videos": [
+        {
+          "videoType": "MP4",
+          "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/conjugations.mp4",
+          "credit": "Lingo Learner",
+          "source": "https://www.youtube.com/watch?v=hfWcAgihqVw&t=3s",
+          "quality": "HD"
+        }
+      ],
+      "language": "en-us",
+      "dateAdded": "2020-01-29T02:39:11Z"
+    }
+  },
+  {
+    "shortDescription": "This video will go over food and verbs related to it.",
+    "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/34.png",
+    "releaseDate": "2020-01-17",
+    "genres": ["educational"],
+    "tags": ["getting-started"],
+    "id": "video-spanish-food-verbs",
+    "title": "Spanish Food & Verbs",
+    "content": {
+      "duration": 120,
+      "videos": [
+        {
+          "videoType": "MP4",
+          "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/foodspanish.mp4",
+          "credit": "Spanish Mastery",
+          "source": "https://www.youtube.com/watch?v=ZoziDfm0f0s&t=90s",
+          "quality": "HD"
+        }
+      ],
+      "language": "en-us",
+      "dateAdded": "2020-01-29T02:39:11Z"
+    }
+  },
+  {
+    "shortDescription": "This video will go over things around the house and verbs related ",
+    "thumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/37.png",
+    "releaseDate": "2020-01-17",
+    "genres": ["educational"],
+    "tags": ["feature"],
+    "id": "video-spanish-house-verbs",
+    "title": "Spanish House & Verbs",
+    "content": {
+      "duration": 98,
+      "videos": [
+        {
+          "videoType": "MP4",
+          "url": "https://lessonvideosohio.s3.us-east-2.amazonaws.com/thingsaroundthehouse.mp4",
+          "credit": "Learn English with Bob the Canadian",
+          "source": "https://www.youtube.com/watch?v=WHYMGNbPv2U&t=1s",
+          "quality": "HD"
+        }
+      ],
+      "language": "en-us",
+      "dateAdded": "2020-01-29T02:39:12Z"
+    }
+  }
   ],
   "Lesson(Text Version)": [
     {
