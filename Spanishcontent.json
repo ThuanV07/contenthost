@@ -133,7 +133,7 @@
       "lessonGenres": ["educational"],
       "lessonTags": ["beginner", "vocabulary"],
       "lessonThumbnail": "https://raw.githubusercontent.com/ThuanV07/contenthost/refs/heads/main/images/All%20lesson%20thumbnails%20spanish%20version/lessonimages/lesson1image.jpg",
-      "description": "In this lesson you learn about the basics of Spanish where you learn the alphabet as well as basic spanish phrases and sentences. The spanish alphabet contains 27 letters. It has one more letter than the English alphabet being Ñ. Each letter is pronounced very differently where each pronunciation is shown below. Spanish contains much of the same words as the English alphabet where I is yo, in is en, is is es, and am is soy. There are also some other common words such as he is el, she is ella, and spanish is espanol. When you combine these words, they combine just like the english alphabet so if you wanted to say “I am in spanish” you would just translate the words where you would say “Yo soy en espanol.” In Spanish there is also conjugation where you can’t say “El soy” in Spanish, which is very similar to English as people don’t say “he am”. However people do say “he is” where in spanish it translates the same where you would say “El es”. Almost everything in spanish translates the same from sentence to sentence at the beginning so when doing your translations make sure to do just translate each word as you go by.",
+      "description": "In this lesson you learn about the basics of Spanish where you learn the alphabet as well as basic spanish phrases and sentences. The spanish alphabet contains 27 letters. It has one more letter than the English alphabet being Ñ. Each letter is pronounced very differently where each pronunciation is shown below. Spanish contains much of the same words as the English alphabet where I is yo, in is en, is is es, and am is soy. There are also some other common words such as he is el, she is ella, and Spanish is Español. When you combine these words, they combine just like the english alphabet so if you wanted to say “I am in spanish” you would just translate the words where you would say “Yo soy en Español.” In Spanish there is also conjugation where you can’t say “El soy” in Spanish, which is very similar to English as people don’t say “he am”. However people do say “he is” where in spanish it translates the same where you would say “El es”. Almost everything in spanish translates the same from sentence to sentence at the beginning so when doing your translations make sure to do just translate each word as you go by.",
       "imageCredit": "https://www.wanderlustspanish.com/blog/the-letters-of-the-spanish-alphabet/",
       "trivia": [
         "Did you know that Spanish has conjugations just like English?",
@@ -262,19 +262,19 @@
         },
         {
           "question": "Which one means 'Spanish'?",
-          "options": ["el", "espanol", "ella", "yo"],
-          "answer": "espanol",
+          "options": ["el", "Español", "ella", "yo"],
+          "answer": "Español",
           "answered": false
         },
         {
           "question": "Which one means 'he'?",
-          "options": ["el", "espanol", "ella", "yo"],
+          "options": ["el", "Español", "ella", "yo"],
           "answer": "el",
           "answered": false
         },
         {
           "question": "Which one means 'she'?",
-          "options": ["el", "espanol", "ella", "yo"],
+          "options": ["el", "Español", "ella", "yo"],
           "answer": "ella",
           "answered": false
         }
